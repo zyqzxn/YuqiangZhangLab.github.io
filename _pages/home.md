@@ -1,7 +1,7 @@
 ---
 title: "Zhu Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Zhu Lab at SUSTech."
 sitemap: false
 permalink: /
 ---
