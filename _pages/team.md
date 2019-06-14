@@ -10,7 +10,7 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new Research Assissants, PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for new Research Assissants, PhD students, Postdocs, and Master students to join the team** [(see Openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 {% assign number_printed = 0 %}
