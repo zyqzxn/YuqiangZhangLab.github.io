@@ -1,5 +1,6 @@
 - name: <a href="http://scholar.harvard.edu/leizhu/home">Lei Zhu (朱雷)</a>
   photo: Lei_Zhu.jpg
+  group_member: 1
   info: Group Leader, Assistant Professor, started Dec 2019
   email: leizhu AT fas DOT harvard DOT edu
   describ: Modeling, Remote Sensing
@@ -10,6 +11,7 @@
 
 - name: XXX YYY
   photo: Doohee2.jpg
+  group_member: 1
   info: Postdoc, started May 2017
   email: cho@physics.leidenuniv.nl
   describ: Student
@@ -21,6 +23,7 @@
 
 - name: "This could be you !"
   photo: You.jpg
+  group_member: 0  
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
   email: leizhu@fas.harvard.edu
   describ:
