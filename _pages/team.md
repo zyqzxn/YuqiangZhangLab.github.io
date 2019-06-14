@@ -28,6 +28,7 @@ permalink: /team/
   <i>{{ member.info }}<br>email: {{ member.email }}</i><br>
   <h5> </h5>
   Education/research experiences:<br>
+  <ul style="overflow: hidden">
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
@@ -57,6 +58,8 @@ permalink: /team/
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
+  
+   </ul>
 
   Research interests: {{ member.describ }}
 </div>
