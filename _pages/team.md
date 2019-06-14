@@ -27,7 +27,11 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: {{ member.email }}</i><br>
   <h5> </h5>
+  
+  {% if member.group_member == 1 %}
   Education/research experiences:<br>
+  {% endif %}
+  
   <ul style="overflow: hidden">
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
@@ -59,9 +63,12 @@ permalink: /team/
   <li> {{ member.education5 }} </li>
   {% endif %}
   
-   </ul>
-
+  </ul>
+  
+  {% if member.group_member == 1 %}
   Research interests: {{ member.describ }}
+  {% endif %}
+
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
