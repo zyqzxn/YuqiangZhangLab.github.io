@@ -14,10 +14,11 @@
   group_member: 1
   info: PhD Student, started Sep 2019
   email: test AT sustech DOT edu DOT cn
-  describ: Student
-  number_educ: 1
-  education1: B.S., 2019, FAKE University, China
-
+  describ: GEOS-Chem
+  number_educ: 2  
+  education1: MSci., 2019, FAKE2 University, China
+  education2: B.S., 2016, FAKE1 University, China
+  
 - name: "This could be you !"
   photo: You.jpg
   group_member: 0  
