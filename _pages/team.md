@@ -42,9 +42,9 @@ permalink: /team/
   {% endif %}
   
   {% if member.number_educ == 3 %}
-  {{ member.education1 }}<br>
-  {{ member.education2 }}<br>
-  {{ member.education3 }}<br>
+  -{{ member.education1 }}<br>
+  -{{ member.education2 }}<br>
+  -{{ member.education3 }}<br>
   {% endif %}
   
   {% if member.number_educ == 4 %}
