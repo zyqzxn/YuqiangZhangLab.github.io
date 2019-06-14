@@ -29,33 +29,33 @@ permalink: /team/
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
-  {{ member.education1 }}
+  {{ member.education1 }}<br>
   {% endif %}
 
   {% if member.number_educ == 2 %}
-  {{ member.education1 }}
-  {{ member.education2 }}
+  {{ member.education1 }}<br>
+  {{ member.education2 }}<br>
   {% endif %}
 
   {% if member.number_educ == 3 %}
-  {{ member.education1 }}
-  {{ member.education2 }}
-  {{ member.education3 }}
+  {{ member.education1 }}<br>
+  {{ member.education2 }}<br>
+  {{ member.education3 }}<br>
   {% endif %}
 
   {% if member.number_educ == 4 %}
-  {{ member.education1 }}
-  {{ member.education2 }}
-  {{ member.education3 }}
-  {{ member.education4 }}
+  {{ member.education1 }}<br>
+  {{ member.education2 }}<br>
+  {{ member.education3 }}<br>
+  {{ member.education4 }}<br>
   {% endif %}
 
   {% if member.number_educ == 5 %}
-  {{ member.education1 }}
-  {{ member.education2 }}
-  {{ member.education3 }}
-  {{ member.education4 }}
-  {{ member.education5 }}
+  {{ member.education1 }}<br>
+  {{ member.education2 }}<br>
+  {{ member.education3 }}<br>
+  {{ member.education4 }}<br>
+  {{ member.education5 }}<br>
   {% endif %}
 
   </ul>
