@@ -24,7 +24,7 @@
 - name: "This could be you !"
   photo: You.jpg
   group_member: 0  
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  info: See <a href="http://www.zhu-group.github.io/zhu-group/vacancies">Openings</a> for more info
   email: leizhu@fas.harvard.edu
   describ:
   number_educ: 0
