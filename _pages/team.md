@@ -31,8 +31,7 @@ permalink: /team/
   {% if member.group_member == 1 %}
   Education/research experiences:<br>
   {% endif %}
-  
-  <ul style="overflow: hidden">
+  <ul>
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
