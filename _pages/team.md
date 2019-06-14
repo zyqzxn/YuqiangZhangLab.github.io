@@ -31,16 +31,14 @@ permalink: /team/
   {% if member.group_member == 1 %}
   Education/research experiences:
   {% endif %}
-  
   {% if member.number_educ == 1 %}
   {{ member.education1 }}<br>
   {% endif %}
   {% if member.number_educ == 2 %}
-  {{ member.education1 }}<br>
+  - {{ member.education1 }}<br>
   
-  {{ member.education2 }}<br>
+  - {{ member.education2 }}<br>
   {% endif %}
-  
   {% if member.number_educ == 3 %}
   - {{ member.education1 }}<br>
   - {{ member.education2 }}<br>
