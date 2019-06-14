@@ -29,32 +29,37 @@ permalink: /team/
   <h5> </h5>
   
   {% if member.group_member == 1 %}
-  Education/research experiences:<br>
+  Education/research experiences:
   {% endif %}
+  
   {% if member.number_educ == 1 %}
   {{ member.education1 }}<br>
   {% endif %}
+  
   {% if member.number_educ == 2 %}
-    {{ member.education1 }}<br>
-    {{ member.education2 }}<br>
+  {{ member.education1 }}<br>
+  {{ member.education2 }}<br>
   {% endif %}
+  
   {% if member.number_educ == 3 %}
   {{ member.education1 }}<br>
   {{ member.education2 }}<br>
   {{ member.education3 }}<br>
   {% endif %}
+  
   {% if member.number_educ == 4 %}
-    {{ member.education1 }}<br>
-    {{ member.education2 }}<br>
-    {{ member.education3 }}<br>
-    {{ member.education4 }}<br>
+  {{ member.education1 }}<br>
+  {{ member.education2 }}<br>
+  {{ member.education3 }}<br>
+  {{ member.education4 }}<br>
   {% endif %}
+  
   {% if member.number_educ == 5 %}
-    {{ member.education1 }}<br>
-    {{ member.education2 }}<br>
-    {{ member.education3 }}<br>
-    {{ member.education4 }}<br>
-    {{ member.education5 }}<br>
+  {{ member.education1 }}<br>
+  {{ member.education2 }}<br>
+  {{ member.education3 }}<br>
+  {{ member.education4 }}<br>
+  {{ member.education5 }}<br>
   {% endif %}
   
   {% if member.group_member == 1 %}
