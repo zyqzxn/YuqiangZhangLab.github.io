@@ -5,21 +5,18 @@
   email: leizhu AT fas DOT harvard DOT edu
   describ: Modeling, Remote Sensing
   number_educ: 3
-  education1: Ph.D., 2016, Harvard University
-  education2: MSci., 2011, Peking University
-  education3: B.S., 2008, Nankai University
+  education1: Ph.D., 2016, Harvard University, USA
+  education2: MSci., 2011, Peking University, China
+  education3: B.S., 2008, Nankai University, China
 
 - name: XXX YYY
   photo: Doohee2.jpg
   group_member: 1
-  info: Postdoc, started May 2017
-  email: cho@physics.leidenuniv.nl
+  info: PhD Student, started Sep 2019
+  email: test AT sustech DOT edu DOT cn
   describ: Student
-  number_educ: 4
-  education1: B.S. Yonsei University, Korea
-  education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
-  education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
-  education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
+  number_educ: 1
+  education1: B.S., 2019, FAKE University, China
 
 - name: "This could be you !"
   photo: You.jpg
