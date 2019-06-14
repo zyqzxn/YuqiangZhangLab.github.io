@@ -10,7 +10,7 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new Research Assissants, Postdocs, PhD and Master students. We also welcome undergraduate students to join the team** [(see Openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are looking for new Research Assissants, Postdocs, PhD and Master students. We also welcome undergraduate students to join the group** [(see Openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 {% assign number_printed = 0 %}
@@ -35,16 +35,16 @@ permalink: /team/
   {% if member.number_educ == 1 %}
   {{ member.education1 }}<br>
   {% endif %}
-  
   {% if member.number_educ == 2 %}
   {{ member.education1 }}<br>
+  
   {{ member.education2 }}<br>
   {% endif %}
   
   {% if member.number_educ == 3 %}
-  -{{ member.education1 }}<br>
-  -{{ member.education2 }}<br>
-  -{{ member.education3 }}<br>
+  - {{ member.education1 }}<br>
+  - {{ member.education2 }}<br>
+  - {{ member.education3 }}<br>
   {% endif %}
   
   {% if member.number_educ == 4 %}
