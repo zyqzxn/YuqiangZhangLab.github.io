@@ -1,5 +1,5 @@
-# Zhu Group Website
+# Atmospheric Environment Research Group Website
 
-This is the website of our academic research group at SUSTech. This website is forked from http://www.allanlab.org, and powered by Jekyll and some Bootstrap, Bootwatch. 
+This is the website of our academic research group at SUSTech. This website is made with the template from http://www.allanlab.org, and powered by Jekyll. 
 
-Copyright Zhu Group. Code released under the MIT License.
+Copyright Atmospheric Environment Research Group. Code released under the MIT License.
