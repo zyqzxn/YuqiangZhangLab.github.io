@@ -59,6 +59,7 @@ permalink: /team/
   {% endif %}
 
   </ul>
+  Research interests: {{ member.describ }}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
