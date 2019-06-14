@@ -32,20 +32,19 @@ permalink: /team/
   Education/research experiences:<br>
   {% endif %}
   
-  <ul style="overflow: hidden">
   {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
+  - {{ member.education1 }}<br>
   {% endif %}
 
   {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
+  - {{ member.education1 }}<br>
+  - {{ member.education2 }}<br>
   {% endif %}
 
   {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
+  {{ member.education1 }}<br>
+  {{ member.education2 }}<br>
+  {{ member.education3 }}<br>
   {% endif %}
 
   {% if member.number_educ == 4 %}
@@ -62,8 +61,6 @@ permalink: /team/
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
-  
-  </ul>
   
   {% if member.group_member == 1 %}
   Research interests: {{ member.describ }}
