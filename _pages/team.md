@@ -6,8 +6,6 @@ sitemap: false
 permalink: /team/
 ---
 
-##
-
 # Group Members
 
  **We are looking for new Research Assissants, Postdocs, PhD and Master students. We also welcome undergraduate students to join the group** [(see Openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
