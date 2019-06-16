@@ -62,7 +62,7 @@ permalink: /team/
   </ul>
   
   {% if member.group_member == 1 %}
-  <p>{{ member.describ }}</p>
+  <p>{{ member.statement }} </p>
   {% endif %}
 
 </div>
