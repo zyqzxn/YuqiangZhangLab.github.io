@@ -5,8 +5,6 @@ excerpt: "Zhu Lab -- Pictures"
 permalink: /pictures/
 ---
 
-##
-
 # Pictures
 Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
 
