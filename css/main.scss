@@ -8,6 +8,11 @@ img { margin-bottom: 24px;
     border-radius:2%;
 }
 
+.navbar-default {
+  background-color: #ffffff !important;
+  border-color: #C5C1C0 !important;
+  border-bottom-width: thin;
+}
 
 body {
 	padding-top: 70px;
@@ -27,7 +32,7 @@ figcaption {
 p.byline {
 	text-align: left;
 	font-size: 18px;
-	line-height: 24px;
+	line-height: 36px;
 	margin-top: -24px;
 	margin-bottom: 48px;
 }
