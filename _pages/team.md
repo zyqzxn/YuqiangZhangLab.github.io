@@ -28,40 +28,38 @@ permalink: /team/
   <i>{{ member.info }}<br>email: {{ member.email }}</i><br>
   <h5> </h5>
   
-  {% if member.group_member == 1 %}
-  Education/research experiences:
-  {% endif %}
   {% if member.number_educ == 1 %}
-  {{ member.education1 }}<br>
+  <li> {{ member.education1 }} </li>
   {% endif %}
-  {% if member.number_educ == 2 %}
-  - {{ member.education1 }}<br>
   
-  - {{ member.education2 }}<br>
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
   {% endif %}
+  
   {% if member.number_educ == 3 %}
-  - {{ member.education1 }}<br>
-  - {{ member.education2 }}<br>
-  - {{ member.education3 }}<br>
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
   {% endif %}
   
   {% if member.number_educ == 4 %}
-  {{ member.education1 }}<br>
-  {{ member.education2 }}<br>
-  {{ member.education3 }}<br>
-  {{ member.education4 }}<br>
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
   {% endif %}
   
   {% if member.number_educ == 5 %}
-  {{ member.education1 }}<br>
-  {{ member.education2 }}<br>
-  {{ member.education3 }}<br>
-  {{ member.education4 }}<br>
-  {{ member.education5 }}<br>
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
   {% endif %}
   
   {% if member.group_member == 1 %}
-  Research interests: {{ member.describ }}
+  {{ member.describ }}
   {% endif %}
 
 </div>
