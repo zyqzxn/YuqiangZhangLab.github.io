@@ -6,8 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-##
-
 We are an atmospheric chemistry research group at the School of Enviroment at [SUSTech](http://www.physics.leidenuniv.nl). Our aim is to better understand the processes determining the distribution of reactive gases and aerosols, and their implications for air quality, public health, and climate.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
