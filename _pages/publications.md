@@ -6,8 +6,6 @@ sitemap: false
 permalink: /publications/
 ---
 
-##
-
 # Publications
 
 ## Highlights
