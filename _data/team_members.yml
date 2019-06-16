@@ -3,11 +3,13 @@
   group_member: 1
   info: Group Leader, Assistant Professor, started Dec 2019
   email: leizhu AT fas DOT harvard DOT edu
-  describ: Modeling, Remote Sensing
-  number_educ: 3
-  education1: Ph.D., 2016, Harvard University, USA
-  education2: MSci., 2011, Peking University, China
-  education3: B.S., 2008, Nankai University, China
+  describ: My research goal is to better understand the processes determining the distribution of reactive gases and aerosols, and their implications for air quality, public health, and climate. My research program combines remote sensing, modeling, and data assimilation techniques. My research interests include: Atmospheric chemistry and its implications, Monitoring of trace gases from space, and Modeling of atmospheric composition.
+  number_educ: 5
+  education1: Postdoc, 2019, Harvard-Smithsonian Center for Astrophysics, USA
+  education2: Postdoc, 2017-2019, Harvard University, USA
+  education3: Ph.D., 2016, Harvard University, USA
+  education4: MSci., 2011, Peking University, China
+  education5: B.S., 2008, Nankai University, China
 
 - name: Erxiao Wang | 王二小
   photo: Doohee2.jpg
