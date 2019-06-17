@@ -54,7 +54,7 @@ We are an atmospheric environment research group at the [School of Environmental
 
 
 
-To this end, our research program combines remote sensing, modeling, and data assimilation techniques (see [Research](research)).
+To this end, our research programs combine remote sensing, modeling, and data assimilation techniques (see [Research](research)).
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
