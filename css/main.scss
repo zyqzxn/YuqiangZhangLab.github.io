@@ -31,7 +31,9 @@ img { margin-bottom: 24px;
 .navbar-header {
     float: left;
     text-align: center;
+    width: 100%;
 }
+.navbar-brand {float:none;}
 
 body {
 	padding-top: 75px;
