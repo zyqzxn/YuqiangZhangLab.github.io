@@ -29,4 +29,4 @@ See [map and direction](https://ese.sustc.edu.cn/en/contact/index.aspx?nc=111038
 邮箱：leizhu AT fas DOT harvard DOT edu
 邮政编码：518055
 
-请参考[地图](https://ese.sustc.edu.cn/contact/index.aspx?nc=101038006).
+请参考[地图](https://ese.sustc.edu.cn/contact/index.aspx?nc=101038006)
