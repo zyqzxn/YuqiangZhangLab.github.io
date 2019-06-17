@@ -56,12 +56,12 @@ We are an atmospheric environment research group at the [School of Environmental
 
 To this end, our research programs combine remote sensing, modeling, and data assimilation techniques (see [Research](research)).
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are looking for new Research Assissants, Postdocs, PhD and Master students. We also welcome passionate undergraduate students to join the group** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_SUSTech.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_SUSTech.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_GEOS-Chem.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">
 </figure>
