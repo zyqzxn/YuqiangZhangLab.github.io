@@ -25,15 +25,20 @@ img { margin-bottom: 24px;
 }
 .navbar {min-height:30px !important;}
 
-/*.navbar-brand {
-  text-align: center;
-}*/
-
 .navbar-header {
     float: left;
     /*padding: 15px;*/
     text-align: center;
     width: 100%;
+}
+
+.nav {
+  > li {
+    float: none;
+    > a {
+      text-align: center;
+    }
+  }
 }
 
 body {
