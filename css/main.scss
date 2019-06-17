@@ -9,7 +9,7 @@ img { margin-bottom: 24px;
 }
 
 .navbar-default {
-  text-align: center;
+  text-align: left;
   /*background-color: #C2DFFF !important;
   border-color: #C5C1C0 !important;
   margin-top:0px;
@@ -21,24 +21,15 @@ img { margin-bottom: 24px;
 .navbar-nav > li > a, .navbar-brand {
   padding-top:8px !important; padding-bottom:0px !important;
   height: 32.5px;
-  text-align: center;
+  text-align: left;
 }
 .navbar {min-height:30px !important;}
 
 .navbar-header {
     float: left;
     /*padding: 15px;*/
-    text-align: center;
+    text-align: left;
     width: 100%;
-}
-
-.nav {
-  > li {
-    float: none;
-    > a {
-      text-align: left;
-    }
-  }
 }
 
 body {
@@ -50,8 +41,6 @@ figcaption {
     margin-top: -20px;
     margin-bottom: 20px;
 }
-
-
 
 /* Top navigation bar */
 
