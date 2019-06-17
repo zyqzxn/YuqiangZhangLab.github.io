@@ -6,7 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-We are an atmospheric environment research group at the [School of Environmental Science and Engineering](https://ese.sustc.edu.cn/en/) at [SUSTech](https://www.sustech.edu.cn/en). Our aim is to better understand the processes determining the distribution of reactive gases and aerosols, and their implications for air quality, public health, and climate.
+## Welcome to Atmospheric Environment Research Group
+
+We are a team of researchers studying processes determining the distribution of reactive gases and aerosols, and their implications for air quality, public health, and climate.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -51,10 +53,9 @@ We are an atmospheric environment research group at the [School of Environmental
   </a>
 </div>
 
-
-
-
 To this end, our research programs combine remote sensing, modeling, and data assimilation techniques (see [Research](research)).
+
+atmospheric environment research group at the [School of Environmental Science and Engineering](https://ese.sustc.edu.cn/en/) at [SUSTech](https://www.sustech.edu.cn/en).
 
  **We are looking for new Research Assissants, Postdocs, PhD and Master students. We also welcome passionate undergraduate students to join the group** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
