@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<h3>Welcome to the Atmospheric Environment Research Group at SUSTech</h3>
+<h3 align="center">Welcome to the Atmospheric Environment Research Group at SUSTech</h3>
 
 We are a team of researchers studying distribution of reactive gases and aerosols in the atmosphere, and its implications for air quality, public health, and climate. To this end, our research programs combine remote sensing, modeling, and data assimilation techniques (see [Research](research)).
 
