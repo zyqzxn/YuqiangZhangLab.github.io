@@ -10,7 +10,7 @@ img { margin-bottom: 24px;
 
 .navbar-default {
   background-color: #34495E !important;
-  border-color: #212F3C !important;
+  border-color: #34495E !important;
   border-bottom-width: thin;
 }
 
@@ -25,23 +25,22 @@ img { margin-bottom: 24px;
   height: 40px;
   text-align: left;
   font-size: 25px;
-  color: #FDFEFE;
 }
 
-.nav a{
-    color: #FDFEFE !important;
-    font-size: 15px !important;
-}
 .nav li{
   padding-left:0px;
   padding-top:10px;
   padding-bottom:0px;
 }
+.nav a{
+  color: #FDFEFE !important;
+  font-size: 15px !important;
+}
 
 .well {
     margin-top: 0px;
     background-color: #D6DBDF !important;
-    border-color: #000000 !important;    
+    border-color: #34495E !important;   
 }
 
 .panel-footer {
@@ -50,7 +49,7 @@ img { margin-bottom: 24px;
 
 body {
 	padding-top: 125px;
-	background-color: #EBEDEF;
+	background-color: #F8F9F9;
 }
 
 figcaption {
