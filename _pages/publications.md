@@ -10,7 +10,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=cJCsQjoAAAAJ&hl), [ORCID](https://orcid.org/0000-0002-3919-3095))
+See [below](#full-list) for a full list; Find more at [Google Scholar](https://scholar.google.com/citations?user=cJCsQjoAAAAJ&hl) and [ORCID](https://orcid.org/0000-0002-3919-3095)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -52,11 +52,19 @@ permalink: /publications/
 
 
 ## Full List
+**First and corresponding author papers in bold**
 
 {% for publi in site.data.publist %}
 
+{% if publi.1st_or_cor == 1 %}
+  <b>{{ publi.title }}</b><br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+
+{% if publi.1st_or_cor == 0 %}
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
 
 {% endfor %}
 
