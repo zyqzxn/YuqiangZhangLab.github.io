@@ -6,9 +6,10 @@ sitemap: false
 permalink: /
 ---
 
-We are a team of researchers studying distribution of reactive gases and aerosols in the atmosphere, and its implications for air quality, public health, and climate. To this end, our research programs combine remote sensing, modeling, and data assimilation techniques (see [Research](research)).
+**Welcome to the Atmospheric Environment Research Group!** 
+The goal of our research is to better understand the processes determining the distribution of reactive gases and aerosols, and their implications for air quality, public health, and climate.
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="6000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -51,14 +52,13 @@ We are a team of researchers studying distribution of reactive gases and aerosol
   </a>
 </div>
 
-We exchange ideas and work with colleagues in [our school](https://ese.sustc.edu.cn/en/) at [SUSTech](https://www.sustech.edu.cn/en), as well as with researchers all over the world.
+To this end, our [research programs]({{ site.url }}{{ site.baseurl }}/research) combine remote sensing, modeling, and data assimilation techniques.
+We work with colleagues from all over the world by participating in collaborative satellite missions, model development, field campaigns, and global measurement networks.
 
- **We are looking for new Research Assissants, Postdocs, PhD and Master students. We also welcome passionate undergraduate students to join the group** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+Our group is housed in the [School of Environmental Science and Engineering](https://ese.sustc.edu.cn/en/) at [SUSTech](https://www.sustech.edu.cn/en), a research-oriented public university founded in Shenzhen - China’s innovation center.
 
+We are hiring new Research Assissants and Postdocs. 
+We are also seeking passionate Ph.D., Master, and Undergraduate students to join the group.
+Please check out our [openings]({{ site.url }}{{ site.baseurl }}/vacancies).
 
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_SUSTech.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_GEOS-Chem.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">
-</figure>
+<p style="text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LOGO_EN.png" style="width: 320px">
