@@ -61,4 +61,4 @@ We are hiring new Research Assissants and Postdocs.
 We are also seeking passionate Ph.D., Master, and Undergraduate students to join the group.
 Please check out our [openings]({{ site.url }}{{ site.baseurl }}/vacancies).
 
-<p style="text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LOGO_EN.png" style="width: 320px">
+<p style="text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/images/sustech_logo.png" style="width: 320px">
