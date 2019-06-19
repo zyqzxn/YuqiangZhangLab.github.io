@@ -6,8 +6,8 @@
     url: https://doi.org/10.5194/acp-19-6497-2019
     display: Atmos. Chem. Phys., 19, 6497-6507, 2019
   highlight: 1
-  1st_or_cor: 1
   news2:
+  first_or_cor: 1
 
 - title: "The 2005–2016 Trends of Formaldehyde Columns Over China Observed by Satellites: Increasing Anthropogenic Emissions of Volatile Organic Compounds and Decreasing Agricultural Fire Emissions"
   image: dummy.png
@@ -17,7 +17,8 @@
     url: https://doi.org/10.1029/2019GL082172
     display: Geophys. Res. Lett., 46, 2019
   highlight: 0
-  1st_or_cor: 0
+  news2:
+  first_or_cor: 0
 
 - title: "Satellite-Observed Changes in Mexico's Offshore Gas Flaring Activity Linked to Oil/Gas Regulations"
   image: dummy.png
@@ -27,7 +28,8 @@
     url: https://doi.org/10.1029/2018GL081145
     display: Geophys. Res. Lett., 46, 1879–1888, 2019
   highlight: 0
-  1st_or_cor: 0
+  news2:
+  first_or_cor: 0
 
 - title: "The role of chlorine in tropospheric chemistry"
   image: dummy.png
@@ -37,7 +39,8 @@
     url: https://doi.org/10.5194/acp-19-3981-2019
     display: Atmos. Chem. Phys., 19, 3981–4003, 2019
   highlight: 0
-  1st_or_cor: 0
+  news2:
+  first_or_cor: 0
 
 - title: "Possible heterogeneous chemistry of hydroxymethanesulfonate (HMS) in northern China winter haze"
   image: dummy.png
@@ -47,7 +50,8 @@
     url: https://doi.org/10.5194/acp-19-1357-2019
     display: Atmos. Chem. Phys., 19, 1357–1371, 2019
   highlight: 0
-  1st_or_cor: 0
+  news2:
+  first_or_cor: 0
 
 - title: "A physics-based approach to oversample multi-satellite, multispecies observations to a common grid"
   image: dummy.png
@@ -57,7 +61,8 @@
     url: https://doi.org/10.5194/amt-11-6679-2018
     display: Atmos. Meas. Tech., 11, 6679–6701, 2018
   highlight: 0
-  1st_or_cor: 0
+  news2:
+  first_or_cor: 0
 
 - title: "High-resolution inversion of OMI formaldehyde columns to quantify isoprene emission on ecosystem-relevant scales: application to the southeast US"
   image: dummy.png
@@ -67,7 +72,8 @@
     url: https://doi.org/10.5194/acp-18-5483-2018
     display: Atmos. Chem. Phys., 18, 5483–5497, 2018
   highlight: 0
-  1st_or_cor: 0
+  news2:
+  first_or_cor: 0
 
 - title: "Long-term (2005–2014) trends in formaldehyde (HCHO) columns across North America as seen by the OMI satellite instrument: Evidence of changing emissions of volatile organic compounds"
   image: DomePub.png
@@ -78,7 +84,7 @@
     display:  Geophys. Res. Lett., 44, 7079–7086, 2017
   highlight: 1
   news2:
-  1st_or_cor: 1
+  first_or_cor: 1
  
 - title: "Formaldehyde (HCHO) as a Hazardous Air Pollutant: Mapping surface air concentrations from satellite and inferring cancer risks in the United States"
   image: DomePub.png
@@ -89,7 +95,7 @@
     display: Environ. Sci. Technol., 51, 5650–5657, 2017
   highlight: 1
   news2:
-  1st_or_cor: 1
+  first_or_cor: 1
 
 - title: "Glyoxal yield from isoprene oxidation and relation to formaldehyde: chemical mechanism, constraints from SENEX aircraft observations, and interpretation of OMI satellite data"
   image: dummy.png
@@ -100,7 +106,7 @@
     display: Atmos. Chem. Phys., 17, 8725–8738, 2017
   highlight: 0
   news2:
-  1st_or_cor: 0
+  first_or_cor: 0
 
 - title: "Why do models overestimate surface ozone in the Southeast United States?"
   image: dummy.png
@@ -111,7 +117,7 @@
     display: Atmos. Chem. Phys., 16, 13561–13577, 2016
   highlight: 0
   news2:
-  1st_or_cor: 0
+  first_or_cor: 0
 
 - title: "Observing atmospheric formaldehyde (HCHO) from space: validation and intercomparison of six retrievals from four satellites (OMI, GOME2A, GOME2B, OMPS) with SEAC4RS aircraft observations over the southeast US"
   image: DomePub.png
@@ -122,7 +128,7 @@
     display: Atmos. Chem. Phys., 16, 13477–13490, 2016
   highlight: 1
   news2:  
-  1st_or_cor: 1
+  first_or_cor: 1
 
 - title: "Organic nitrate chemistry and its implications for nitrogen budgets in an isoprene- and monoterpene-rich atmosphere: constraints from aircraft (SEAC4RS) and ground-based (SOAS) observations in the Southeast US"
   image: dummy.png
@@ -133,7 +139,7 @@
     display: Atmos. Chem. Phys., 16, 5969–5991, 2016
   highlight: 0
   news2:
-  1st_or_cor: 0
+  first_or_cor: 0
 
 - title: "Sensitivity to grid resolution in the ability of a chemical transport model to simulate observed oxidant chemistry under high-isoprene conditions"
   image: dummy.png
@@ -144,7 +150,7 @@
     display: Atmos. Chem. Phys., 16, 4369–4378, 2016
   highlight: 0
   news2:
-  1st_or_cor: 0
+  first_or_cor: 0
 
 - title: "Aqueous-phase mechanism for secondary organic aerosol formation from isoprene: application to the southeast United States and co-benefit of SO2 emission controls"
   image: dummy.png
@@ -154,8 +160,8 @@
     url: https://doi.org/10.5194/acp-16-1603-2016
     display: Atmos. Chem. Phys., 16, 1603–1618, 2016
   highlight: 0
-  news2:    
-  1st_or_cor: 0
+  news2:
+  first_or_cor: 0
 
 - title: "Sources, seasonality, and trends of southeast US aerosol: an integrated analysis of surface, aircraft, and satellite observations with the GEOS-Chem chemical transport model"
   image: dummy.png
@@ -165,8 +171,8 @@
     url: https://doi.org/10.5194/acp-15-10411-2015
     display: Atmos. Chem. Phys., 15, 10411–10433, 2015
   highlight: 0
-  news2:   
-  1st_or_cor: 0
+  news2:
+  first_or_cor: 0
 
 - title: "Anthropogenic emissions of highly reactive volatile organic compounds in eastern Texas inferred from oversampling of satellite (OMI) measurements of HCHO columns"
   image: dummy.png
@@ -176,7 +182,8 @@
     url: http://dx.doi.org/10.1088/1748-9326/9/11/114004
     display: Environ. Res. Lett., 9, 114004, 2014
   highlight: 0
-  1st_or_cor: 1
+  news2:
+  first_or_cor: 1
 
 - title: "Analysis of the transport pathways and potential sources of PM10 in Shanghai based on three methods"
   image: dummy.png
@@ -186,7 +193,8 @@
     url: https://doi.org/10.1016/j.scitotenv.2011.10.054
     display: Sci. Tot. Environ., 414, 525–534, 2012
   highlight: 0
-  1st_or_cor: 0
+  news2:
+  first_or_cor: 0
 
 - title: "Mercury Emissions from Biomass Burning in China"
   image: dummy.png
@@ -196,7 +204,8 @@
     url: https://doi.org/10.1021/es202224e
     display: Environ. Sci. Technol., 45, 5650–5657, 2011
   highlight: 0
-  1st_or_cor: 0
+  news2:
+  first_or_cor: 0
   
 - title: "Transport pathways and potential sources of PM10 in Beijing"
   image: dummy.png
@@ -206,7 +215,8 @@
     url: https://doi.org/10.1016/j.atmosenv.2010.10.040
     display: Atmos. Environ., 45, 594–604, 2011
   highlight: 0
-  1st_or_cor: 1
+  news2:
+  first_or_cor: 1
   
 - title: "A new emission inventory for nonagricultural open fires in Asia from 2000 to 2009"
   image: dummy.png
@@ -216,7 +226,8 @@
     url: https://doi.org/doi:10.1088/1748-9326/5/1/014014
     display: Environ. Res. Lett., 5, 014014, 2011
   highlight: 0
-  1st_or_cor: 0
+  news2:
+  first_or_cor: 0
 
 - title: "Introduction to the methods of parameter estimation for environmental monitoring data set with truncated data below a detection limit"
   image: dummy.png
@@ -225,5 +236,6 @@
   link:
     url:
     display: Acta Science Circumstantiae., 29, 1345–1350, 2009
-  highlight: 0      
-  1st_or_cor: 0
+  highlight: 0 
+  news2:     
+  first_or_cor: 0

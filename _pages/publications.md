@@ -50,21 +50,19 @@ See [below](#full-list) for a full list; Find more at [Google Scholar](https://s
 
 <p> &nbsp; </p>
 
-
 ## Full List
-**First and corresponding author papers in bold**
+(First and corresponding author papers in **bold**)
 
 {% for publi in site.data.publist %}
 
-{% if publi.1st_or_cor == 1 %}
+{% if publi.first_or_cor == 1 %}
   <b>{{ publi.title }}</b><br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 {% endif %}
 
-{% if publi.1st_or_cor == 0 %}
+{% if publi.first_or_cor == 0 %}
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 {% endif %}
 
 {% endfor %}
-
