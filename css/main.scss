@@ -40,11 +40,18 @@ img { margin-bottom: 24px;
 .well {
     margin-top: 0px;
     background-color: #D6DBDF !important;
-    border-color: #34495E !important;   
+    border-color: #D6DBDF !important;   
+}
+.wellpub {
+  height: 350px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: #D6DBDF !important;
+  border-color: #D6DBDF !important;  
 }
 
 .panel-footer {
-  background-color: #EBEDEF !important;
+  background-color: #FDFEFE !important;
 }
 
 body {

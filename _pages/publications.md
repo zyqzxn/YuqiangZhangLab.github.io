@@ -23,7 +23,7 @@ See [below](#full-list) for a full list; Find more at [Google Scholar](https://s
 {% endif %}
 
 <div class="col-sm-6 clearfix">
- <div class="well">
+ <div class="wellpub">
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
