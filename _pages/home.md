@@ -6,8 +6,8 @@ sitemap: false
 permalink: /
 ---
 
-**Welcome to the Atmospheric Environment Research Group!** 
-The goal of our research is to better understand the processes determining the distribution of reactive gases and aerosols, and their implications for air quality, public health, and climate.
+**Welcome to the Atmospheric Chemistry Modeling and Remote Sensing Group @ SUSTech**. 
+Our research goal is to better understand factors determining the distribution of reactive gases and aerosols, and their implications for air quality, public health, and climate.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="6000" data-pause="hover" >
     <!-- Menu -->
@@ -53,12 +53,12 @@ The goal of our research is to better understand the processes determining the d
 </div>
 
 To this end, our [research programs]({{ site.url }}{{ site.baseurl }}/research) combine remote sensing, modeling, and data assimilation techniques.
-We work with colleagues from all over the world by participating in collaborative satellite missions, model development, field campaigns, and global measurement networks.
+We work with researchers all over the world through collaborative satellite missions, model development, field campaigns, and global measurement networks.
 
-Our group is housed in the [School of Environmental Science and Engineering](https://ese.sustc.edu.cn/en/) at [SUSTech](https://www.sustech.edu.cn/en), a research-oriented public university founded in Shenzhen - China’s innovation center.
+Our group is housed in the [School of Environmental Science and Engineering](https://ese.sustc.edu.cn/en/) at [SUSTech](https://www.sustech.edu.cn/en), a new research-oriented public university in Shenzhen - the innovation center of China.
 
-We are hiring new Research Assissants and Postdocs. 
-We are also seeking passionate Ph.D., Master, and Undergraduate students to join the group.
-Please check out our [openings]({{ site.url }}{{ site.baseurl }}/vacancies).
+**We are now hiring Research Assissants and Postdocs. 
+We are also seeking passionate Ph.D., Master, and Undergraduate students to join the group.**
+Please check out [Openings]({{ site.url }}{{ site.baseurl }}/vacancies).
 
 <p style="text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/images/sustech_logo.png" style="width: 320px">

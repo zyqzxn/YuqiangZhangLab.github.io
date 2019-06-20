@@ -6,8 +6,6 @@ sitemap: false
 permalink: /publications/
 ---
 
-# Publications
-
 ## Highlights
 
 See [below](#full-list) for a full list; Find more at [Google Scholar](https://scholar.google.com/citations?user=cJCsQjoAAAAJ&hl) and [ORCID](https://orcid.org/0000-0002-3919-3095)
@@ -25,7 +23,7 @@ See [below](#full-list) for a full list; Find more at [Google Scholar](https://s
 <div class="col-sm-6 clearfix">
  <div class="wellpub">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="95%" style="margin:0 auto;" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
