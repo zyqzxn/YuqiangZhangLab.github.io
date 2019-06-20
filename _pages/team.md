@@ -8,9 +8,6 @@ permalink: /team/
 
 # Group Members
 
- **We are looking for new Research Assissants, Postdocs, PhD and Master students. We also welcome undergraduate students to join the group** [(see Openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -23,7 +20,7 @@ permalink: /team/
 <div class="col-sm-9 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: {{ member.email }}</i><br>
+  <i>{{ member.info }}<br>Email: {{ member.email }}</i><br>
 
   <ul style="overflow: hidden">
 
