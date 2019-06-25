@@ -1,13 +1,13 @@
 ---
-title: "Atmospheric Environment Research Group - Home"
+title: "Air Quality Modeling and Remote Sensing Group - Home"
 layout: homelay
-excerpt: "Atmospheric Environment Research Group at SUSTech."
+excerpt: "Air Quality Modeling and Remote Sensing Group at SUSTech."
 sitemap: false
 permalink: /
 ---
 
-**Welcome to the Atmospheric Chemistry Modeling and Remote Sensing Group @ SUSTech**. 
-Our research goal is to better understand factors determining the distribution of reactive gases and aerosols, and their implications for air quality, public health, and climate.
+**Welcome to the Air Quality Modeling and Remote Sensing Group @ SUSTech**. 
+Our research goal is to better understand processes governing the distribution of atmospheric trace gases and aerosols, and their implications for air quality, public health, and climate.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="6000" data-pause="hover" >
     <!-- Menu -->
@@ -24,22 +24,22 @@ Our research goal is to better understand factors determining the distribution o
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slides/wordcloud.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dinner2.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slides/dinner2.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slides/cake_web.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logos.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slides/logos.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NoiseCover2.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slides/NoiseCover2.jpg" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slides/SmartTipSide.jpg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -52,10 +52,10 @@ Our research goal is to better understand factors determining the distribution o
   </a>
 </div>
 
-To this end, our [research programs]({{ site.url }}{{ site.baseurl }}/research) combine remote sensing, modeling, and data assimilation techniques.
-We work with researchers all over the world through collaborative satellite missions, model development, field campaigns, and global measurement networks.
+To this end, our [research programs]({{ site.url }}{{ site.baseurl }}/research) combine modeling, remote sensing, and data assimilation techniques.
+We work with researchers all over the world through collaborative model development, satellite missions, field campaigns, and global measurement networks.
 
-Our group is housed in the [School of Environmental Science and Engineering](https://ese.sustc.edu.cn/en/) at [SUSTech](https://www.sustech.edu.cn/en), a new research-oriented public university in Shenzhen - the innovation center of China.
+We are part of the [School of Environmental Science and Engineering](https://ese.sustc.edu.cn/en/) at [SUSTech](https://www.sustech.edu.cn/en), a new research-oriented public university in Shenzhen - the innovation center of China.
 
 **We are now hiring Research Assissants and Postdocs. 
 We are also seeking passionate Ph.D., Master, and Undergraduate students to join the group.**
