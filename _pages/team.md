@@ -1,7 +1,7 @@
 ---
-title: "Zhu Lab - Team"
+title: "Air Quality Modeling and Remote Sensing Group - People"
 layout: gridlay
-excerpt: "Zhu Lab: Team members"
+excerpt: "Group members"
 sitemap: false
 permalink: /team/
 ---
@@ -17,12 +17,14 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-9 clearfix">
+<div class="col-sm-8 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>Email: {{ member.email }}</i><br>
-
-  <ul style="overflow: hidden">
+  {{ member.info }}<br>
+  
+  {% if member.group_member == 1 %}
+  <i>Email: {{ member.email }}</i><br>
+  {% endif %}
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
@@ -40,10 +42,12 @@ permalink: /team/
   {% endif %}
   
   {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
+  <p>
+  {{ member.education1 }} <br>
+  {{ member.education2 }} <br>
+  {{ member.education3 }} <br>
+  {{ member.education4 }} <br>
+  </p>
   {% endif %}
   
   {% if member.number_educ == 5 %}
@@ -53,8 +57,6 @@ permalink: /team/
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
-  
-  </ul>
   
   {% if member.group_member == 1 %}
   <p>{{ member.statement }} </p>

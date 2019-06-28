@@ -8,7 +8,8 @@ permalink: /publications/
 
 ## Highlights
 
-See [below](#full-list) for a full list; Find more at [Google Scholar](https://scholar.google.com/citations?user=cJCsQjoAAAAJ&hl) and [ORCID](https://orcid.org/0000-0002-3919-3095)
+See [below](#full-list) for a full list; Find more at [Google Scholar](https://scholar.google.com/citations?user=cJCsQjoAAAAJ&hl) and [ORCID](https://orcid.org/0000-0002-3919-3095).
+
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
