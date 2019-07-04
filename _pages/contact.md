@@ -1,40 +1,53 @@
 ---
-title: "Zhu Lab - Contact Us"
-layout: textlay
+title: "Air Quality Modeling and Remote Sensing Group - Contact Us"
+layout: gridlay
 excerpt: "Contact Us"
 sitemap: false
-permalink: /contact
+permalink: /contact/
 ---
 
-## Contact Us
-Address:
-XXX XX Building
-NO. 1088, Xueyuan Road, Nanshan District, Shenzhen, Guangdong, China 518055
+<div class="row">
 
-Email: leizhu AT fas DOT harvard DOT edu
+<div class="col-sm-5 clearfix">
 
-Tel: +86-755-88010821
+### Contact Us
 
-Fax: +86-755-88010822
+**Email:** 
+leizhu AT fas DOT harvard DOT edu
 
-How to find us:
+**Tel:** 
++86-755-88010821
 
-A. From Shenzhen Airport: Take the red taxi to SUSTech;
+**Fax:** 
++86-755-88010822
 
-B. From Shenzhen North Railway Station: Take the subway line 5 to Tanglang station.
+**Address:**
+Taizhou Building,
+NO. 1088 Xueyuan Road, Nanshan District, Shenzhen, Guangdong, China 518055
 
-See [map and direction](https://ese.sustc.edu.cn/en/contact/index.aspx?nc=111038006).
+For more information, please see [map and direction](https://ese.sustc.edu.cn/en/contact/index.aspx?nc=111038006).
+</div>
 
-## 联系我们
+<div class="col-sm-5 clearfix">
+### 联系我们
 
-地址：广东省深圳市南山区西丽学苑大道1088号，南方科技大学XX楼XXX
+**邮箱：**
+leizhu AT fas DOT harvard DOT edu
 
-电话：0755-88010821
+**电话：** 
+0755-88010821
 
-传真：0755-88010822
+**传真：**
+0755-88010822
 
-邮箱：leizhu AT fas DOT harvard DOT edu
+**地址：** 
+广东省深圳市南山区西丽学苑大道1088号南方科技大学台州楼
 
-邮政编码：518055
+**邮政编码：**
+518055
 
-请参考[地图与指示](https://ese.sustc.edu.cn/contact/index.aspx?nc=101038006)。
+详细路线请参考[地图与指示](https://ese.sustc.edu.cn/contact/index.aspx?nc=101038006)。
+
+</div>
+
+</div>

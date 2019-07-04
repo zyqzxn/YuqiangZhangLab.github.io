@@ -6,8 +6,8 @@ sitemap: false
 permalink: /
 ---
 
-**Welcome to the Air Quality Modeling and Remote Sensing Group @ SUSTech**. 
-Our research goal is to better understand processes governing the distribution of atmospheric trace gases and aerosols, and their implications for air quality, public health, and climate.
+**Welcome to the Air Quality Modeling & Remote Sensing Research Group @ SUSTech**. 
+Our goal is to better understand processes governing the distribution of atmospheric trace gases and aerosols, and their implications for air quality, public health, and climate.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="6000" data-pause="hover" >
     <!-- Menu -->
@@ -59,6 +59,6 @@ We are part of the [School of Environmental Science and Engineering](https://ese
 
 **We are now hiring Research Assissants and Postdocs. 
 We are also seeking passionate Ph.D., Master, and Undergraduate students to join the group.**
-Please check out [Openings]({{ site.url }}{{ site.baseurl }}/vacancies).
+Please check out the [Openings]({{ site.url }}{{ site.baseurl }}/vacancies).
 
 <p style="text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/images/sustech_logo.png" style="width: 320px">
