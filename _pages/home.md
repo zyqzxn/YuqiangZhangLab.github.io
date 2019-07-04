@@ -61,4 +61,4 @@ We are part of the [School of Environmental Science and Engineering](https://ese
 We are also seeking passionate Ph.D., Master, and Undergraduate students to join the group.**
 Please check out our [Openings]({{ site.url }}{{ site.baseurl }}/vacancies).
 
-<p style="text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/images/sustech_logo.png" style="width: 250px">
+<p style="text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/images/sustech_logo.png" style="width: 200px">
