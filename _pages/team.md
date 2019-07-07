@@ -1,12 +1,12 @@
 ---
 title: "Air Quality Modeling and Remote Sensing Group - People"
 layout: gridlay
-excerpt: "Group members"
+excerpt: "People"
 sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+## Group Members
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
