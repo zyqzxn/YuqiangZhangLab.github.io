@@ -3,10 +3,10 @@ title: "Air Quality Modeling and Remote Sensing Group - Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+permalink: /openings/
 ---
 
-# Open Positions
+## Open Positions
 
 We are always looking for new group members with passion, talent, and grit!
 
