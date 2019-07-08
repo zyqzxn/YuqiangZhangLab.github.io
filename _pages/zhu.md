@@ -17,15 +17,15 @@ permalink: /zhu/
 
 ### PROFESSIONAL EXPERIENCE
 
-2019–, Assistant Professor, Southern University of Science and Technology  
-2018–2019, Postdoc, Harvard-Smithsonian Center for Astrophysics  
-2017–2019, Postdoc, Harvard University  
+2019– Assistant Professor, Southern University of Science and Technology  
+2018–2019 Postdoc, Harvard-Smithsonian Center for Astrophysics  
+2017–2019 Postdoc, Harvard University  
 
 ### EDUCATION
 
-2016, Ph.D. in Engineering Science, Harvard University  
-2011, MSci. in Environmental Science, Peking University  
-2008, B.S. in Environmental Science, Nankai University
+2016 Ph.D. in Engineering Science, Harvard University  
+2011 MSci. in Environmental Science, Peking University  
+2008 B.S. in Environmental Science, Nankai University
 
 ### HONORS
 
