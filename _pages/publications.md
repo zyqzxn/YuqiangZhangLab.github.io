@@ -24,7 +24,7 @@ See [below](#full-list) for a full list; Find more at [Google Scholar](https://s
 <div class="col-sm-6 clearfix">
  <div class="wellpub">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="95%" style="margin:0 auto;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="95%" style="margin:2 auto;" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>

@@ -76,7 +76,7 @@
   first_or_cor: 0
 
 - title: "Long-term (2005–2014) trends in formaldehyde (HCHO) columns across North America as seen by the OMI satellite instrument: Evidence of changing emissions of volatile organic compounds"
-  image: DomePub.png
+  image: Pub_hcho_trend.png
   description: We find significant regional trends related to decreases in urban anthropogenic VOC emissions and increases in oil/gas production.
   authors: Lei Zhu, Loretta J. Mickley, Daniel J. Jacob, Eloïse A. Marais, Jianxiong Sheng, Lu Hu, Gonzalo González Abad, Kelly Chance
   link:
@@ -87,7 +87,7 @@
   first_or_cor: 1
  
 - title: "Formaldehyde (HCHO) as a Hazardous Air Pollutant: Mapping surface air concentrations from satellite and inferring cancer risks in the United States"
-  image: DomePub.png
+  image: Pub_epa.png
   description: Using satellite data, we estimate that up to 6600−12500 people in the U.S. will develop cancer over their lifetimes by exposure to outdoor HCHO.
   authors: Zhu, L., Jacob, D. J., Keutsch, F. N., Mickley, L. J., Scheffe, R., Strum, M., Abad, G. G., Chance, K., Yang, K., Rappengluck, B., Millet, D. B., Baasandorj, M., Jaegle, L., and Shah, V.
   link:
@@ -120,7 +120,7 @@
   first_or_cor: 0
 
 - title: "Observing atmospheric formaldehyde (HCHO) from space: validation and intercomparison of six retrievals from four satellites (OMI, GOME2A, GOME2B, OMPS) with SEAC4RS aircraft observations over the southeast US"
-  image: DomePub.png
+  image: Pub_seac4rs.png
   description: We use highly accurate HCHO aircraft observations from the NASA SEAC4RS campaign over the southeast US in August–September 2013 to validate and intercompare six retrievals of HCHO columns.
   authors: Zhu, L., Jacob, D. J., Kim, P. S., Fisher, J. A., Yu, K., Travis, K. R., Mickley, L. J., Yantosca, R. M., Sulprizio, M. P., De Smedt, I., González Abad, G., Chance, K., Li, C., Ferrare, R., Fried, A., Hair, J. W., Hanisco, T. F., Richter, D., Jo Scarino, A., Walega, J., Weibring, P., and Wolfe, G. M.
   link:
