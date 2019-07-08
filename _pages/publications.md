@@ -1,7 +1,7 @@
 ---
-title: "Zhu Lab - Publications"
+title: "Air Quality Modeling and Remote Sensing Group - Publications"
 layout: gridlay
-excerpt: "Zhu Lab -- Publications."
+excerpt: "Publications."
 sitemap: false
 permalink: /publications/
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Zhu Lab - Research"
+title: "Air Quality Modeling and Remote Sensing Group - Research"
 layout: textlay
-excerpt: "Zhu Lab -- Research"
+excerpt: "Research"
 sitemap: false
 permalink: /research/
 ---

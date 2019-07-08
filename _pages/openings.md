@@ -1,5 +1,5 @@
 ---
-title: "Zhu Lab - Vacancies"
+title: "Air Quality Modeling and Remote Sensing Group - Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

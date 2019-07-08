@@ -1,7 +1,7 @@
 ---
-title: "News"
+title: "Air Quality Modeling and Remote Sensing Group - News"
 layout: textlay
-excerpt: "Zhu Lab at SUSTech."
+excerpt: "News."
 sitemap: false
 permalink: /allnews.html
 ---
