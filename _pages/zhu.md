@@ -8,29 +8,113 @@ permalink: /zhu/
 
 ## Lei Zhu | 朱雷
 
+[Download CV]({{ site.url }}{{ site.baseurl }}/downloads/Lei_Zhu_CV.pdf)
+[下载简历]({{ site.url }}{{ site.baseurl }}/downloads/Lei_Zhu_CV.pdf)
 
-### 
-At SUSTech, we pioneer a line of research grounded in insights from the space, and aimed at understanding atmospheric composition at various spatial and temporal scales. The importance of satellite observations for tropospheric chemistry is increasing, but the applications have been largely prevented by unquantified accuracy and unconfirmed consistency of the retrievals. Our research program combines remote sensing, modeling, and data assimilation techniques, making me in a unique position to bridge the gap between satellite observations and their broad applications. Our research focus on three objectives.
+<div class="row">
 
-###1. Exploit satellite observations of trace gases for air quality applications
+<div class="col-sm-7 clearfix">
 
-Observations of trace gases from space have changed the tropospheric chemistry research profoundly in the past two decades. Satellite-based retrievals provide continuous measurements on a global scale, and have been used extensively to understand chemical processes, to test emission inventories, to examine long-term trends, and to quantify health effects. However, retrievals produced by different research groups from different satellite sensors using different algorithms have received little validation and intercomparison so far. The accuracy and consistency of the retrievals remain largely unclear, which limits the applications for air quality studies.
+### PROFESSIONAL EXPERIENCE
 
-We investigating new species such as BrO, glyoxal, methane, NH3, NO2, ozone, and SO2. These species play an important role in tropospheric chemistry. I plan to validate and intercompare tropospheric retrievals of these species on a global scale taking advantage of the recent leap in in-situ observations. Vertical profiles of these species have been measured in various aircraft campaigns worldwide in the past five years. In addition, data availability is rapidly expanding from the growing Pandora-based and Fourier-transform-infrared-based networks. I anticipate using a chemical transport model (CTM) GEOS-Chem at a high resolution (~ 12 km) as the intercomparison platform. Using this approach, satellite and in-situ observations do not need to be concurrent, thus increasing considerably the range of data and conditions that can be used for validation and intercomparison. The information obtained can be used to construct more reliable long-term trends, and in an iterative process to optimize retrieval settings and minimize biases. I am also willing to develop a chemical data assimilation framework that integrates satellite retrievals and model results to provide optimal estimates of atmospheric pollutants.
+2019–Present, Assistant Professor, Southern University of Science and Technology  
+2018–2019, Postdoc, Harvard-Smithsonian Center for Astrophysics  
+2017–2019, Postdoc, Harvard University  
 
-My early faculty years will coincide with arrival of early data from TROPOMI (launched Oct. 2017) and OMPS (Nov. 2017) and with the projected launch of a global geostationary constellation of satellites including GEMS (2018) over East Asia, TEMPO (2019) over North America, and Sentinel-4 (2020) over Europe. These instruments will observe atmospheric composition at much higher spatial and temporal resolution, offering a new perspective of the diurnal cycle of emissions and chemistry. Interpretation and implication of observations from these instruments will require quantification of uncertainties and biases. I am eager to be an early adopter of these datasets and member of the TEMPO Science Team working towards this goal.2 I will also use aircraft- and ground-based observations and participate in collaborative field campaigns to relate satellite observations to air quality at the surface.
+### EDUCATION
 
+2016, Ph.D. in Engineering Science, Harvard University  
+2011, MSci. in Environmental Science, Peking University  
+2008, B.S. in Environmental Science, Nankai University
 
-Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? 
- 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
+### HONORS
 
-Currently, our instrument of choice  is SI-STM.  State-of-the-art SI-STM measures an array of tunneling spectra on a given sample, registered to the atomic sites with picometer precision. Each is proportional to the local density of states at a given location. Ideally, the recorded spectra are so tightly packed that the measurement yields a three-dimensional mapping of the local density of states as a function of locations and energy. This is shown on the image on the right-hand side (10x10 nm2), and its Fourier transform, below.
+2019 Recognized reviewer for Atmospheric Pollution Research  
+2017 Outstanding reviewer for Atmospheric Environment  
+2015 NASA Group Achievement Award  
+2013 Harvard University Certificate of Distinction in Teaching  
+2008 Graduate with honors, Nankai University
 
-The quantum materials which we will investigate encapsulate some of the great unsolved mysteries of physics. They include high-temperature superconductors, quantum-critical compounds, graphene, and topological electronic matter that can be used for error-resistant quantum computing.
+</div>
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
+<div class="col-sm-5 clearfix">
 
-A main goal is to use modern technology to build the new instrumentation needed to understand these quantum materials. I learned my trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where we investigated coupled cavity arrays in circuit QED. This allowed me to learn new techniques such as high frequency measurements, low temperature noise-free amplification, and quantum-limited measurements. The goal is to combine these with SI-STM.
+### 职业经历
 
-This will enable the instrumental capabilities to visualize the different quantum mechanical degrees of freedom needed to understand next-generation quantum materials. STM will be the main method, but we use different spectroscopic-imaging techniques to visualize not only the topography, but also the density of states, spins, and other degrees of freedom hidden below the surface.
+2019至今 南方科技大学 助理教授  
+2018至2019 哈佛-史密斯松天体物理中心 博士后  
+2017至2019 哈佛大学 博士后  
+
+### 教育背景
+
+2016 博士 工程科学 哈佛大学  
+2011 硕士 环境科学 北京大学  
+2008 本科 环境科学 南开大学  
+
+### 所获荣誉
+
+2019 Atmospheric Pollution Research 优秀审稿人  
+2017 Atmospheric Environment 杰出审稿人  
+2015 NASA团队成就奖  
+2013 哈佛大学杰出教学认证  
+2008 南开大学优秀毕业生
+
+</div>
+</div>
+
+<div class="row">
+
+<div class="col-sm-12 clearfix">
+
+### PUBLICATIONS | 发表论文
+
+<b>First or corresponding author (*) | 第一或通讯作者
+
+Zhu, L.*, Jacob, D. J., Eastham, S. D., et al.: Effect of sea salt aerosol on tropospheric bromine chemistry, Atmos. Chem. Phys., 19, 6497-6507, 2019.
+
+Zhu, L.*, L. J. Mickley, D. J. Jacob et al.: Long-term (2005–2014) trends in formaldehyde (HCHO) columns across North America as seen by the OMI satellite instrument: Evidence of changing emissions of volatile organic compounds, Geophys. Res. Lett., 44, 7079–7086, 2017.
+
+Zhu, L.*, D. J. Jacob, F. N. Keutsch et al.: Formaldehyde (HCHO) as a Hazardous Air Pollutant: Mapping surface air concentrations from satellite and inferring cancer risks in the United States, Environ. Sci. Technol., 51, 5650–5657, 2017.
+
+Zhu, L.*, D. J. Jacob, P. S. Kim et al.: Observing atmospheric formaldehyde (HCHO) from space: validation and intercomparison of six retrievals from four satellites (OMI, GOME2A, GOME2B, OMPS) with SEAC4RS aircraft observations over the southeast US, Atmos. Chem. Phys., 16, 13477–13490, 2016.
+
+Zhu, L.*, D. J. Jacob, L. J. Mickley et al.: Anthropogenic emissions of highly reactive volatile organic compounds in eastern Texas inferred from oversampling of satellite (OMI) measurements of HCHO columns, Environ. Res. Lett., 9, 114004, 2014.
+
+Zhu, L., X. Huang, H. Shi et al.: Transport pathways and potential sources of PM10 in Beijing, Atmos. Environ., 45, 594–604, 2011.
+
+<b>Co-authorship | 其他作者
+
+Shen, L., D. J. Jacob, L. Zhu et al.: The 2005–2016 Trends of Formaldehyde Columns Over China Observed by Satellites: Increasing Anthropogenic Emissions of Volatile Organic Compounds and Decreasing Agricultural Fire Emissions, Geophys. Res. Lett., 46, 2019.
+
+Zhang, Y. et al. including L. Zhu: Satellite-Observed Changes in Mexico's Offshore Gas Flaring Activity Linked to Oil/Gas Regulations, Geophys. Res. Lett., 46, 1879–1888, 2019.
+
+Wang, X. et al. including L. Zhu: The role of chlorine in tropospheric chemistry, Atmos. Chem. Phys., 19, 3981–4003, 2019.
+
+Song, S. et al. including L. Zhu: Possible heterogeneous chemistry of hydroxymethanesulfonate (HMS) in northern China winter haze, Atmos. Chem. Phys., 19, 1357–1371, 2019.
+
+Sun, K., Zhu, L., K. Cady-Pereira et al.: A physics-based approach to oversample multi-satellite, multispecies observations to a common grid, Atmos. Meas. Tech., 11, 6679–6701, 2018.
+
+Kaiser, J., D. J. Jacob, L. Zhu et al.: High-resolution inversion of OMI formaldehyde columns to quantify isoprene emission on ecosystem-relevant scales: application to the southeast US, Atmos. Chem. Phys., 18, 5483–5497, 2018.
+
+Miller, C. C. et al. including L. Zhu: Glyoxal yield from isoprene oxidation and relation to formaldehyde: chemical mechanism, constraints from SENEX aircraft observations, and interpretation of OMI satellite data, Atmos. Chem. Phys., 17, 8725–8738, 2017. 
+
+Travis, K. R. et al. including L. Zhu: Why do models overestimate surface ozone in the Southeast United States?, Atmos. Chem. Phys., 16, 13561–13577, 2016.
+
+Fisher, J. A. et al. including L. Zhu: Organic nitrate chemistry and its implications for nitrogen budgets in an isoprene- and monoterpene-rich atmosphere: constraints from aircraft (SEAC4RS) and ground-based (SOAS) observations in the Southeast US, Atmos. Chem. Phys., 16, 5969–5991, 2016.
+
+Yu, K. et al. including L. Zhu: Sensitivity to grid resolution in the ability of a chemical transport model to simulate observed oxidant chemistry under high-isoprene conditions, Atmos. Chem. Phys., 16, 4369–4378, 2016.
+
+Marais, E. A. et al. including L. Zhu: Aqueous-phase mechanism for secondary organic aerosol formation from isoprene: application to the southeast United States and co-benefit of SO2 emission controls, Atmos. Chem. Phys., 16, 1603–1618, 2016.
+
+Kim, P. S. et al. including L. Zhu: Sources, seasonality, and trends of southeast US aerosol: an integrated analysis of surface, aircraft, and satellite observations with the GEOS-Chem chemical transport model, Atmos. Chem. Phys., 15, 10411–10433, 2015.
+
+Li, M., X. Huang, L. Zhu et al.: Analysis of the transport pathways and potential sources of PM10 in Shanghai based on three methods, Sci. Tot. Environ., 414, 525–534, 2012.
+
+Huang, X. et al. including L. Zhu: Mercury Emissions from Biomass Burning in China, Environ. Sci. Technol., 45, 5650–5657, 2011. 
+
+Song, Y. et al. including L. Zhu: A new emission inventory for nonagricultural open fires in Asia from 2000 to 2009, Environ. Res. Lett., 5, 014014, 2011.
+
+Wang, B., L. Zhu, Z. Gong et al.: Introduction to the methods of parameter estimation for environmental monitoring data set with truncated data below a detection limit, Acta Science Circumstantiae., 29, 1345–1350, 2009.
+
+</div>
+</div>
