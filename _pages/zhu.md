@@ -17,7 +17,7 @@ permalink: /zhu/
 
 ### PROFESSIONAL EXPERIENCE
 
-2019–Present, Assistant Professor, Southern University of Science and Technology  
+2019–, Assistant Professor, Southern University of Science and Technology  
 2018–2019, Postdoc, Harvard-Smithsonian Center for Astrophysics  
 2017–2019, Postdoc, Harvard University  
 
