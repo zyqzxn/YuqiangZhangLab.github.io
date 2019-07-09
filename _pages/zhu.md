@@ -68,6 +68,8 @@ permalink: /zhu/
 
 ### PUBLICATIONS | 发表论文
 
+[Google Scholar](https://scholar.google.com/citations?user=cJCsQjoAAAAJ&hl) and [ORCID](https://orcid.org/0000-0002-3919-3095)
+
 <b>First or corresponding author (*) | 第一或通讯作者
 
 Zhu, L.*, Jacob, D. J., Eastham, S. D., et al.: Effect of sea salt aerosol on tropospheric bromine chemistry, Atmos. Chem. Phys., 19, 6497-6507, 2019.
