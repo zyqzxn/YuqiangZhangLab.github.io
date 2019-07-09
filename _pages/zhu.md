@@ -27,7 +27,7 @@ permalink: /zhu/
 2011 MSci. in Environmental Science, Peking University  
 2008 B.S. in Environmental Science, Nankai University
 
-### HONORS
+### SLECTED HONORS
 
 2019 Recognized reviewer for Atmospheric Pollution Research  
 2017 Outstanding reviewer for Atmospheric Environment  
@@ -51,7 +51,7 @@ permalink: /zhu/
 2011 硕士 环境科学 北京大学  
 2008 本科 环境科学 南开大学  
 
-### 所获荣誉
+### 部分所获荣誉
 
 2019 Atmospheric Pollution Research 优秀审稿人  
 2017 Atmospheric Environment 杰出审稿人  
@@ -115,6 +115,14 @@ Huang, X. et al. including L. Zhu: Mercury Emissions from Biomass Burning in Chi
 Song, Y. et al. including L. Zhu: A new emission inventory for nonagricultural open fires in Asia from 2000 to 2009, Environ. Res. Lett., 5, 014014, 2011.
 
 Wang, B., L. Zhu, Z. Gong et al.: Introduction to the methods of parameter estimation for environmental monitoring data set with truncated data below a detection limit, Acta Science Circumstantiae., 29, 1345–1350, 2009.
+
+
+### INVITED SEMINARS | 受邀讲座
+Satellite remote sensing for air quality applications, with a focus on formaldehyde (HCHO), <i>University of Illinois at Urbana–Champaign</i>, <u>March 28, 2019</u>, Champaign, IL, USA.
+
+Satellite remote sensing for air quality applications, with a focus on formaldehyde (HCHO), <i>Institute of Atmospheric Physics Chinese Academy of Sciences</i>, <u>March 19, 2019</u>, Beijing, China.
+
+Math in Nature: finding order in chaos, <i>Science in News</i>, <u>November 13, 2013</u>, Boston, MA, USA.
 
 </div>
 </div>

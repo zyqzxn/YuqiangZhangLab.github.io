@@ -1,7 +1,7 @@
 ---
 title: "Air Quality Modeling and Remote Sensing Group - Presentations"
 layout: gridlay
-excerpt: "Presentations."
+excerpt: "Presentations"
 sitemap: false
 permalink: /presentations/
 ---

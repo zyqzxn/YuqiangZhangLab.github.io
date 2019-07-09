@@ -1,7 +1,7 @@
 ---
 title: "Air Quality Modeling and Remote Sensing Group - Publications"
 layout: gridlay
-excerpt: "Publications."
+excerpt: "Publications"
 sitemap: false
 permalink: /publications/
 ---
