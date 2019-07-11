@@ -1,5 +1,5 @@
 ---
-title: "Air Quality Modeling and Remote Sensing Group - Presentations"
+title: "Presentations"
 layout: gridlay
 excerpt: "Presentations"
 sitemap: false

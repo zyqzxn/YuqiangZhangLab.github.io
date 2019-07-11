@@ -1,5 +1,5 @@
 ---
-title: "Air Quality Modeling and Remote Sensing Group - Publications"
+title: "Publications"
 layout: gridlay
 excerpt: "Publications"
 sitemap: false

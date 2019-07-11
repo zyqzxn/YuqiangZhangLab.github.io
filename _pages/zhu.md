@@ -1,5 +1,5 @@
 ---
-title: "Air Quality Modeling and Remote Sensing Group - Lei Zhu"
+title: "Lei Zhu"
 layout: gridlay
 excerpt: "Lei Zhu"
 sitemap: false

@@ -1,5 +1,5 @@
 ---
-title: "Air Quality Modeling and Remote Sensing Group - Home"
+title: "Home"
 layout: homelay
 excerpt: "Air Quality Modeling and Remote Sensing Group at SUSTech."
 sitemap: false

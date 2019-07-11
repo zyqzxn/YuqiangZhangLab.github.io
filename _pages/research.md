@@ -1,5 +1,5 @@
 ---
-title: "Air Quality Modeling and Remote Sensing Group - Research"
+title: "Research"
 layout: textlay
 excerpt: "Research"
 sitemap: false

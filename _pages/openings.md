@@ -1,5 +1,5 @@
 ---
-title: "Air Quality Modeling and Remote Sensing Group - Openings"
+title: "Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

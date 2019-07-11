@@ -1,5 +1,5 @@
 ---
-title: "Air Quality Modeling and Remote Sensing Group - Contact Us"
+title: "Contact Us"
 layout: gridlay
 excerpt: "Contact Us"
 sitemap: false

@@ -1,5 +1,5 @@
 ---
-title: "Air Quality Modeling and Remote Sensing Group - News"
+title: "News"
 layout: textlay
 excerpt: "News."
 sitemap: false

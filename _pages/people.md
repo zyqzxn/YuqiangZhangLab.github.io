@@ -1,5 +1,5 @@
 ---
-title: "Air Quality Modeling and Remote Sensing Group - People"
+title: "People"
 layout: gridlay
 excerpt: "People"
 sitemap: false
