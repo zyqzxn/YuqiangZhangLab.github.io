@@ -3,13 +3,13 @@
   group_member: 1
   info: Group Leader, Assistant Professor
   email: leizhu AT fas DOT harvard DOT edu
-  number_educ: 0
-  education1: Postdoc, 2017-2019, Harvard University/Harvard-Smithsonian Center for Astrophysics, USA
-  education2: Ph.D., 2016, Harvard University, USA
-  education3: MSci., 2011, Peking University, China
-  education4: B.S., 2008, Nankai University, China
+  number_educ: 4
+  education1: Postdoc, Harvard University/Harvard-Smithsonian Center for Astrophysics
+  education2: PhD, Harvard University
+  education3: MSci, Peking University
+  education4: BSc, Nankai University
   education5: 
-  statement: Research interests include atmospheric chemistry and its implications, remote sensing of trace gases, and modeling of atmospheric composition.
+  statement:
   
 - name: "This could be you !"
   photo: wny.jpg

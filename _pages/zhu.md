@@ -15,6 +15,11 @@ permalink: /zhu/
 
 <div class="col-sm-7 clearfix">
 
+### RESEARCH AREAS
+Atmosphere Chemistry  
+Air Quality  
+Atmosphere-Land-Ocean Interactions
+
 ### PROFESSIONAL EXPERIENCE
 
 2019– Assistant Professor, Southern University of Science and Technology  
@@ -38,6 +43,11 @@ permalink: /zhu/
 </div>
 
 <div class="col-sm-5 clearfix">
+
+###  研究领域
+大气化学  
+空气质量  
+大气-路面-海洋交互作用
 
 ### 职业经历
 
@@ -68,7 +78,7 @@ permalink: /zhu/
 
 ### PUBLICATIONS | 发表论文
 
-[Google Scholar](https://scholar.google.com/citations?user=cJCsQjoAAAAJ&hl) and [ORCID](https://orcid.org/0000-0002-3919-3095)
+See a full list my publications at [Google Scholar](https://scholar.google.com/citations?user=cJCsQjoAAAAJ&hl) or [ORCID](https://orcid.org/0000-0002-3919-3095)
 
 <b>First or corresponding author (*) | 第一或通讯作者
 
@@ -117,7 +127,6 @@ Huang, X. et al. including L. Zhu: Mercury Emissions from Biomass Burning in Chi
 Song, Y. et al. including L. Zhu: A new emission inventory for nonagricultural open fires in Asia from 2000 to 2009, Environ. Res. Lett., 5, 014014, 2011.
 
 Wang, B., L. Zhu, Z. Gong et al.: Introduction to the methods of parameter estimation for environmental monitoring data set with truncated data below a detection limit, Acta Science Circumstantiae., 29, 1345–1350, 2009.
-
 
 ### INVITED SEMINARS | 受邀讲座
 Satellite remote sensing for air quality applications, with a focus on formaldehyde (HCHO), <i>University of Illinois at Urbana–Champaign</i>, <u>March 28, 2019</u>, Champaign, IL, USA.

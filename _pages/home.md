@@ -9,7 +9,7 @@ permalink: /
 **Welcome to the Air Quality Modeling & Remote Sensing Research Group @ SUSTech**. 
 Our goal is to better understand processes governing the distribution of atmospheric trace gases and aerosols, and their implications for air quality, public health, and climate.
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="6000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -17,7 +17,6 @@ Our goal is to better understand processes governing the distribution of atmosph
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
     </ol>
 
     <!-- Items -->
@@ -27,19 +26,16 @@ Our goal is to better understand processes governing the distribution of atmosph
             <img src="{{ site.url }}{{ site.baseurl }}/images/slides/wordcloud.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slides/dinner2.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/Pub_bromine.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slides/cake_web.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/Pub_hcho_trend.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slides/logos.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/Pub_epa.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slides/NoiseCover2.jpg" alt="Slide 5" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slides/SmartTipSide.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/Pub_seac4rs.png" alt="Slide 5" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
