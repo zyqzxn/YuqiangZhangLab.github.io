@@ -17,7 +17,7 @@ permalink: /people/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-9 clearfix">
+<div class="col-sm-10 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/peopic/{{ member.photo }}" class="img-responsive" width="22%" style="float: left" />
   <h4>{{ member.name }}</h4>
   {{ member.info }}<br>
@@ -27,18 +27,24 @@ permalink: /people/
   {% endif %}
 
   {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
+  <p>
+  {{ member.education1 }} <br>
+  </p>
   {% endif %}
   
   {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
+  <p>
+  {{ member.education1 }} <br>
+  {{ member.education2 }} <br>
+  </p>
   {% endif %}
   
   {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
+  <p>
+  {{ member.education1 }} <br>
+  {{ member.education2 }} <br>
+  {{ member.education3 }} <br>
+  </p>
   {% endif %}
   
   {% if member.number_educ == 4 %}
@@ -51,11 +57,13 @@ permalink: /people/
   {% endif %}
   
   {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
+  <p>
+  {{ member.education1 }}  
+  {{ member.education2 }}  
+  {{ member.education3 }}  
+  {{ member.education4 }}  
+  {{ member.education5 }}
+  </p>
   {% endif %}
   
   {% if member.group_member == 1 %}

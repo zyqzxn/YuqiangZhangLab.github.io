@@ -6,36 +6,38 @@ sitemap: false
 permalink: /zhu/
 ---
 
-## Lei Zhu | 朱雷
-
+#### <b>Lei Zhu | 朱雷</b>
 [Download CV]({{ site.url }}{{ site.baseurl }}/downloads/Lei_Zhu_CV.pdf)
 [下载简历]({{ site.url }}{{ site.baseurl }}/downloads/Lei_Zhu_CV.pdf)
+
 
 <div class="row">
 
 <div class="col-sm-7 clearfix">
 
-### RESEARCH AREAS
-Atmosphere Chemistry  
+#### <b>RESEARCH AREAS</b>  
+
+Atmospheric Chemistry  
+Remote Sensing of Trace Gases  
 Air Quality  
 Atmosphere-Land-Ocean Interactions
 
-### PROFESSIONAL EXPERIENCE
+#### <b>PROFESSIONAL EXPERIENCE</b>
 
-2019– Assistant Professor, Southern University of Science and Technology  
-2018–2019 Postdoc, Harvard-Smithsonian Center for Astrophysics  
-2017–2019 Postdoc, Harvard University  
+2019.12– Assistant Professor, Southern University of Science and Technology  
+2018.07–2019.12 Postdoc, Visiting Scientist, Harvard-Smithsonian Center for Astrophysics  
+2017.01–2019.04 Postdoc, Harvard University
 
-### EDUCATION
+#### <b>EDUCATION</b>
 
-2016 Ph.D. in Engineering Science, Harvard University  
-2011 MSci. in Environmental Science, Peking University  
-2008 B.S. in Environmental Science, Nankai University
+2016.12 Ph.D. in Engineering Science, Harvard University  
+2011.07 MSci. in Environmental Science, Peking University  
+2008.06 B.S. in Environmental Science, Nankai University
 
-### SLECTED HONORS
+#### <b>SLECTED HONORS</b>
 
-2019 Recognized reviewer for Atmospheric Pollution Research  
-2017 Outstanding reviewer for Atmospheric Environment  
+2019 Recognized reviewer for <i>Atmospheric Pollution Research</i>  
+2017 Outstanding reviewer for <i>Atmospheric Environment</i>  
 2015 NASA Group Achievement Award  
 2013 Harvard University Certificate of Distinction in Teaching  
 2008 Graduate with honors, Nankai University
@@ -44,39 +46,39 @@ Atmosphere-Land-Ocean Interactions
 
 <div class="col-sm-5 clearfix">
 
-###  研究领域
+####  <b>研究领域</b>
 大气化学  
+大气痕量气体遥感  
 空气质量  
-大气-路面-海洋交互作用
+大气-地面-海洋交互作用
 
-### 职业经历
+#### <b>职业经历</b>
 
-2019至今 南方科技大学 助理教授  
-2018至2019 哈佛-史密斯松天体物理中心 博士后  
-2017至2019 哈佛大学 博士后  
+2019年12月至今 南方科技大学 助理教授  
+2018年7月至2019年12月 哈佛-史密松天体物理中心 博士后、访问科学家  
+2017年1月至2019年4月 哈佛大学 博士后  
 
-### 教育背景
+#### <b>教育背景</b>
 
-2016 博士 工程科学 哈佛大学  
-2011 硕士 环境科学 北京大学  
-2008 本科 环境科学 南开大学  
+2016年12月 博士 工程科学 哈佛大学  
+2011年7月 硕士 环境科学 北京大学  
+2008年6月 本科 环境科学 南开大学  
 
-### 部分所获荣誉
+#### <b>部分所获荣誉</b>
 
-2019 Atmospheric Pollution Research 优秀审稿人  
-2017 Atmospheric Environment 杰出审稿人  
-2015 NASA团队成就奖  
-2013 哈佛大学杰出教学认证  
-2008 南开大学优秀毕业生
+2019年 <i>Atmospheric Pollution Research</i> 优秀审稿人  
+2017年 <i>Atmospheric Environment</i> 杰出审稿人  
+2015年 NASA团队成就奖  
+2013年 哈佛大学杰出教学认证  
+2008年 南开大学优秀毕业生
 
 </div>
 </div>
 
 <div class="row">
-
 <div class="col-sm-12 clearfix">
 
-### PUBLICATIONS | 发表论文
+#### <b>PUBLICATIONS | 发表论文</b>
 
 See a full list my publications at [Google Scholar](https://scholar.google.com/citations?user=cJCsQjoAAAAJ&hl) or [ORCID](https://orcid.org/0000-0002-3919-3095)
 
@@ -128,7 +130,13 @@ Song, Y. et al. including L. Zhu: A new emission inventory for nonagricultural o
 
 Wang, B., L. Zhu, Z. Gong et al.: Introduction to the methods of parameter estimation for environmental monitoring data set with truncated data below a detection limit, Acta Science Circumstantiae., 29, 1345–1350, 2009.
 
-### INVITED SEMINARS | 受邀讲座
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-12 clearfix">
+
+#### <b>INVITED SEMINARS | 受邀讲座</b>
 Satellite remote sensing for air quality applications, with a focus on formaldehyde (HCHO), <i>University of Illinois at Urbana–Champaign</i>, <u>March 28, 2019</u>, Champaign, IL, USA.
 
 Satellite remote sensing for air quality applications, with a focus on formaldehyde (HCHO), <i>Institute of Atmospheric Physics Chinese Academy of Sciences</i>, <u>March 19, 2019</u>, Beijing, China.
