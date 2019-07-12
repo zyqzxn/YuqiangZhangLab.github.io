@@ -8,7 +8,7 @@ permalink: /contact/
 
 <div class="row">
 
-<div class="col-sm-5 clearfix">
+<div class="col-sm-6 clearfix">
 
 ### Contact Us
 
@@ -23,12 +23,13 @@ leizhu AT fas DOT harvard DOT edu
 
 **Address:**
 Taizhou Building,
-NO. 1088 Xueyuan Road, Nanshan District, Shenzhen, Guangdong, China 518055
+NO. 1088 Xueyuan Road, Nanshan District, Shenzhen, Guangdong, China 518055.
 
 For more information, please see [map and direction](https://ese.sustc.edu.cn/en/contact/index.aspx?nc=111038006).
 </div>
 
-<div class="col-sm-5 clearfix">
+<div class="col-sm-6 clearfix">
+
 ### 联系我们
 
 **邮箱：**

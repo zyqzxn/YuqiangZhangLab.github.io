@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-## Research
+### Research
 
 At SUSTech, we pioneer a line of research grounded in insights from the space, and aimed at understanding atmospheric composition at various spatial and temporal scales. The importance of satellite observations for tropospheric chemistry is increasing, but the applications have been largely prevented by unquantified accuracy and unconfirmed consistency of the retrievals. Our research program combines remote sensing, modeling, and data assimilation techniques, making me in a unique position to bridge the gap between satellite observations and their broad applications. Our research focus on three objectives.
 

@@ -6,7 +6,7 @@ sitemap: false
 permalink: /people/
 ---
 
-## Group Members
+### Group Members
 
 {% assign number_printed = 0 %}
 {% for member in site.data.people %}
