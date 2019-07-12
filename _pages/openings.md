@@ -1,5 +1,5 @@
 ---
-title: "Openings"
+title: "Openings | 加入我们"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

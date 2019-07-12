@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Research | 研究"
 layout: gridlay
 excerpt: "Research"
 sitemap: false

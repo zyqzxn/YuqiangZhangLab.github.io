@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Home | 主页"
 layout: homelay
 excerpt: "Air Quality Modeling and Remote Sensing Group at SUSTech."
 sitemap: false
@@ -48,13 +48,13 @@ Our goal is to better understand processes governing the distribution of atmosph
   </a>
 </div>
 
-To this end, our [research programs]({{ site.url }}{{ site.baseurl }}/research) combine modeling, remote sensing, and data assimilation techniques.
+To this end, our [research]({{ site.url }}{{ site.baseurl }}/research) combines modeling, remote sensing, and data assimilation techniques.
 We work with researchers all over the world through collaborative model development, satellite missions, field campaigns, and global measurement networks.
 
 We are part of the [School of Environmental Science and Engineering](https://ese.sustc.edu.cn/en/) at [SUSTech](https://www.sustech.edu.cn/en), a new research-oriented public university in Shenzhen - the innovation center of China.
 
 **We are now hiring Research Assissants and Postdocs. 
 We are also seeking passionate Ph.D., Master, and Undergraduate students to join the group.**
-Please check our [Openings]({{ site.url }}{{ site.baseurl }}/vacancies).
+Please check our [Openings]({{ site.url }}{{ site.baseurl }}/openings).
 
 <p style="text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/images/sustech_logo.png" style="width: 240px">

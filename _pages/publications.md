@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Publications | 论文"
 layout: gridlay
 excerpt: "Publications"
 sitemap: false

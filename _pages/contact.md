@@ -1,5 +1,5 @@
 ---
-title: "Contact Us"
+title: "Contact Us | 联系我们"
 layout: gridlay
 excerpt: "Contact Us"
 sitemap: false

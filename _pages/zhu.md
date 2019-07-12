@@ -1,5 +1,5 @@
 ---
-title: "Lei Zhu"
+title: "Lei Zhu | 朱雷"
 layout: gridlay
 excerpt: "Lei Zhu"
 sitemap: false
