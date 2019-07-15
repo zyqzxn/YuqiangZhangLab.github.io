@@ -26,7 +26,7 @@ Our goal is to better understand processes governing the distribution of atmosph
             <img src="{{ site.url }}{{ site.baseurl }}/images/slides/wordcloud.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/Pub_bromine.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/satellite.png" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/Pub_hcho_trend.png" alt="Slide 3" />
