@@ -6,8 +6,6 @@ sitemap: false
 permalink: /presentations/
 ---
 
-### Presentations
-
 {% for preli in site.data.prelist %}
 
   {% if preli.invited_talk == 1 %}

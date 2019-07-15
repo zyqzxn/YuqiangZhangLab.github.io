@@ -15,8 +15,6 @@ Our goal is to better understand processes governing the distribution of atmosph
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
     </ol>
 
     <!-- Items -->
@@ -29,13 +27,7 @@ Our goal is to better understand processes governing the distribution of atmosph
             <img src="{{ site.url }}{{ site.baseurl }}/images/respic/satellite.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/Pub_hcho_trend.png" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/Pub_epa.png" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/Pub_seac4rs.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/model.png" alt="Slide 3" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
