@@ -49,7 +49,7 @@ See [below](#full-list) for a full list; Find more at [Google Scholar](https://s
 
 <p> &nbsp; </p>
 
-## Full List
+### Full List
 (First and corresponding author papers in **bold**)
 
 {% for publi in site.data.publist %}
