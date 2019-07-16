@@ -7,7 +7,7 @@ permalink: /
 ---
 
 **Welcome to the Atmospheric Chemistry Modeling & Remote Sensing Research Group @ SUSTech**. 
-Our goal is to better understand processes governing the distribution of atmospheric trace gases and aerosols, and their implications for air quality, public health, and climate.
+Our goal is to better understand processes governing the distributions of atmospheric species, and their implications for air quality, public health, and climate.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -45,8 +45,8 @@ We work with researchers all over the world through collaborative model developm
 
 We are part of the [School of Environmental Science and Engineering](https://ese.sustc.edu.cn/en/) at [SUSTech](https://www.sustech.edu.cn/en), a new research-oriented public university in Shenzhen - the innovation center of China.
 
-**We are now hiring Research Assissants and Postdocs. 
+**We are now hiring Postdocs. 
 We are also seeking passionate Ph.D., Master, and Undergraduate students to join the group.**
-Please check our [Openings]({{ site.url }}{{ site.baseurl }}/openings).
+Please check out our [Openings]({{ site.url }}{{ site.baseurl }}/openings).
 
 <p style="text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/images/sustech_logo.png" style="width: 240px">
