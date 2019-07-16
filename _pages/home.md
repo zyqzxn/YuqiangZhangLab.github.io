@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**Welcome to the Air Quality Modeling & Remote Sensing Research Group @ SUSTech**. 
+**Welcome to the Atmospheric Chemistry Modeling & Remote Sensing Research Group @ SUSTech**. 
 Our goal is to better understand processes governing the distribution of atmospheric trace gases and aerosols, and their implications for air quality, public health, and climate.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -24,10 +24,10 @@ Our goal is to better understand processes governing the distribution of atmosph
             <img src="{{ site.url }}{{ site.baseurl }}/images/slides/wordcloud.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/satellite.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/model.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/model.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/satellite.png" alt="Slide 3" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
