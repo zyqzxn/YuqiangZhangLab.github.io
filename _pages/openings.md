@@ -79,7 +79,7 @@ Please email [Lei Zhu]({{ site.url }}{{ site.baseurl }}/contact/).
 
 <div class="col-sm-6 clearfix">
 #### <b>本科生</b>
-欢迎南科大本科生参与研究组的研究。  
+欢迎南科大本科生参与我们的研究。  
 请邮件联系[朱雷]({{ site.url }}{{ site.baseurl }}/contact/)。
 
 </div>
