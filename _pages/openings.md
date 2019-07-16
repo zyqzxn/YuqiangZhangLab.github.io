@@ -6,32 +6,69 @@ sitemap: false
 permalink: /openings/
 ---
 
-### Open Positions
+<div class="row">
+<div class="col-sm-6 clearfix">
 
-We are always looking for new group members with passion, talent, and grit!
+#### <b>Postdocs</b>
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+We are now hiring Postdocs.  
+Please see the job advertisement for details. 
 
-### Current open positions
+</div>
 
-You find the current job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf).
+<div class="col-sm-6 clearfix">
 
-It might be interesting to look at some past job advertisements. While the projects keep changing, the themes are still roughly the same. You can download them [here]({{ site.baseurl }}/downloads/PD.pdf), [here]({{ site.baseurl }}/downloads/PHD1.pdf), or [here]({{ site.baseurl }}/downloads/PHD2.pdf).
+#### <b>博士后</b>
 
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+研究组目前招聘博士后。  
+详情请参见招聘广告。
 
-There are  postdoc scholarship available.  I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/innovational-research-incentives-scheme/veni/index.html) or the [Marie Curie fellowship](http://ec.europa.eu/research/mariecurieactions/about-msca/actions/if/index_en.htm).
+</div>
+</div>
 
-### Master projects for Leiden University students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
+<div class="row">
+<div class="col-sm-6 clearfix">
 
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
+#### <b>PhD and Master students</b>
 
+We recruit 1-3 PhD students and 1-2 Master students each year. 
+If you are interested in working with us, please send an email to [Lei Zhu]({{ site.url }}{{ site.baseurl }}/contact/).  
+In your email, please  
+(1) insert "Application PhD" or "Application Master" in the subject line,  
+(2) state briefly why you are interested,  
+(3) attach a CV,  
+(4) attach your Master (if any) and Undergraduate transcripts.
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+</div>
+
+<div class="col-sm-6 clearfix">
+
+#### <b>博士与硕士研究生</b>
+
+研究组每年招收1至3名博士研究生和1至2名硕士研究生。如果您有志加入我们，请邮件联系[朱雷]({{ site.url }}{{ site.baseurl }}/contact/)。  
+在邮件里，请您  
+（1）在标题里包含“博士申请”或“硕士申请”字样；  
+（2）简要说明您为何感兴趣；  
+（3）附上个人简历；  
+（4）附上研究生（如果有）及本科成绩单。
+
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+
+#### <b>Undergraduate students</b>
+
+We welcome undergraduates at SUSTech to participate in our research.
+Please email [Lei Zhu]({{ site.url }}{{ site.baseurl }}/contact/).
+
+</div>
+
+<div class="col-sm-6 clearfix">
+#### <b>本科生</b>
+研究组欢迎南科大本科生参与我们的研究。  
+请邮件联系[朱雷]({{ site.url }}{{ site.baseurl }}/contact/)。
+
+</div>
+</div>

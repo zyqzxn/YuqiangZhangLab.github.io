@@ -8,4 +8,4 @@ permalink: /courses/
 
 ### Under construction
 
-Lei Zhu will teach at SUSTech starting the fall of 2020.
+Lei Zhu will teach at SUSTech starting from the fall of 2020.

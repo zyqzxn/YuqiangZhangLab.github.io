@@ -13,7 +13,7 @@ permalink: /contact/
 ### Contact Us
 
 **Email:** 
-leizhu AT cfa DOT harvard DOT edu
+lei DOT zhu DOT 02 AT gmail DOT com
 
 **Tel:** 
 +86-755-88010821
@@ -33,7 +33,7 @@ For more information, please see [map and direction](https://ese.sustc.edu.cn/en
 ### 联系我们
 
 **邮箱：**
-leizhu AT fas cfa harvard DOT edu
+lei DOT zhu DOT 02 AT gmail DOT com
 
 **电话：** 
 0755-88010821

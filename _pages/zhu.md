@@ -6,7 +6,7 @@ sitemap: false
 permalink: /zhu/
 ---
 
-#### <b>Lei Zhu | 朱雷</b>
+### <b>Lei Zhu | 朱雷</b>
 [Download CV]({{ site.url }}{{ site.baseurl }}/downloads/Lei_Zhu_CV.pdf)
 [下载简历]({{ site.url }}{{ site.baseurl }}/downloads/Lei_Zhu_CV.pdf)
 
