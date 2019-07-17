@@ -73,14 +73,14 @@ In the email, please
 #### <b>Undergraduate students</b>
 
 We welcome undergraduates at SUSTech to participate in our research.
-Please email [Lei Zhu]({{ site.url }}{{ site.baseurl }}/contact/).
+If you are interested, please email [Lei Zhu]({{ site.url }}{{ site.baseurl }}/contact/).
 
 </div>
 
 <div class="col-sm-6 clearfix">
 #### <b>本科生</b>
 欢迎南科大本科生参与我们的研究。  
-请邮件联系[朱雷]({{ site.url }}{{ site.baseurl }}/contact/)。
+若有兴趣请邮件联系[朱雷]({{ site.url }}{{ site.baseurl }}/contact/)。
 
 </div>
 </div>

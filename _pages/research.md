@@ -9,7 +9,7 @@ permalink: /research/
 <div class="row">
 <div class="col-sm-5 clearfix">
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/model.png){: style="width: 400px; float: left; border: 10px; margin-top: 40px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/model2.png){: style="width: 400px; float: left; border: 10px; margin-top: 40px"}
 </div>
 
 <div class="col-sm-7 clearfix">
@@ -29,7 +29,7 @@ We are interested in (1) using atmospheric chemistry models to interpret observa
 <div class="row">
 <div class="col-sm-5 clearfix">
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/satellite.png){: style="width: 400px; float: left; border: 10px; margin-top: 40px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/satellite2.png){: style="width: 400px; float: left; border: 10px; margin-top: 40px"}
 </div>
 
 <div class="col-sm-7 clearfix">
