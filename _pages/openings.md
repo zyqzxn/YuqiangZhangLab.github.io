@@ -12,7 +12,7 @@ permalink: /openings/
 #### <b>Postdocs</b>
 
 We seek postdocs with expertise in Atmospheric Chemistry Modeling and/or Remote Sensing.
-For more detail, please email [Lei Zhu]({{ site.url }}{{ site.baseurl }}/contact/).   
+For more detail, please [email us]({{ site.url }}{{ site.baseurl }}/contact/).   
 In the email, please  
 (1) insert "Postdoc Application" in the subject line,  
 (2) state your research interests/areas,     
@@ -27,7 +27,7 @@ In the email, please
 #### <b>博士后</b>
 
 研究组目前招聘有大气化学模式或遥感背景的博士后。
-更多细节，请邮件联系[朱雷]({{ site.url }}{{ site.baseurl }}/contact/)。  
+更多细节，请[邮件联系]({{ site.url }}{{ site.baseurl }}/contact/)。  
 在邮件里，请您  
 （1）在标题里包含“博士后申请”字样；  
 （2）说明您的研究方向或兴趣；  
@@ -44,7 +44,7 @@ In the email, please
 #### <b>PhD and Master students</b>
 
 We recruit 1-3 PhD students and 1-2 Master students each year. 
-If you are interested in working with us, please send an email to [Lei Zhu]({{ site.url }}{{ site.baseurl }}/contact/).  
+If you are interested in working with us, please [email us]({{ site.url }}{{ site.baseurl }}/contact/).  
 In the email, please  
 (1) insert "PhD Application" or "Master Application" in the subject line,  
 (2) state briefly why you are interested in us,  
@@ -57,7 +57,7 @@ In the email, please
 
 #### <b>博士与硕士研究生</b>
 
-研究组每年招收1至3名博士研究生和1至2名硕士研究生。如果您有志加入我们，请邮件联系[朱雷]({{ site.url }}{{ site.baseurl }}/contact/)。  
+研究组每年招收1至3名博士研究生和1至2名硕士研究生。如果您有志加入我们，请[邮件联系]({{ site.url }}{{ site.baseurl }}/contact/)。  
 在邮件里，请您  
 （1）在标题里包含“博士申请”或“硕士申请”字样；  
 （2）简要说明您为何对我们感兴趣；  
@@ -73,14 +73,14 @@ In the email, please
 #### <b>Undergraduate students</b>
 
 We welcome undergraduates at SUSTech to participate in our research.
-If you are interested, please email [Lei Zhu]({{ site.url }}{{ site.baseurl }}/contact/).
+If you are interested, please [email us]({{ site.url }}{{ site.baseurl }}/contact/).
 
 </div>
 
 <div class="col-sm-6 clearfix">
 #### <b>本科生</b>
 欢迎南科大本科生参与我们的研究。  
-若有兴趣请邮件联系[朱雷]({{ site.url }}{{ site.baseurl }}/contact/)。
+若有兴趣请[邮件联系]({{ site.url }}{{ site.baseurl }}/contact/)。
 
 </div>
 </div>

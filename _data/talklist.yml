@@ -1,29 +1,9 @@
-- title: "Validation of satellite formaldehyde (HCHO) retrievals using aircraft observations and implication for TEMPO"
-  meeting: TEMPO Science Meeting
-  presenter: Lei Zhu
-  date: June 05, 2019
-  location: Madison, WI, USA
-  invited_talk: 0
-  normal_talk: 0
-  poster: 1
-
-- title: "Effect of sea-salt aerosol on tropospheric bromine chemistry"
-  meeting: The 9th International Conference of GEOS-Chem
-  presenter: Lei Zhu
-  date: May 07, 2019
-  location: Cambridge, MA, USA
-  invited_talk: 0
-  normal_talk: 0
-  poster: 1
-  
 - title: "Satellite remote sensing for air quality applications, with a focus on formaldehyde (HCHO)"
   meeting: University of Illinois at Urbana–Champaign
   presenter: Lei Zhu
   date: March 28, 2019
   location: Champaign, IL, USA
   invited_talk: 1
-  normal_talk: 0
-  poster: 0
   
 - title: "Satellite remote sensing for air quality applications, with a focus on formaldehyde (HCHO)"
   meeting: Institute of Atmospheric Physics Chinese Academy of Sciences
@@ -31,8 +11,6 @@
   date: March 19, 2019
   location: Beijing, China
   invited_talk: 1
-  normal_talk: 0
-  poster: 0  
   
 - title: "Satellite remote sensing for air quality applications, with a focus on formaldehyde (HCHO)"
   meeting: Peking University
@@ -40,26 +18,13 @@
   date: March 16, 2019
   location: Beijing, China
   invited_talk: 1
-  normal_talk: 0
-  poster: 0
 
 - title: "Satellite remote sensing for air quality applications, with a focus on formaldehyde (HCHO)"
   meeting: Southern University of Science and Technology
   presenter: Lei Zhu
   date: January, 05 2019
-  location: Beijing, China
+  location: Shenzhen, China
   invited_talk: 1
-  normal_talk: 0
-  poster: 0  
-  
-- title: "Effect of sea-salt aerosol on tropospheric bromine chemistry"
-  meeting: AGU Fall Meeting
-  presenter: Lei Zhu
-  date: December 13, 2018
-  location: Washington, D.C., USA
-  invited_talk: 0
-  normal_talk: 0
-  poster: 1
   
 - title: "Modeling of tropospheric halogen (Cl-Br-I) chemistry: cycling, debromination, and impact"
   meeting: The 1st Regional GEOS-Chem Asia Meeting
@@ -67,53 +32,27 @@
   date: May 21, 2018
   location: Nanjing, China
   invited_talk: 0
-  normal_talk: 1
-  poster: 0  
 
 - title: "Mapping surface air concentrations from OMI and inferring cancer risks: implications for TEMPO"
   meeting: TEMPO Science Meeting
   presenter: Lei Zhu
   date: June 01, 2017
   location: Cambridge, MA, USA
-  invited_talk: 1
-  normal_talk: 0
-  poster: 0  
-
-- title: "Observing atmospheric formaldehyde from space: trend analysis and public health implications"
-  meeting: The 8th International GEOS-Chem Meeting
-  presenter: Lei Zhu
-  date: May 01, 2017
-  location: Cambridge, MA, USA
-  invited_talk: 0
-  normal_talk: 0
-  poster: 1  
+  invited_talk: 1 
 
 - title: "Observing atmospheric formaldehyde from space: validation, intercomparison, trend analysis and public health implications"
   meeting: AGU Fall Meeting
   presenter: Lei Zhu
   date: December 14, 2016
-  location: San Francisco, CA
+  location: San Francisco, CA, USA
   invited_talk: 0
-  normal_talk: 1
-  poster: 0 
 
 - title: "Observing atmospheric formaldehyde from space: Validation, intercomparison, trend analysis and public health implications"
   meeting: Aura Science Meeting
   presenter: Lei Zhu
   date: August 30, 2016
   location: Rotterdam, The Netherlands
-  invited_talk: 0
-  normal_talk: 1
-  poster: 0   
-
-- title: "Validation of satellite HCHO retrievals with aircraft (SEAC4RS) observations"
-  meeting: Atmospheric Radiation Workshop
-  presenter: Lei Zhu
-  date: March 08, 2016
-  location: Boulder, CO, USA
-  invited_talk: 0
-  normal_talk: 0
-  poster: 1
+  invited_talk: 0 
 
 - title: "Mapping of surface formaldehyde (HCHO) from space for air quality management"
   meeting: The 9th NASA Air Quality Applied Sciences Team Meeting
@@ -121,8 +60,6 @@
   date: June 02, 2015
   location: St. Louis, MO, USA
   invited_talk: 0
-  normal_talk: 1
-  poster: 0
   
 - title: "Indirect validation of new OMI, GOME-2B and OMPS formaldehyde retrievals using SEAC4RS data"
   meeting: The 7th International Conference of GEOS-Chem
@@ -130,113 +67,52 @@
   date: May 05, 2015
   location: Cambridge, MA, USA
   invited_talk: 0
-  normal_talk: 1
-  poster: 0
    
 - title: "Validation of satellite HCHO observations (OMI, GOME-2B, OMPS) using SEAC4RS data"
   meeting: SEAC4RS Science Meeting
   presenter: Lei Zhu
   date: April 30, 2015
   location: Pasadena, CA, USA
-  invited_talk: 0
-  normal_talk: 1
-  poster: 0      
-  
-- title: "Anthropogenic emissions of highly reactive volatile organic compounds inferred from oversampling of OMI HCHO columns"
-  meeting: AGU Fall Meeting
-  presenter: Lei Zhu
-  date: December 19, 2014
-  location: San Francisco, CA, USA
-  invited_talk: 0
-  normal_talk: 0
-  poster: 1  
+  invited_talk: 0     
 
 - title: "Anthropogenic emissions of highly reactive volatile organic compounds inferred from oversampling of OMI HCHO columns"
   meeting: EOS Aura Science Team Meeting 10th year anniversary celebration
   presenter: Lei Zhu
   date: September 16, 2014
   location: College Park, MD, USA
-  invited_talk: 0
-  normal_talk: 1
-  poster: 0    
-
-- title: "Indirect validation of GOME-2/MetOp-A and B formaldehyde retrievals using SEAC4RS data: Preliminary results"
-  meeting: The 7th NASA Air Quality Applied Sciences Team Meeting
-  presenter: Lei Zhu
-  date: June 17, 2014
-  location: Cambridge, MA, USA
-  invited_talk: 0
-  normal_talk: 0
-  poster: 1    
-
-- title: "Indirect Validation of GOME-2/MetOp-A and B and New OMI formaldehyde (HCHO) retrievals using SEAC4RS data: Preliminary results"
-  meeting: SEAC4RS Science Meeting
-  presenter: Lei Zhu
-  date: April 17, 2014
-  location: Boulder, CO, USA
-  invited_talk: 0
-  normal_talk: 0
-  poster: 1
+  invited_talk: 0   
   
 - title: "Anthropogenic emissions of highly reactive VOCs (HRVOCs) inferred from oversampling of OMI formaldehyde columns"
   meeting: The 6th NASA Air Quality Applied Sciences Team Meeting
   presenter: Lei Zhu
   date: January 15, 2014
   location: Houston, TX, USA
-  invited_talk: 0
-  normal_talk: 1
-  poster: 0      
+  invited_talk: 0      
 
 - title: "Math in Nature: finding order in chaos"
   meeting: Science in News
   presenter: Lei Zhu
   date: November 13, 2013
   location: Boston, MA, USA
-  invited_talk: 1
-  normal_talk: 0
-  poster: 0     
+  invited_talk: 1   
 
 - title: "Variability of HCHO over the United States: Implications for VOCs Emissions"
   meeting: The 5th NASA Air Quality Applied Sciences Team Meeting
   presenter: Lei Zhu
   date: June 04, 2013
   location: College Park, MD, USA
-  invited_talk: 0
-  normal_talk: 1
-  poster: 0     
-
-- title: "Variability of HCHO over the Southeastern United States observed from space: Implications for VOC emissions"
-  meeting: AGU Fall Meeting
-  presenter: Lei Zhu
-  date: December 04, 2012
-  location: San Francisco, CA, USA
-  invited_talk: 0
-  normal_talk: 0
-  poster: 1 
+  invited_talk: 0    
   
 - title: "A spike in electricity demand due to severe summer heatwaves: Increase of SO2 emissions detected from space"
   meeting: The 18th Seminar of JSPS-MOE Core University Program
   presenter: Lei Zhu
   date: December 22, 2010
   location: Beijing, China
-  invited_talk: 0
-  normal_talk: 1
-  poster: 0   
-
-- title: "Spikes in electricity demand during severe summer heat waves: Increased SO2 emissions detected from space"
-  meeting: AGU Fall Meeting
-  presenter: Lei Zhu
-  date: December 15, 2010
-  location: San Francisco, CA, USA
-  invited_talk: 0
-  normal_talk: 0
-  poster: 1  
+  invited_talk: 0 
 
 - title: "Estimating of fire emissions in Boreal Siberia by satellite data sets"
   meeting: The 6th Seminar of Environment Modeling and Pollution Controlling
   presenter: Lei Zhu
   date: November 13, 2009
   location: Beijing, China
-  invited_talk: 0
-  normal_talk: 1
-  poster: 0      
+  invited_talk: 0     
