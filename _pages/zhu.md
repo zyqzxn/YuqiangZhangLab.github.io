@@ -7,8 +7,8 @@ permalink: /zhu/
 ---
 
 ### <b>Lei Zhu | 朱雷</b>
-[ Download CV ]({{ site.url }}{{ site.baseurl }}/downloads/Lei_Zhu_CV.pdf)
-[ 个人简历 ]({{ site.url }}{{ site.baseurl }}/downloads/Lei_Zhu_CV.pdf)
+[Download CV ]({{ site.url }}{{ site.baseurl }}/downloads/Lei_Zhu_CV.pdf)
+[ 个人简历]({{ site.url }}{{ site.baseurl }}/downloads/Lei_Zhu_CV.pdf)
 
 
 <div class="row">
