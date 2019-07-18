@@ -44,12 +44,14 @@ In the email, please
 #### <b>PhD and Master students</b>
 
 We recruit 1-3 PhD students and 1-2 Master students each year. 
-If you are interested in working with us, please [email us]({{ site.url }}{{ site.baseurl }}/contact/).  
+If you are interested in working with us, please send an [email]({{ site.url }}{{ site.baseurl }}/contact/).  
 In the email, please  
 (1) insert "PhD Application" or "Master Application" in the subject line,  
 (2) state briefly why you are interested in us,  
 (3) attach a CV,  
 (4) attach your Master (if any) and Undergraduate transcripts.
+(5) provide contact information of 1-2 references.
+
 
 </div>
 
@@ -63,6 +65,7 @@ In the email, please
 （2）简要说明您为何对我们感兴趣；  
 （3）附上个人简历；  
 （4）附上硕士（如果有）及本科阶段成绩单。
+（5）提供1至2名推荐人的联系方式。
 
 </div>
 </div>
@@ -73,14 +76,14 @@ In the email, please
 #### <b>Undergraduate students</b>
 
 We welcome undergraduates at SUSTech to participate in our research.
-If you are interested, please [email us]({{ site.url }}{{ site.baseurl }}/contact/).
+If you are interested, please [contact us]({{ site.url }}{{ site.baseurl }}/contact/).
 
 </div>
 
 <div class="col-sm-6 clearfix">
 #### <b>本科生</b>
 欢迎南科大本科生参与我们的研究。  
-若有兴趣请[邮件联系]({{ site.url }}{{ site.baseurl }}/contact/)。
+若有兴趣请[联系我们]({{ site.url }}{{ site.baseurl }}/contact/)。
 
 </div>
 </div>
