@@ -12,13 +12,8 @@ permalink: /openings/
 #### <b>Postdocs</b>
 
 We seek postdocs with expertise in Atmospheric Chemistry Modeling and/or Remote Sensing.
-For more detail, please [email us]({{ site.url }}{{ site.baseurl }}/contact/).   
-In the email, please  
-(1) insert "Postdoc Application" in the subject line,  
-(2) state your research interests/areas,     
-(3) state why you are interested in us,  
-(4) attach a CV,  
-(5) provide contact information of 3 references.
+For more detail, please [check the post]({{ site.url }}{{ site.baseurl }}/downloads/Postdoc.pdf)
+
 
 </div>
 
@@ -27,13 +22,7 @@ In the email, please
 #### <b>博士后</b>
 
 研究组目前招聘有大气化学模式或遥感背景的博士后。
-更多细节，请[邮件联系]({{ site.url }}{{ site.baseurl }}/contact/)。  
-在邮件里，请您  
-（1）在标题里包含“博士后申请”字样；  
-（2）说明您的研究方向或兴趣；  
-（3）说明您为何对我们感兴趣；  
-（4）附上个人简历；  
-（5）提供3名推荐人的联系方式。
+更多细节，请[参见招聘广告]({{ site.url }}{{ site.baseurl }}/downloads/Postdoc.pdf)  
 
 </div>
 </div>
