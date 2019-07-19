@@ -14,7 +14,6 @@ permalink: /openings/
 We seek postdocs with expertise in Atmospheric Chemistry Modeling and/or Remote Sensing.
 For more detail, please [check the post]({{ site.url }}{{ site.baseurl }}/downloads/Postdoc.pdf)
 
-
 </div>
 
 <div class="col-sm-6 clearfix">
@@ -35,12 +34,10 @@ For more detail, please [check the post]({{ site.url }}{{ site.baseurl }}/downlo
 We recruit 1-3 PhD students and 1-2 Master students each year. 
 If you are interested in working with us, please send an [email]({{ site.url }}{{ site.baseurl }}/contact/).  
 In the email, please  
-(1) insert "PhD Application" or "Master Application" in the subject line,  
-(2) state briefly why you are interested in us,  
-(3) attach a CV,  
-(4) attach your Master (if any) and Undergraduate transcripts,  
-(5) provide contact information of 1-2 references.
-
+1. state briefly why you are interested in us,  
+2. attach a CV,  
+3. attach your Master (if any) and Undergraduate transcripts,  
+4. provide contact information of 1-2 references.
 
 </div>
 
@@ -50,11 +47,10 @@ In the email, please
 
 研究组每年招收1至3名博士研究生和1至2名硕士研究生。如果您有志加入我们，请[邮件联系]({{ site.url }}{{ site.baseurl }}/contact/)。  
 在邮件里，请您  
-（1）在标题里包含“博士申请”或“硕士申请”字样；  
-（2）简要说明您为何对我们感兴趣；  
-（3）附上个人简历；  
-（4）附上硕士（如果有）及本科阶段成绩单,  
-（5）提供1至2名推荐人的联系方式。
+1. 简要说明您为何对我们感兴趣；  
+2. 附上个人简历；  
+3. 附上硕士（如果有）及本科阶段成绩单,  
+4. 提供1至2名推荐人的联系方式。
 
 </div>
 </div>
