@@ -11,7 +11,7 @@ permalink: /openings/
 
 #### <b>Postdocs</b>
 
-We seek postdocs with expertise in Atmospheric Chemistry Modeling and/or Remote Sensing.
+We are now seeking postdocs with expertise in Atmospheric Chemistry Modeling and/or Remote Sensing.
 For more detail, please [check the post]({{ site.url }}{{ site.baseurl }}/downloads/Postdoc.pdf)
 
 </div>
@@ -20,7 +20,7 @@ For more detail, please [check the post]({{ site.url }}{{ site.baseurl }}/downlo
 
 #### <b>博士后</b>
 
-研究组目前招聘有大气化学模式或遥感背景的博士后。
+研究组目前招聘有大气化学模式或遥感背景的博士后。  
 更多细节，请[参见招聘广告]({{ site.url }}{{ site.baseurl }}/downloads/Postdoc.pdf)  
 
 </div>
