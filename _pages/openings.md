@@ -49,7 +49,7 @@ In the email, please
 (1) insert "PhD Application" or "Master Application" in the subject line,  
 (2) state briefly why you are interested in us,  
 (3) attach a CV,  
-(4) attach your Master (if any) and Undergraduate transcripts.
+(4) attach your Master (if any) and Undergraduate transcripts,  
 (5) provide contact information of 1-2 references.
 
 
@@ -64,7 +64,7 @@ In the email, please
 （1）在标题里包含“博士申请”或“硕士申请”字样；  
 （2）简要说明您为何对我们感兴趣；  
 （3）附上个人简历；  
-（4）附上硕士（如果有）及本科阶段成绩单。
+（4）附上硕士（如果有）及本科阶段成绩单,  
 （5）提供1至2名推荐人的联系方式。
 
 </div>
