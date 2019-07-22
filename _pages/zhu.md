@@ -25,8 +25,8 @@ Atmosphere-Land-Ocean Interactions
 #### <b>PROFESSIONAL EXPERIENCE</b>
 
 2019.12– Assistant Professor, Southern University of Science and Technology  
-2018.07–2019.12 Research Scholar, Harvard-Smithsonian Center for Astrophysics  
-2017.01–2019.04 Postdoc, Harvard University
+2018.08–2019.12 Research Scholar, Harvard-Smithsonian Center for Astrophysics  
+2017.01–2019.07 Postdoc, Harvard University
 
 #### <b>EDUCATION</b>
 
@@ -55,8 +55,8 @@ Atmosphere-Land-Ocean Interactions
 #### <b>职业经历</b>
 
 2019.12起 南方科技大学 助理教授  
-2018.07至2019.12 哈佛-史密松天体物理中心 研究员  
-2017.01至2019.04 哈佛大学 博士后  
+2018.08至2019.12 哈佛-史密松天体物理中心 研究员  
+2017.01至2019.07 哈佛大学 博士后  
 
 #### <b>教育背景</b>
 
