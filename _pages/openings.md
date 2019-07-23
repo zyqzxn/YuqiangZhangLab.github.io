@@ -32,7 +32,7 @@ For more details, please check [the post]({{ site.url }}{{ site.baseurl }}/downl
 #### <b>PhD and Master students</b>
 
 We recruit 1-3 PhD students and 1-2 Master students each year. 
-If you are interested in working with us, please send an [email]({{ site.url }}{{ site.baseurl }}/contact/).  
+If you are interested in working with us, please send us an [email]({{ site.url }}{{ site.baseurl }}/contact/).  
 In the email, please  
 (1) state briefly why you are interested in us,  
 (2) attach a CV,  
