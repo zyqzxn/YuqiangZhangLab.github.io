@@ -5,7 +5,7 @@
   location: Madison, WI, USA
 
 - title: "Effect of sea-salt aerosol on tropospheric bromine chemistry"
-  meeting: The 9th International Conference of GEOS-Chem
+  meeting: The 9th International GEOS-Chem Meeting
   presenter: Lei Zhu
   date: May 07, 2019
   location: Cambridge, MA, USA
@@ -27,6 +27,13 @@
   presenter: Lei Zhu
   date: March 08, 2016
   location: Boulder, CO, USA
+
+- title: "Indirect validation of new OMI, GOME-2B and OMPS formaldehyde retrievals using SEAC4RS data"
+  meeting: The 7th International GEOS-Chem Meeting
+  presenter: Lei Zhu
+  date: May 05, 2015
+  location: Cambridge, MA, USA
+  invited_talk: 0
 
 - title: "Anthropogenic emissions of highly reactive volatile organic compounds inferred from oversampling of OMI HCHO columns"
   meeting: AGU Fall Meeting

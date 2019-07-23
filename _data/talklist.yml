@@ -60,13 +60,6 @@
   date: June 02, 2015
   location: St. Louis, MO, USA
   invited_talk: 0
-  
-- title: "Indirect validation of new OMI, GOME-2B and OMPS formaldehyde retrievals using SEAC4RS data"
-  meeting: The 7th International Conference of GEOS-Chem
-  presenter: Lei Zhu
-  date: May 05, 2015
-  location: Cambridge, MA, USA
-  invited_talk: 0
    
 - title: "Validation of satellite HCHO observations (OMI, GOME-2B, OMPS) using SEAC4RS data"
   meeting: SEAC4RS Science Meeting
