@@ -35,7 +35,7 @@ We are interested in (1) using atmospheric chemistry models to interpret observa
 <div class="col-sm-7 clearfix">
 <h3>Observing trace gases from space</h3>  
 Satellites continuously measure trace gases (<i>e.g.</i>, ozone, SO<sub>2</sub>, NO<sub>2</sub>, 
-HCHO, CHOCHO, BrO, CO<sub>2</sub>, and CH<sub>4</sub>) on a global scale. Observations from space have been used extensively to monitor air quality, 
+HCHO, CHOCHO, BrO, CO<sub>2</sub>, NH<sub>3</sub>, and CH<sub>4</sub>) on a global scale. Observations from space have been used extensively to monitor air quality, 
 to quantify health effects, to constrain emission inventories, and to understand atmospheric chemistry processes.
 
 We are working on (1) exploiting satellite trace gas retrievals for air quality applications,
