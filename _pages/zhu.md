@@ -19,6 +19,7 @@ permalink: /zhu/
 
 Atmospheric Chemistry  
 Remote Sensing of Trace Gases  
+Data Assimilation  
 Air Quality  
 Atmosphere-Land-Ocean Interactions
 
@@ -30,9 +31,9 @@ Atmosphere-Land-Ocean Interactions
 
 #### <b>EDUCATION</b>
 
-2016.12 Ph.D. in Engineering Science, Harvard University  
-2011.07 MSci. in Environmental Science, Peking University  
-2008.06 B.S. in Environmental Science, Nankai University
+2016.12 PhD in Engineering Science, Harvard University  
+2011.07 MS in Environmental Science, Peking University  
+2008.06 BS in Environmental Science, Nankai University
 
 #### <b>SLECTED HONORS</b>
 
@@ -50,6 +51,7 @@ Atmosphere-Land-Ocean Interactions
 ####  <b>研究领域</b>
 大气化学  
 痕量气体遥感  
+数据同化  
 空气质量  
 大气-地面-海洋交互作用
 
