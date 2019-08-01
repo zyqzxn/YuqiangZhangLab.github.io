@@ -38,9 +38,9 @@ Atmosphere-Land-Ocean Interactions
 #### <b>SLECTED HONORS</b>
 
 2019 Recognized reviewer for <i>Atmospheric Pollution Research</i>  
-2018 USGS William T. Pecora Team Award  
+2018 William T. Pecora Team Award, DOI and NASA  
 2017 Outstanding reviewer for <i>Atmospheric Environment</i>  
-2015 NASA Group Achievement Award  
+2015 Group Achievement Award, NASA  
 2013 Harvard University Certificate of Distinction in Teaching  
 2008 Graduate with honors, Nankai University
 
@@ -70,7 +70,7 @@ Atmosphere-Land-Ocean Interactions
 #### <b>部分所获荣誉</b>
 
 2019 <i>Atmospheric Pollution Research</i> 优秀审稿人  
-2018 USGS William T. Pecora 团队奖  
+2018 美国内政部、NASA William T. Pecora 团队奖  
 2017 <i>Atmospheric Environment</i> 杰出审稿人  
 2015 NASA团队成就奖  
 2013 哈佛大学杰出教学认证  
