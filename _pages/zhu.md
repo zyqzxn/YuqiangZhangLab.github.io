@@ -141,8 +141,6 @@ Wang, B., L. Zhu, Z. Gong et al.: Introduction to the methods of parameter estim
 #### <b>INVITED SEMINARS | 受邀讲座</b>
 Satellite remote sensing for air quality applications, with a focus on formaldehyde (HCHO), <i>University of Illinois at Urbana–Champaign</i>, <u>March 28, 2019</u>, Champaign, IL, USA.
 
-Satellite remote sensing for air quality applications, with a focus on formaldehyde (HCHO), <i>Institute of Atmospheric Physics Chinese Academy of Sciences</i>, <u>March 19, 2019</u>, Beijing, China.
-
 Math in Nature: finding order in chaos, <i>Science in News</i>, <u>November 13, 2013</u>, Boston, MA, USA.
 
 </div>
