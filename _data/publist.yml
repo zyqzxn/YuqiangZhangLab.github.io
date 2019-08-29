@@ -1,3 +1,25 @@
+- title: "Development of the global atmospheric general circulation-chemistry model BCC-GEOS-Chem v1.0: model description and evaluation"
+  image: dummy.png
+  description: ""
+  authors: Xiao Lu, Lin Zhang, Tongwen Wu, Michael Long, Jun Wang, Daniel Jacob, Fang Zhang, Jie Zhang, Sebastian Eastham, Lu Hu, Lei Zhu, Xiong Liu, and Min Wei
+  link:
+    url: 
+    display: Submitted to Geoscientific Model Development (GMD), 2019.
+  highlight: 0
+  news2:
+  first_or_cor: 0
+
+- title: "TEMPO Green Paper; Chemistry, physics, and meteorology experiments with the Tropospheric Emissions: Monitoring of Pollution instrument"
+  image: dummy.png
+  description: ""
+  authors: K. Chance, X. Liu, C. Chan Miller, G.González Abad, G. Huang, C. Nowlan, A. Souri, R. Suleiman, K. Sun, H. Wang, L. Zhu, P. Zoogman, J. Al-Saadi, J.-C. Antuña-Marrero, J. Carr, R. Chatfield, M. Chin, R. Cohen, D. Edwards, J. Fishman, D. Flittner, J. Geddes, M. Grutter, J.R. Herman, D.J. Jacob, S. Janz J. Joiner, J. Kim, N.A. Krotkov, B. Lefer, R.V. Martin, O.L. Mayol-Bracero, A. Naeger, M. Newchurch, G.G. Pfister, K. Pickering, R.B. Pierce, C. Rivera Cárdenas, A. Saiz-Lopez, W. Simpson, E. Spinei, R.J.D. Spurr, J.J. Szykman, O. Torres, and J. Wang
+  link:
+    url: 
+    display: Submitted to Proc. SPIE, Vol. 11151, Sensors, Systems, and Next-Generation Satellites XXIII, 2019.
+  highlight: 0
+  news2:
+  first_or_cor: 0
+
 - title: "Effect of sea salt aerosol on tropospheric bromine chemistry"
   image: Pub_bromine.png
   description: We present a new mechanistic description of sea-salt aerosol debromination in the GEOS-Chem global atmospheric chemistry model with a detailed representation of halogen chemistry.
