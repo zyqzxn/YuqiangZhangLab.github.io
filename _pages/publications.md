@@ -51,9 +51,9 @@ permalink: /publications/
 ### Full List
 (First and corresponding author papers in **bold**)
 
-{% for publi in site.data.publist %}
+<p>test</p>
 
-<p></p>
+{% for publi in site.data.publist %}
 
 {% if publi.first_or_cor == 1 %}
   <b>{{ publi.title }}</b><br />
