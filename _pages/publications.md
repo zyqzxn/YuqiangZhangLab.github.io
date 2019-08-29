@@ -51,7 +51,7 @@ permalink: /publications/
 ### Full List
 (First and corresponding author papers in **bold**)
 
-<p>test</p>
+<p></p>
 
 {% for publi in site.data.publist %}
 
