@@ -1,7 +1,7 @@
 - name: <a href="https://www.acmrsg.org/zhu">Lei Zhu | 朱雷</a>
   photo: Lei_Zhu.jpg
   group_member: 1
-  info: Group Leader, Assistant Professor (will start in 2019 December)
+  info: Group Leader, Assistant Professor (2019.12–)
   email: lei.zhu.02@gmail.com
   number_educ: 5
   education1: 2019, Research Scholar, Harvard-Smithsonian Center for Astrophysics
@@ -9,6 +9,19 @@
   education3: 2016, PhD, Harvard University
   education4: 2011, MS, Peking University
   education5: 2008, BS, Nankai University
+  statement:
+
+- name: "Yuyang Chen | 陈雨阳"
+  photo: Yuyang_Chen.jpg
+  group_member: 1
+  info: Undergraduate Research Assistant; and PhD Student (2020.09–)
+  email: 11610403@mail.sustech.edu.cn
+  number_educ: 1
+  education1: 2020 (expected), BS, SUSTech
+  education2:
+  education3:
+  education4:
+  education5:
   statement:
   
 - name: "This could be you !"
