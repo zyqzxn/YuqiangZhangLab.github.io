@@ -86,6 +86,8 @@ See a full list my publications at [Google Scholar](https://scholar.google.com/c
 
 <b>First or corresponding author (*) | 第一或通讯作者
 
+Zhu, L.*, G. González Abad, C. R. Nowlan, et al.: Validation of satellite formaldehyde (HCHO) retrievals using observations from 12 aircraft campaigns, submitted to Atmos. Chem. Phys., 2019.
+
 Zhu, L.*, Jacob, D. J., Eastham, S. D., et al.: Effect of sea salt aerosol on tropospheric bromine chemistry, Atmos. Chem. Phys., 19, 6497-6507, 2019.
 
 Zhu, L.*, L. J. Mickley, D. J. Jacob et al.: Long-term (2005–2014) trends in formaldehyde (HCHO) columns across North America as seen by the OMI satellite instrument: Evidence of changing emissions of volatile organic compounds, Geophys. Res. Lett., 44, 7079–7086, 2017.
@@ -99,6 +101,10 @@ Zhu, L.*, D. J. Jacob, L. J. Mickley et al.: Anthropogenic emissions of highly r
 Zhu, L., X. Huang, H. Shi et al.: Transport pathways and potential sources of PM10 in Beijing, Atmos. Environ., 45, 594–604, 2011.
 
 <b>Co-authorship | 其他作者
+
+Lu, X. et al. including L. Zhu: Development of the global atmospheric general circulation-chemistry model BCC-GEOS-Chem v1.0: model description and evaluation, Geosci. Model Dev., 2019.
+
+Chance, K. et al. including L. Zhu: TEMPO Green Paper; Chemistry, physics, and meteorology experiments with the Tropospheric Emissions: Monitoring of Pollution instrument, Proc. SPIE 11151, Sensors, Systems, and Next-Generation Satellites XXIII, 111510B (10 October 2019).
 
 Shen, L., D. J. Jacob, L. Zhu et al.: The 2005–2016 Trends of Formaldehyde Columns Over China Observed by Satellites: Increasing Anthropogenic Emissions of Volatile Organic Compounds and Decreasing Agricultural Fire Emissions, Geophys. Res. Lett., 46, 2019.
 
