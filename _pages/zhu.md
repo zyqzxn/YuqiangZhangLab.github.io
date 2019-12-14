@@ -146,7 +146,7 @@ Wang, B., L. Zhu, Z. Gong et al.: Introduction to the methods of parameter estim
 
 #### <b>INVITED SEMINARS | 受邀讲座</b>
 
-Satellite remote sensing of trace gases: principles, methods, and applications for air quality studies, <i>Atmospheric Chemistry Forum</i>, <u>November 30, 2019</u>, online, [slides](https://app.box.com/s/8oa37qyp4ax9bbeqk6ylq36v8rynmurb).
+Satellite remote sensing of trace gases: principles, methods, and applications for air quality studies, <i>Atmospheric Chemistry Forum</i>, <u>November 30, 2019</u>, online, [slides](https://app.box.com/s/8oa37qyp4ax9bbeqk6ylq36v8rynmurb), [video](https://drive.google.com/file/d/1LdokMmfHXWG-tDpVzMeca0aVp-AcCjSR/view?usp=sharing).
 
 Satellite remote sensing for air quality applications, with a focus on formaldehyde (HCHO), <i>University of Illinois at Urbana–Champaign</i>, <u>March 28, 2019</u>, Champaign, IL, USA.
 
