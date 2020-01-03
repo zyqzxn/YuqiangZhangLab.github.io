@@ -13,7 +13,7 @@ permalink: /contact/
 ### Contact Us
 
 **Email:** 
-lei.zhu.02@gmail.com
+zhul3.sustech.edu.cn
 
 **Tel:** 
 +86-755-88010821
@@ -33,7 +33,7 @@ For more information, please see [map and direction](https://www.ese.sustc.edu.c
 ### 联系我们
 
 **邮箱：**
-lei.zhu.02@gmail.com
+zhul3.sustech.edu.cn
 
 **电话：** 
 0755-88010821
