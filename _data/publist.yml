@@ -1,10 +1,10 @@
-- title: "Validation of satellite formaldehyde (HCHO) retrievals using observations from 12 aircraft campaigns"
+﻿- title: "Validation of satellite formaldehyde (HCHO) retrievals using observations from 12 aircraft campaigns"
   image: Pub_flight_tracks.png
   description: We develop a global validation platform for satellite HCHO retrievals using observations from 12 aircraft campaigns with a chemical transport model (GEOS-Chem) as the intercomparison method.
   authors: Lei Zhu, Gonzalo González Abad, Caroline R. Nowlan, Christopher Chan Miller, Kelly Chance, Eric C. Apel, Joshua P. DiGangi, Alan Fried, Thomas F. Hanisco, Lu Hu, Jennifer Kaiser, Frank N. Keutsch, Wade Permar, Jason M. St. Clair, and Glenn M. Wolfe
   link:
-    url:
-    display: Submitted to Atmos. Chem. Phys., 2019
+    url: https://www.atmos-chem-phys-discuss.net/acp-2019-1117/#discussion
+    display: Atmos. Chem. Phys. Discuss., 2020
   highlight: 1
   news2:
   first_or_cor: 1
