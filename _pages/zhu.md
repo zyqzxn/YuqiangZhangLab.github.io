@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lei Zhu | 朱雷"
 layout: gridlay
 excerpt: "Lei Zhu"
@@ -26,7 +26,7 @@ Atmosphere-Land-Ocean Interactions
 #### <b>PROFESSIONAL EXPERIENCE</b>
 
 2019.12– Assistant Professor, Southern University of Science and Technology  
-2018.08–2019.12 Research Scholar, Harvard-Smithsonian Center for Astrophysics  
+2019.08–2019.12 Research Scholar, Harvard-Smithsonian Center for Astrophysics  
 2017.01–2019.07 Postdoc, Harvard University
 
 #### <b>EDUCATION</b>
@@ -57,7 +57,7 @@ Atmosphere-Land-Ocean Interactions
 #### <b>职业经历</b>
 
 2019.12起 南方科技大学 助理教授  
-2018.08至2019.12 哈佛-史密松天体物理中心 研究员  
+2019.08至2019.12 哈佛-史密松天体物理中心 研究员  
 2017.01至2019.07 哈佛大学 博士后  
 
 #### <b>教育背景</b>
@@ -86,7 +86,7 @@ See a full list my publications at [Google Scholar](https://scholar.google.com/c
 
 <b>First or corresponding author (*) | 第一或通讯作者
 
-Zhu, L.*, G. González Abad, C. R. Nowlan, et al.: Validation of satellite formaldehyde (HCHO) retrievals using observations from 12 aircraft campaigns, submitted to Atmos. Chem. Phys., 2019.
+Zhu, L.*, G. González Abad, C. R. Nowlan, et al.: Validation of satellite formaldehyde (HCHO) retrievals using observations from 12 aircraft campaigns, Atmos. Chem. Phys. Discuss., 2020.
 
 Zhu, L.*, Jacob, D. J., Eastham, S. D., et al.: Effect of sea salt aerosol on tropospheric bromine chemistry, Atmos. Chem. Phys., 19, 6497-6507, 2019.
 
