@@ -13,17 +13,17 @@ permalink: /contact/
 ### Contact Us
 
 **Email:** 
-zhul3@sustech.edu.cn; lei.zhu.02@gmail.com
+zhul3@sustech.edu.cn
 
 **Tel:** 
-+86-755-88010821
++86-755-26601426
 
 **Fax:** 
 +86-755-88010822
 
 **Address:**
 Taizhou Hall 429,
-1088 Xueyuan Ave., Shenzhen, Guangdong, China 518055.
+1088 Xueyuan Ave., Shenzhen, Guangdong, China, 518055
 
 For more information, please see [map and direction](https://www.ese.sustc.edu.cn/en/contact/index.aspx?nc=111038006).
 </div>
@@ -33,10 +33,10 @@ For more information, please see [map and direction](https://www.ese.sustc.edu.c
 ### 联系我们
 
 **邮箱：**
-zhul3@sustech.edu.cn; lei.zhu.02@gmail.com
+zhul3@sustech.edu.cn
 
 **电话：** 
-0755-88010821
+0755-26601426
 
 **传真：**
 0755-88010822
