@@ -37,6 +37,19 @@
   education5:
   statement:
 
+- name: "Lei Shu | 束蕾"
+  photo: Lei_Shu.jpg
+  group_member: 1
+  info: Postdoc (2020.09-)
+  email: shulei_nju@163.com
+  number_educ: 2
+  education1: 2015-2020, PhD, Nanjing University
+  education2: 2011-2015, BS, Nanjing University
+  education3:
+  education4:
+  education5:
+  statement:
+
 - name: "Wenfu Sun | 孙文夫"
   photo: Wenfu_Sun.jpg
   group_member: 1
