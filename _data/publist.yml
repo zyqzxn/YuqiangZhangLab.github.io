@@ -1,4 +1,15 @@
-﻿- title: "Validation of satellite formaldehyde (HCHO) retrievals using observations from 12 aircraft campaigns"
+﻿- title: "An Inversion of NOx and NMVOC Emissions using Satellite Observations during the KORUS-AQ Campaign and Implications for Surface Ozone over East Asia"
+  image: dummy.png
+  description: ""
+  authors: Souri, A. H., Nowlan, C. R., González Abad, G., Zhu, L., Blake, D. R., Fried, A., Weinheimer, A. J., Woo, J.-H., Zhang, Q., Chan Miller, C. E., Liu, X., and Chance, K.
+  link:
+    url: https://www.atmos-chem-phys-discuss.net/acp-2020-220/
+    display: Atmos. Chem. Phys. Discuss., 2020
+  highlight: 0
+  news2:
+  first_or_cor: 0
+
+- title: "Validation of satellite formaldehyde (HCHO) retrievals using observations from 12 aircraft campaigns"
   image: Pub_flight_tracks.png
   description: We develop a global validation platform for satellite HCHO retrievals using observations from 12 aircraft campaigns with a chemical transport model (GEOS-Chem) as the intercomparison method.
   authors: Lei Zhu, Gonzalo González Abad, Caroline R. Nowlan, Christopher Chan Miller, Kelly Chance, Eric C. Apel, Joshua P. DiGangi, Alan Fried, Thomas F. Hanisco, Lu Hu, Jennifer Kaiser, Frank N. Keutsch, Wade Permar, Jason M. St. Clair, and Glenn M. Wolfe
