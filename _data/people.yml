@@ -50,19 +50,6 @@
   education5:
   statement:
 
-- name: "Dakang Wang | 王大康"
-  photo: Dakang_Wang.jpg
-  group_member: 1
-  info: Postdoc (2020.09–)
-  email: wangdk@aircas.ac.cn
-  number_educ: 3
-  education1: 2017-2020, PhD, Chinese Academy of Sciences
-  education2: 2014-2017, MS, China University of Geosciences
-  education3: 2010-2014, BS, North China Institute of Science & Technology
-  education4:
-  education5:
-  statement:
-
 - name: "Wenfu Sun | 孙文夫"
   photo: Wenfu_Sun.jpg
   group_member: 1
@@ -72,6 +59,19 @@
   education1: 2017–2019, MS, National University of Singapore
   education2: 2013–2017, BS, Huazhong University of Science & Technology
   education3: 
+  education4:
+  education5:
+  statement:
+
+- name: "Dakang Wang | 王大康"
+  photo: Dakang_Wang.jpg
+  group_member: 1
+  info: Postdoc (2020.09–)
+  email: wangdk@aircas.ac.cn
+  number_educ: 3
+  education1: 2017-2020, PhD, Chinese Academy of Sciences
+  education2: 2014-2017, MS, China University of Geosciences
+  education3: 2010-2014, BS, North China Institute of Science & Technology
   education4:
   education5:
   statement:
