@@ -7,6 +7,6 @@ permalink: /courses/
 ---
 
 #### Computing and Programming for Environmental Research (ESE5023)
-
-<b>Graduate Level course</b> [Website](https://zhu-group.github.io/ese5023)  
+Graduate Level course
+2020 Fall, [Course Website](https://zhu-group.github.io/ese5023)  
 
