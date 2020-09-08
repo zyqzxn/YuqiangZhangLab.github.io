@@ -6,6 +6,7 @@ sitemap: false
 permalink: /courses/
 ---
 
-#### Under construction
+#### Computing and Programming for Environmental Research (ESE5023)
 
-Lei Zhu will teach at SUSTech starting from the fall of 2020...
+<b>Graduate Level course</b> [Website](https://zhu-group.github.io/ese5023)  
+
