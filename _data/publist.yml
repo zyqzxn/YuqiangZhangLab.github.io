@@ -14,8 +14,8 @@
   description: ""
   authors: Souri, A. H., Nowlan, C. R., González Abad, G., Zhu, L., Blake, D. R., Fried, A., Weinheimer, A. J., Woo, J.-H., Zhang, Q., Chan Miller, C. E., Liu, X., and Chance, K.
   link:
-    url: https://www.atmos-chem-phys-discuss.net/acp-2020-220/
-    display: Atmos. Chem. Phys. Discuss., 2020
+    url: https://doi.org/10.5194/acp-20-9837-2020
+    display: Atmos. Chem. Phys., 2020
   highlight: 0
   news2:
   first_or_cor: 0
@@ -26,7 +26,7 @@
   authors: Lei Zhu, Gonzalo González Abad, Caroline R. Nowlan, Christopher Chan Miller, Kelly Chance, Eric C. Apel, Joshua P. DiGangi, Alan Fried, Thomas F. Hanisco, Lu Hu, Jennifer Kaiser, Frank N. Keutsch, Wade Permar, Jason M. St. Clair, and Glenn M. Wolfe
   link:
     url: https://www.atmos-chem-phys-discuss.net/acp-2019-1117/#discussion
-    display: Atmos. Chem. Phys. Discuss., 2020
+    display: Atmos. Chem. Phys., 2020
   highlight: 1
   news2:
   first_or_cor: 1
@@ -36,8 +36,8 @@
   description: ""
   authors: Xiao Lu, Lin Zhang, Tongwen Wu, Michael Long, Jun Wang, Daniel Jacob, Fang Zhang, Jie Zhang, Sebastian Eastham, Lu Hu, Lei Zhu, Xiong Liu, and Min Wei
   link:
-    url: https://www.geosci-model-dev-discuss.net/gmd-2019-240
-    display: Geosci. Model Dev. Discuss., 2019
+    url: https://doi.org/10.5194/gmd-13-3817-2020
+    display: Geosci. Model Dev., 2020
   highlight: 0
   news2:
   first_or_cor: 0
