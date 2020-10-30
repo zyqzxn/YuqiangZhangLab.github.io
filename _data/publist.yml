@@ -1,4 +1,15 @@
-﻿- title: "Direct links between hygroscopicity and mixing state of ambient aerosols: estimating particle hygroscopicity from their single-particle mass spectra"
+﻿- title: "Global Significant Changes in Formaldehyde (HCHO) Columns Observed from Space at the Early Stage of the COVID-19 Pandemic"
+  image: dummy.png
+  description: ""
+  authors: Wenfu Sun, Lei Zhu, Isabelle De Smedt, Bin Bai, Dongchuan Pu, Yuyang Chen, Lei Shu, Dakang Wang, Tzung-May Fu, Xiaofei Wang, and Xin Yang
+  link:
+    url: 
+    display: submitted
+  highlight: 0
+  news2:
+  first_or_cor: 1
+
+- title: "Direct links between hygroscopicity and mixing state of ambient aerosols: estimating particle hygroscopicity from their single-particle mass spectra"
   image: dummy.png
   description: ""
   authors:  Xinning Wang, Xingnan Ye, Jianmin Chen, Xiaofei Wang, Xin Yang, Tzung-May Fu, Lei Zhu, and Chongxuan Liu 
@@ -25,7 +36,7 @@
   description: We develop a global validation platform for satellite HCHO retrievals using observations from 12 aircraft campaigns with a chemical transport model (GEOS-Chem) as the intercomparison method.
   authors: Lei Zhu, Gonzalo González Abad, Caroline R. Nowlan, Christopher Chan Miller, Kelly Chance, Eric C. Apel, Joshua P. DiGangi, Alan Fried, Thomas F. Hanisco, Lu Hu, Jennifer Kaiser, Frank N. Keutsch, Wade Permar, Jason M. St. Clair, and Glenn M. Wolfe
   link:
-    url: https://www.atmos-chem-phys-discuss.net/acp-2019-1117/#discussion
+    url: https://acp.copernicus.org/articles/20/12329/2020/
     display: Atmos. Chem. Phys., 2020
   highlight: 1
   news2:
