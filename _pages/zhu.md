@@ -7,9 +7,9 @@ permalink: /zhu/
 ---
 
 ### <b>Lei Zhu | 朱雷</b>
-[Download CV ]({{ site.url }}{{ site.baseurl }}/downloads/Lei_Zhu_CV_en.pdf)  
-[| 下载个人简历]({{ site.url }}{{ site.baseurl }}/downloads/Lei_Zhu_CV_ch.pdf)
-
+[| Download CV ]({{ site.url }}{{ site.baseurl }}/downloads/Lei_Zhu_CV_en.pdf)
+[| 下载个人简历]({{ site.url }}{{ site.baseurl }}/downloads/Lei_Zhu_CV_ch.pdf)  
+（Last updated: Nov. 1, 2020）  
 
 <div class="row">
 
@@ -37,7 +37,7 @@ Atmosphere-Land-Ocean Interactions
 
 #### <b>SLECTED HONORS</b>
 
-2020 American Meteorological Society Special Award for OMI
+2020 American Meteorological Society Special Award for OMI  
 2018 William T. Pecora Team Award, NASA and DOI  
 2017 Outstanding reviewer for <i>Atmospheric Environment</i>  
 2015 Group Achievement Award, NASA  
@@ -69,7 +69,7 @@ Atmosphere-Land-Ocean Interactions
 
 #### <b>部分所获荣誉</b>
 
-2020 美国气象学会年度贡献奖
+2020 美国气象学会年度贡献奖  
 2018 NASA、美国内政部 William T. Pecora 团队奖  
 2017 <i>Atmospheric Environment</i> 杰出审稿人  
 2015 NASA团队成就奖  
