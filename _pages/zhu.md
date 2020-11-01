@@ -7,8 +7,8 @@ permalink: /zhu/
 ---
 
 ### <b>Lei Zhu | 朱雷</b>
-[Download CV ]({{ site.url }}{{ site.baseurl }}/downloads/Lei_Zhu_CV_en.pdf)
-[ 个人简历]({{ site.url }}{{ site.baseurl }}/downloads/Lei_Zhu_CV_ch.pdf)
+[Download CV ]({{ site.url }}{{ site.baseurl }}/downloads/Lei_Zhu_CV_en.pdf)  
+[| 下载个人简历]({{ site.url }}{{ site.baseurl }}/downloads/Lei_Zhu_CV_ch.pdf)
 
 
 <div class="row">
@@ -37,6 +37,7 @@ Atmosphere-Land-Ocean Interactions
 
 #### <b>SLECTED HONORS</b>
 
+2020 American Meteorological Society Special Award for OMI
 2018 William T. Pecora Team Award, NASA and DOI  
 2017 Outstanding reviewer for <i>Atmospheric Environment</i>  
 2015 Group Achievement Award, NASA  
@@ -68,6 +69,7 @@ Atmosphere-Land-Ocean Interactions
 
 #### <b>部分所获荣誉</b>
 
+2020 美国气象学会年度贡献奖
 2018 NASA、美国内政部 William T. Pecora 团队奖  
 2017 <i>Atmospheric Environment</i> 杰出审稿人  
 2015 NASA团队成就奖  
@@ -86,7 +88,9 @@ See a full list my publications at [Google Scholar](https://scholar.google.com/c
 
 <b>First or corresponding author (*) | 第一或通讯作者
 
-Zhu, L.*, G. González Abad, C. R. Nowlan, et al.: Validation of satellite formaldehyde (HCHO) retrievals using observations from 12 aircraft campaigns, Atmos. Chem. Phys. Discuss., 2020.
+Sun, W., L. Zhu*, I. De Smedt et al: Global Significant Changes in Formaldehyde (HCHO) Columns Observed from Space at the Early Stage of the COVID-19 Pandemic, submitted, 2020.
+
+Zhu, L.*, G. González Abad, C. R. Nowlan, et al.: Validation of satellite formaldehyde (HCHO) retrievals using observations from 12 aircraft campaigns, Atmos. Chem. Phys., 20, 12329–12345, 2020.
 
 Zhu, L.*, Jacob, D. J., Eastham, S. D., et al.: Effect of sea salt aerosol on tropospheric bromine chemistry, Atmos. Chem. Phys., 19, 6497-6507, 2019.
 
@@ -102,7 +106,11 @@ Zhu, L., X. Huang, H. Shi et al.: Transport pathways and potential sources of PM
 
 <b>Co-authorship | 其他作者
 
-Lu, X. et al. including L. Zhu: Development of the global atmospheric general circulation-chemistry model BCC-GEOS-Chem v1.0: model description and evaluation, Geosci. Model Dev., 2019.
+Wang, X. et al. including L. Zhu: Direct links between hygroscopicity and mixing state of ambient aerosols: estimating particle hygroscopicity from their single-particle mass spectra, Atmos. Chem. Phys., 20, 6273–6290, 2020. 
+
+Souri, A. et al. including L. Zhu: An Inversion of NOx and NMVOC Emissions using Satellite Observations during the KORUS-AQ Campaign and Implications for Surface Ozone over East Asia, Atmos. Chem. Phys., 20, 9837–9854, 2020. 
+
+Lu, X. et al. including L. Zhu: Development of the global atmospheric general circulation-chemistry model BCC-GEOS-Chem v1.0: model description and evaluation, Geosci. Model Dev., 13, 3817– 3838, 2020.
 
 Chance, K. et al. including L. Zhu: TEMPO Green Paper; Chemistry, physics, and meteorology experiments with the Tropospheric Emissions: Monitoring of Pollution instrument, Proc. SPIE 11151, Sensors, Systems, and Next-Generation Satellites XXIII, 111510B (10 October 2019).
 
