@@ -8,13 +8,13 @@ permalink: /publications/
 
 <p></p>
 
-(<b>*</b> Corresponding author; PPPP <b>#</b> First author was advised by Lei Zhu )
+(<b>*</b> Corresponding author; <b>#</b> First author was advised by Lei Zhu )
 
 <p></p>
 
 {% for publi in site.data.publist %}
 
-<b>{{ publi.title }}</b>
-<br /> 
+  {{ publi.authors }}, <b>{{ publi.title }}</b>, <em>{{  publi.journal }}</em>, <a href="{{ publi.url }}">{{ publi.display }}</a>
+  <br /> 
 
 {% endfor %}
