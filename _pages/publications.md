@@ -8,13 +8,22 @@ permalink: /publications/
 
 <p></p>
 
-(* Corresponding author; & First author was advised by Lei Zhu )
+(* Corresponding author; ACMRSG members are in bold )
 
 <p></p>
 
 {% for publi in site.data.publist %}
 
-  {{ publi.authors }}, <b>{{ publi.title }}</b>, <em>{{  publi.journal }}</em>, <a href="{{ publi.url }}">{{ publi.display }}</a>
-  <br /> 
+  {% if year_flag == 1 %}
+    <b>{{ publi.year }}</b>
+    <br />  
+    {{ publi.authors }}, <b>{{ publi.title }}</b>, <em>{{  publi.journal }}</em>, <a href="{{ publi.url }}">{{ publi.display }}</a>
+    <br /> 
+  {% endif %}
+
+  {% if year_flag == 0 %}
+    {{ publi.authors }}, <b>{{ publi.title }}</b>, <em>{{  publi.journal }}</em>, <a href="{{ publi.url }}">{{ publi.display }}</a>
+    <br /> 
+  {% endif %}
 
 {% endfor %}
