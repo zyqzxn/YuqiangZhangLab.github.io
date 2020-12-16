@@ -8,13 +8,13 @@ permalink: /publications/
 
 <p></p>
 
-(* Corresponding author; ACMRSG members are in bold )
+(* Corresponding author; XXX ACMRSG members are in bold )
 
 <p></p>
 
 {% for publi in site.data.publist %}
 
-{% if publi.year_flag == 1 %}
+{% if {{ publi.year_flag }} == 1 %}
 
 <b>{{ publi.year }}</b>
 <p></p>
