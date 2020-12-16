@@ -4,7 +4,7 @@
   link:
     url: 
     display: Submitted
-  year:2020
+  year: 2020
   year_flag: 1
 
 - title: "Direct links between hygroscopicity and mixing state of ambient aerosols: estimating particle hygroscopicity from their single-particle mass spectra"
@@ -13,7 +13,7 @@
   link:
     url: https://www.atmos-chem-phys.net/20/6273/2020/
     display: Link
-  year:2020
+  year: 2020
   year_flag: 0
 
 - title: "An Inversion of NOx and NMVOC Emissions using Satellite Observations during the KORUS-AQ Campaign and Implications for Surface Ozone over East Asia"
@@ -22,7 +22,7 @@
   link:
     url: https://doi.org/10.5194/acp-20-9837-2020
     display: Link
-  year:2020
+  year: 2020
   year_flag: 0
 
 - title: "Validation of satellite formaldehyde (HCHO) retrievals using observations from 12 aircraft campaigns"
@@ -31,7 +31,7 @@
   link:
     url: https://acp.copernicus.org/articles/20/12329/2020/
     display: Link
-  year:2020
+  year: 2020
   year_flag: 0
   
 - title: "Development of the global atmospheric general circulation-chemistry model BCC-GEOS-Chem v1.0: model description and evaluation"
@@ -39,5 +39,5 @@
   link:
     url: https://doi.org/10.5194/gmd-13-3817-2020
     display: Link
-  year:2020
+  year: 2020
   year_flag: 0
