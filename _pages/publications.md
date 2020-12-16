@@ -8,14 +8,14 @@ permalink: /publications/
 
 <p></p>
 
-(<b>*</b> Corresponding author; <b>#</b> First author was advised by Lei Zhu )
+(<b>*</b> Corresponding author; PPPP <b>#</b> First author was advised by Lei Zhu )
 
 <p></p>
 
 {% for publi in site.data.publist %}
 
-{% if year_flag == 1 %}
-  <b>{{ publi.year }}</b>
+{% if year_flag == 0 %}
+  <b>{{ publi.title }}</b>
   <br />  
 {% endif %}
 
