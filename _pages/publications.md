@@ -15,12 +15,12 @@ permalink: /publications/
 {% for publi in site.data.publist_SUSTech %}
 
 {% if year_flag == 1 %}
-  <b>{{ publi.title }}</b>
+  <b>{{ publist_SUSTech.year }}</b>
   <br />  
 {% endif %}
 
 {% if year_flag == 0 %}
-  {{ publi.authors }}, <b>{{ publi.title }}</b>, <em>{{  journal }}</em>, [<a href="{{ publi.link.url }}">{{ publi.link.display }}]</a>
+  {{ publist_SUSTech.authors }}, <b>{{ publist_SUSTech.title }}</b>, <em>{{  journal }}</em>, [<a href="{{ publist_SUSTech.url }}">{{ publist_SUSTech.display }}]</a>
   <br />
 {% endif %}
 
