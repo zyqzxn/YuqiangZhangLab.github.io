@@ -15,14 +15,14 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 
 {% if year_flag == 1 %}
-  <b>{{ publist.year }}</b>
+  <b>{{ publi.year }}</b>
   <br />  
-  {{ publist.authors }}, <b>{{ publist.title }}</b>, <em>{{  journal }}</em>, [<a href="{{ publist.url }}">{{ publist.display }}]</a>
+  {{ publi.authors }}, <b>{{ publi.title }}</b>, <em>{{  publi.journal }}</em>, [<a href="{{ publi.url }}">{{ publi.display }}]</a>
   <br />
 {% endif %}
 
 {% if year_flag == 0 %}
-  {{ publist.authors }}, <b>{{ publist.title }}</b>, <em>{{  journal }}</em>, [<a href="{{ publist.url }}">{{ publist.display }}]</a>
+  {{ publi.authors }}, <b>{{ publi.title }}</b>, <em>{{  publi.journal }}</em>, [<a href="{{ publi.url }}">{{ publi.display }}]</a>
   <br />
 {% endif %}
 
