@@ -14,7 +14,7 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
-{% if year_flag == 1 %}
+{% if publi.year_flag == 1 %}
 
 <b>{{ publi.year }}</b>
 <p></p>
