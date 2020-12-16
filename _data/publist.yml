@@ -32,8 +32,8 @@
    
 - title: "Development of the global atmospheric general circulation-chemistry model BCC-GEOS-Chem v1.0: model description and evaluation"
   authors: Lu, X., Zhang, L., Wu, T., Long, M. S., Wang, J., Jacob, D. J., Zhang, F., Zhang, J., Eastham, S. D., Hu, L., <b>Zhu, L.</b>, Liu, X., and Wei, M.
-  url: https://doi.org/10.5194/gmd-13-3817-2020
   journal: Geoscientific Model Development  
+  url: https://doi.org/10.5194/gmd-13-3817-2020
+  display: Link
   year: 2020
   year_flag: 0  
-
