@@ -8,17 +8,15 @@ permalink: /publications/
 
 <p></p>
 
-(* Corresponding author; PPP ACMRSG members are in bold )
+(* Corresponding author; ACMRSG members are in bold )
 
 <p></p>
 
 {% for publi in site.data.publist %}
 
-
-    <b>{{ publi.year }}</b>
-    <br />  
-    {{ publi.authors }}, <b>{{ publi.title }}</b>, <em>{{  publi.journal }}</em>, <a href="{{ publi.url }}">{{ publi.display }}</a>
-    <br /> 
-
+<b>{{ publi.year }}</b>
+<p></p>
+{{ publi.authors }}, <b>{{ publi.title }}</b>, <em>{{  publi.journal }}</em>, <a href="{{ publi.url }}">{{ publi.display }}</a>
+<br /> 
 
 {% endfor %}
