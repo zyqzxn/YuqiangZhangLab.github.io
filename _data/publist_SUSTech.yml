@@ -1,0 +1,41 @@
+﻿- title: "2020"
+  year_flag: 1
+
+- title: "Global Significant Changes in Formaldehyde (HCHO) Columns Observed from Space at the Early Stage of the COVID-19 Pandemic"
+  authors: Wenfu Sun #, Lei Zhu *, Isabelle De Smedt, Bin Bai, Dongchuan Pu, Yuyang Chen, Lei Shu, Dakang Wang, Tzung-May Fu, Xiaofei Wang, and Xin Yang
+  journal: Atmospheric Chemistry and Physics
+  link:
+    url: 
+    display: Submitted
+  year_flag: 0
+
+- title: "Direct links between hygroscopicity and mixing state of ambient aerosols: estimating particle hygroscopicity from their single-particle mass spectra"
+  authors:  Xinning Wang, Xingnan Ye, Jianmin Chen, Xiaofei Wang, Xin Yang, Tzung-May Fu, Lei Zhu, and Chongxuan Liu 
+  journal: Atmospheric Chemistry and Physics
+  link:
+    url: https://www.atmos-chem-phys.net/20/6273/2020/
+    display: Link
+  year_flag: 0
+
+- title: "An Inversion of NOx and NMVOC Emissions using Satellite Observations during the KORUS-AQ Campaign and Implications for Surface Ozone over East Asia"
+  authors: Souri, A. H., Nowlan, C. R., González Abad, G., Zhu, L., Blake, D. R., Fried, A., Weinheimer, A. J., Wisthaler, A., Woo, J.-H., Zhang, Q., Chan Miller, C. E., Liu, X., and Chance, K.
+  journal: Atmospheric Chemistry and Physics
+  link:
+    url: https://doi.org/10.5194/acp-20-9837-2020
+    display: Link
+  year_flag: 0
+
+- title: "Validation of satellite formaldehyde (HCHO) retrievals using observations from 12 aircraft campaigns"
+  authors: Zhu, L. *, González Abad, G., Nowlan, C. R., Chan Miller, C., Chance, K., Apel, E. C., DiGangi, J. P., Fried, A., Hanisco, T. F., Hornbrook, R. S., Hu, L., Kaiser, J., Keutsch, F. N., Permar, W., St. Clair, J. M., and Wolfe, G. M.
+  journal: Atmospheric Chemistry and Physics
+  link:
+    url: https://acp.copernicus.org/articles/20/12329/2020/
+    display: Link
+  year_flag: 0
+  
+- title: "Development of the global atmospheric general circulation-chemistry model BCC-GEOS-Chem v1.0: model description and evaluation"
+  authors: Lu, X., Zhang, L., Wu, T., Long, M. S., Wang, J., Jacob, D. J., Zhang, F., Zhang, J., Eastham, S. D., Hu, L., Zhu, L., Liu, X., and Wei, M.
+  link:
+    url: https://doi.org/10.5194/gmd-13-3817-2020
+    display: Link
+  year_flag: 0
