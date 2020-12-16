@@ -8,7 +8,7 @@ permalink: /publications/
 
 <p></p>
 
-(<b>*</b> Corresponding author; PPP <b>#</b> First author was advised by Lei Zhu )
+(* Corresponding author; & First author was advised by Lei Zhu )
 
 <p></p>
 
