@@ -14,7 +14,7 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
-{{ publi.authors }}, <b>{{ publi.title }}</b>, <em>{{  publi.journal }}</em>, {{ publi.year }}, <a href="{{ publi.url }}">{{ publi.display }}</a>.
+{{ publi.authors }}, <b>{{ publi.title }}</b>, <em>{{  publi.journal }}</em>, {{ publi.year }}. <a href="{{ publi.url }}">{{ publi.display }}</a>
 <br /> 
 
 {% endfor %}
