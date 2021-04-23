@@ -88,7 +88,7 @@ See a full list my publications at [Google Scholar](https://scholar.google.com/c
 
 <b>First or corresponding author (*) | 第一或通讯作者
 
-Sun, W., L. Zhu*, I. De Smedt et al: Global Significant Changes in Formaldehyde (HCHO) Columns Observed from Space at the Early Stage of the COVID-19 Pandemic, submitted, 2020.
+Sun, W., L. Zhu*, I. De Smedt et al: Global Significant Changes in Formaldehyde (HCHO) Columns Observed from Space at the Early Stage of the COVID-19 Pandemic, Geophys. Res. Lett., 48, 2e020GL091265, 2021.
 
 Zhu, L.*, G. González Abad, C. R. Nowlan, et al.: Validation of satellite formaldehyde (HCHO) retrievals using observations from 12 aircraft campaigns, Atmos. Chem. Phys., 20, 12329–12345, 2020.
 
