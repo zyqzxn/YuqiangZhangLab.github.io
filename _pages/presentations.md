@@ -11,7 +11,7 @@ permalink: /presentations/
 
 ### Talks
 
-{% for talk in site.data.talklist %}
+{% for talk in site.data.talks %}
 
   {% if talk.invited_talk == 1 %}
   {{ talk.title }}, presented by {{ talk.presenter }} at <b>{{ talk.meeting }}</b>, <u>{{ talk.date }}</u>, {{ talk.location }}. <b>(Invited)</b>
@@ -28,7 +28,7 @@ permalink: /presentations/
 
 ### Posters
 
-{% for poster in site.data.posterlist %}
+{% for poster in site.data.posters %}
 
   {{ poster.title }}, presented by {{ poster.presenter }} at <b>{{ poster.meeting }}</b>, <u>{{ poster.date }}</u>, {{ poster.location }}.
   

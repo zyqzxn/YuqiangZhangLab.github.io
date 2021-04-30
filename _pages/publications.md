@@ -12,9 +12,9 @@ permalink: /publications/
 
 <p></p>
 
-{% for publi in site.data.publist %}
+{% for publication in site.data.publications %}
 
-{{ publi.authors }}: {{ publi.title }}, <b><em>{{  publi.journal }}</em></b>, {{ publi.year }}. <a href="{{ publi.url }}">{{ publi.display }}</a>
+{{ publication.authors }}: {{ publication.title }}, <b><em>{{  publication.journal }}</em></b>, {{ publication.year }}. <a href="{{ publication.url }}">{{ publication.display }}</a>
 <br /> 
 
 {% endfor %}

@@ -10,15 +10,11 @@ permalink: /group_meetings/
 
 Group meettings are held every other week. The normal time/place is Th. 1400 in CoE North 901.
 
-Schedule is subject to change, please check frequently. 
+<b>Schedule is subject to change, please check frequently. </b>
 
-5/13  陈雨阳
-5/27  蒲东川
-6/10  李熹成
-6/24  孙帅
-7/8    白彬
-7/22  朱雷
-8/5    束蕾
-8/19  孙文夫
-9/2    刘嵩
-9/16  王大康
+{% for meeting in site.data.group_meetings %}
+
+<b>{{ meeting.date}}</b>  {{ meeting.presenter}} </a>
+<br /> 
+
+{% endfor %}
