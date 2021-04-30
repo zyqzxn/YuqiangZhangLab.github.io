@@ -14,7 +14,7 @@ Group meettings are held every other week. The normal time/place is Th. 1400 in 
 
 {% for meeting in site.data.group_meetings %}
 
-<b>{{ meeting.date}}</b>  {{ meeting.presenter}} </a>
+<b>{{ meeting.date}}</b>  {{ meeting.presenter}}
 <br /> 
 
 {% endfor %}
