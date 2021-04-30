@@ -3,7 +3,7 @@ title: "Group meettings | 组会"
 layout: textlay
 excerpt: "Group Meetings"
 sitemap: false
-permalink: /group_meettings/
+permalink: /group_meetings/
 ---
 
 ## Group Meeting Schedule
