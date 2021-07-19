@@ -14,7 +14,7 @@ permalink: /publications/
 
 {% for publication in site.data.publications %}
 
-{{ publication.authors }}: {{ publication.title }}, <b><em>{{  publication.journal }}</em></b>, {{ publication.year }}. <a href="{{ publication.url }}">{{ publication.display }}</a>
+{{ publication.authors }}: <b>{{ publication.title }}</b>, <b><em>{{  publication.journal }}</em></b>, {{ publication.year }}. <a href="{{ publication.url }}">{{ publication.display }}</a>
 <br /> 
 
 {% endfor %}
