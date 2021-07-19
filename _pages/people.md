@@ -6,6 +6,8 @@ sitemap: false
 permalink: /people/
 ---
 
+### Current group members
+
 {% assign number_printed = 0 %}
 {% for member in site.data.people %}
 
@@ -82,3 +84,18 @@ permalink: /people/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+### Alumni List
+
+<div class="row">
+<div class="col-sm-10 clearfix">
+
+{% for alumni in site.data.alumni %}
+
+  <b>{{ alumni.name }}</b>, {{ alumni.info }}, Now: {{ alumni.now }}.
+  
+{% endfor %}
+
+</div>
+</div>
+
