@@ -8,7 +8,7 @@ permalink: /publications/
 
 <p></p>
 
-(<b>*</b> Corresponding author; ACMRSG members are in bold )
+(ACMRSG members in bold; <b>*</b> Lei Zhu as the corresponding author)
 
 <p></p>
 

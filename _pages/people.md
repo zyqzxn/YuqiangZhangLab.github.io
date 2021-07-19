@@ -85,6 +85,8 @@ permalink: /people/
 </div>
 {% endif %}
 
+<p></p>
+
 ### Alumni List
 
 <div class="row">
