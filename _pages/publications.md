@@ -8,7 +8,7 @@ permalink: /publications/
 
 <p></p>
 
-(<b>*</b> Corresponding author; ACMRSG members are shown in bold )
+(<b>*</b> Corresponding author; ACMRSG members are in bold )
 
 <p></p>
 

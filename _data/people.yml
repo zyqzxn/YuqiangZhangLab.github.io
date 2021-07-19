@@ -11,19 +11,6 @@
   education5: 2004–2008, BS, Nankai University
   statement:
 
-- name: "Bin Bai | 白彬"
-  photo: Bin_Bai.jpg
-  group_member: 1
-  info: Research Assistant (2020.08–)
-  email: 1600013520@pku.edu.cn
-  number_educ: 1
-  education1: 2016-2020, BS, Peking University
-  education2:
-  education3:
-  education4:
-  education5:
-  statement:
-
 - name: "Yuyang Chen | 陈雨阳"
   photo: Yuyang_Chen.jpg
   group_member: 1
@@ -128,19 +115,6 @@
   education5:
   statement:
 
-- name: "Liqian Tan | 谭力乾"
-  photo: Liqian_Tan.jpg
-  group_member: 1
-  info: Undergraduate Research Assistant (2020.09–)
-  email: 11712710@mail.sustech.edu.cn
-  number_educ: 1
-  education1: 2017–2021, BS, SUSTech
-  education2: 
-  education3: 
-  education4:
-  education5:
-  statement:
-
 - name: <a href="https://www.researchgate.net/profile/Dakang_Wang2">Dakang Wang | 王大康</a>
   photo: Dakang_Wang.jpg
   group_member: 1
@@ -150,6 +124,19 @@
   education1: 2017-2020, PhD, Chinese Academy of Sciences
   education2: 2014-2017, MS, China University of Geosciences
   education3: 2010-2014, BS, North China Institute of Science & Technology
+  education4:
+  education5:
+  statement:
+
+- name: "Xin Zhang | 张馨"
+  photo: Xin_Zhang.jpg
+  group_member: 1
+  info: Research Assistant (2021.07–)
+  email: zhangx7@mail.sustech.edu.cn
+  number_educ: 1
+  education1: 2016-2020, BS, Xi'an Polytechnic University
+  education2: 
+  education3: 
   education4:
   education5:
   statement:

@@ -92,7 +92,7 @@ permalink: /people/
 
 {% for alumni in site.data.alumni %}
 
-  <b>{{ alumni.name }}</b>, {{ alumni.info }}, Now: {{ alumni.now }}.
+  {{ alumni.name }}, {{ alumni.info }}, Now: {{ alumni.now }}.
   
 {% endfor %}
 
