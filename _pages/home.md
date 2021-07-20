@@ -45,8 +45,7 @@ We work with researchers all over the world through collaborative model developm
 
 We are part of the [School of Environmental Science and Engineering](https://www.ese.sustc.edu.cn/en/) at [SUSTech](https://www.sustech.edu.cn/en), a new research-oriented public university in Shenzhen - the innovation center of China.
 
-**We are now hiring Postdocs. 
-We are also seeking passionate Ph.D., Master, and Undergraduate students to join the group.**
+We are seeking passionate Ph.D., Master, and Undergraduate students to join the group.
 Please check out our [Openings]({{ site.url }}{{ site.baseurl }}/openings).
 
 <p style="text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/images/sustech_logo.png" style="width: 240px">
