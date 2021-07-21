@@ -25,7 +25,7 @@ zhul3@sustech.edu.cn
 CoE North 907,
 1088 Xueyuan Ave., Shenzhen, Guangdong, China, 518055
 
-For more information, please see [map and direction](https://ese.sustech.edu.cn/footer/lxwm/id-123.html).
+For more information, please see [map and direction](https://ese.sustech.edu.cn/footer/lxwm/id-123.html?locale=en_US).
 </div>
 
 <div class="col-sm-6 clearfix">
