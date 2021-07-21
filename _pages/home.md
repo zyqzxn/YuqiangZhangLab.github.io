@@ -43,7 +43,7 @@ Our goal is to better understand processes governing the distributions of atmosp
 To this end, our [research]({{ site.url }}{{ site.baseurl }}/research) combines modeling, remote sensing, and data assimilation techniques.
 We work with researchers all over the world through collaborative model development, satellite missions, field campaigns, and global measurement networks.
 
-We are part of the [School of Environmental Science and Engineering](https://www.ese.sustc.edu.cn/en/) at [SUSTech](https://www.sustech.edu.cn/en), a new research-oriented public university in Shenzhen - the innovation center of China.
+We are part of the [School of Environmental Science and Engineering](https://ese.sustech.edu.cn) at [SUSTech](https://www.sustech.edu.cn/en), a new research-oriented public university in Shenzhen - the innovation center of China.
 
 We are seeking passionate Ph.D., Master, and Undergraduate students to join the group.
 Please check out our [Openings]({{ site.url }}{{ site.baseurl }}/openings).

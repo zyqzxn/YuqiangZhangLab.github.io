@@ -25,7 +25,7 @@ zhul3@sustech.edu.cn
 CoE North 907,
 1088 Xueyuan Ave., Shenzhen, Guangdong, China, 518055
 
-For more information, please see [map and direction](https://www.ese.sustc.edu.cn/en/contact/index.aspx?nc=111038006).
+For more information, please see [map and direction](https://ese.sustech.edu.cn/footer/lxwm/id-123.html).
 </div>
 
 <div class="col-sm-6 clearfix">
@@ -44,7 +44,7 @@ zhul3@sustech.edu.cn
 **地址：** 
 广东省深圳市南山区学苑大道1088号南方科技大学工学院北楼907（邮编 518055）
 
-详细路线请参考[地图与指示](https://www.ese.sustc.edu.cn/contact/index.aspx?nc=101038006)。
+详细路线请参考[地图与指示](https://ese.sustech.edu.cn/footer/lxwm/id-123.html?locale=zh_CN)。
 
 </div>
 
