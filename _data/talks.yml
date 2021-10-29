@@ -2,14 +2,14 @@
   meeting: 第二届大气环境遥感与协同分析学术论坛
   presenter: Song Liu
   date: October 16, 2021
-  location: 徐州，江苏
+  location: 徐州, 江苏
   invited_talk: 0
 
 - title: "高分五号卫星甲醛烟感反演进展"
   meeting: 第二届大气环境遥感与协同分析学术论坛
   presenter: Dakang Wang
   date: October 16, 2021
-  location: 徐州，江苏
+  location: 徐州, 江苏
   invited_talk: 0
 
 - title: "卫星遥感在空气质量监测中的应用"
@@ -23,7 +23,7 @@
   meeting: 暨南大学
   presenter: Lei Zhu
   date: April 20, 2021
-  location: 广州，广东
+  location: 广州, 广东
   invited_talk: 1
 
 - title: "Constraining the NMVOC emissions from space using satellite HCHO: A case study during the COVID-19 pandemic"
@@ -37,7 +37,7 @@
   meeting: 第25届大气污染防治技术研讨会
   presenter: Lei Zhu
   date: April 10, 2021
-  location: 西安，陕西
+  location: 西安, 陕西
   invited_talk: 0
 
 - title: "全球地表甲醛的估算"
@@ -51,14 +51,14 @@
   meeting: 首届大气环境遥感与协同分析青年学者论坛
   presenter: Lei Zhu
   date: Novberm 29, 2020
-  location: 珠海，广东
+  location: 珠海, 广东
   invited_talk: 0
 
 - title: "Satellite remote sensing of trace gases: principles, methods, and applications for air quality studies"
   meeting: Nankai University
   presenter: Lei Zhu
   date: October 07, 2020
-  location: 天津，天津
+  location: 天津, 天津
   invited_talk: 1
 
 - title: "Validation of satellite formaldehyde (HCHO) retrievals using observations from 12 aircraft campaigns"
