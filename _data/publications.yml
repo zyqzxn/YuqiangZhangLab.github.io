@@ -1,8 +1,15 @@
 ﻿- title: "The influence of snow cover on Ozone Monitor Instrument formaldehyde observations"
   authors:  C. Howlett, G. González Abad, C. Chan Miller, C. R. Nowlan, Z. Ayazpour, and <b>L. Zhu</b>
-  journal:  Submitted
-  url: 
+  journal:  Atmósfera
+  url: https://www.revistascca.unam.mx/atm/index.php/atm
   display: 
+  year: 2022
+
+- title: "Source and variability of formaldehyde (HCHO) at northern high latitude: an integrated satellite, aircraft, and model study"
+  authors: Tianlang Zhao, Jingqiu Mao, William R. Simpson, Isabelle De Smedt, <b>Lei Zhu</b>, Thomas F. Hanisco, Glenn M. Wolfe, Jason M. St. Clair, Gonzalo González Abad, Caroline R. Nowlan, Barbara Barletta, Simone Meinardi, and Donald R. Blake  
+  journal:  Atmospheric Chemistry and Physics
+  url: https://doi.org/10.5194/acp-2021-820
+  display: Link
   year: 2022
 
 - title: "Improved Ozone Simulation in East Asia via Assimilating Observations from the First Geostationary Air-quality Monitoring Satellite: Insights from an Observing System Simulation Experiment"
@@ -25,13 +32,6 @@
   url: https://doi.org/10.1021/acs.est.1c06180
   display: Link
   year: 2022
-
-- title: "Source and variability of formaldehyde (HCHO) at northern high latitude: an integrated satellite, ground/aircraft, and model study"
-  authors: Tianlang Zhao, Jingqiu Mao, William R. Simpson, Isabelle De Smedt, <b>Lei Zhu</b>, Thomas F. Hanisco, Glenn M. Wolfe, Jason M. St. Clair, Gonzalo González Abad, Caroline R. Nowlan, Barbara Barletta, Simone Meinardi, and Donald R. Blake  
-  journal:  Atmospheric Chemistry and Physics Discussions
-  url: https://acp.copernicus.org/preprints/acp-2021-820/
-  display: Link
-  year: 2021
 
 - title: "Impact of traffic reductions on the air quality during the COVID-19 lockdown in the Metro Atlanta Area, United States"
   authors: Huang, G., Ponder, R., Bond, A., Brim, H., Temeng, A., Naeger, A., <b>Zhu, L.</b>  
