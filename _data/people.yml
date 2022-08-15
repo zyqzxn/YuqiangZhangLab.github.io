@@ -53,11 +53,11 @@
 - name: "Xicheng Li | 李熹成"
   photo: Xicheng_Li.jpg
   group_member: 1
-  info: Master Student (2021.01–)
+  info: PhD Student (2022.07–)
   email: 12032924@mail.sustech.edu.cn
-  number_educ: 1
+  number_educ: 2
   education1: 2016–2020, BS, SUSTech
-  education2:
+  education2: 2020-2022, MS, SUSTech
   education3:
   education4:
   education5:
@@ -85,19 +85,6 @@
   education1: 2017–2020, MS, Jilin University
   education2: 2018–2020, MS, Chinese Academy of Sciences (Joint Program)
   education3: 2013–2017, BS, Jilin University
-  education4:
-  education5:
-  statement:
-
-- name: <a href="https://www.researchgate.net/profile/Lei_Shu16">Lei Shu | 束蕾</a>
-  photo: Lei_Shu.jpg
-  group_member: 1
-  info: Postdoc (2020.08–)
-  email: shul@sustech.edu.cn
-  number_educ: 2
-  education1: 2015-2020, PhD, Nanjing University
-  education2: 2011-2015, BS, Nanjing University
-  education3:
   education4:
   education5:
   statement:
