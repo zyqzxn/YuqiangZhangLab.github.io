@@ -6,7 +6,7 @@ sitemap: false
 permalink: /courses/
 ---
 
-### Environmental Data Analysis (ESE 335)
+#### Environmental Data Analysis (ESE 335)
 
 [Course website](https://zhu-group.github.io/ese335) 
 
@@ -27,7 +27,7 @@ Topics include:
 Students will also learn how to conduct data analysis and visualization properly using the R language.   
 
 
-### Computing and Programming for Environmental Research (ESE5023)
+#### Computing and Programming for Environmental Research (ESE5023)
 
 [Course website](https://zhu-group.github.io/ese5023)  
 
