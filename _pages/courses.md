@@ -1,16 +1,16 @@
 ---
-title: Courses
-layout: textlay
-excerpt: Courses
+title: "Courses | 课程"
+layout: gridlay
+excerpt: "Courses"
 sitemap: false
 permalink: /courses/
 ---
 
-#### Environmental Data Analysis (ESE 335)
+#### Environmental Data Analysis (ESE335)
 
 [Course website](https://zhu-group.github.io/ese335) 
 
-This course will teach students how to apply suitable statistical methods and visualization tools to analyze environmental data. 
+This course is about applying suitable statistical methods and visualization tools to analyze environmental data. 
   
 Topics include:  
   * basics of statistics,   
@@ -31,8 +31,7 @@ Students will also learn how to conduct data analysis and visualization properly
 
 [Course website](https://zhu-group.github.io/ese5023)  
 
-This course will introduce students to modern computing software, programming tools,   
-and practices that are broadly applicable in their later research.   
+This course introduces students to modern computing software, programming tools, and practices that are broadly applicable in their later research.   
 
 This course will include:  
   * an introduction to Linux,   
