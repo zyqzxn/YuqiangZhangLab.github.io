@@ -102,19 +102,6 @@
   education5:
   statement:
 
-- name: "Huiru Zhao | 赵慧茹"
-  photo: Huiru_Zhao.jpg
-  group_member: 1
-  info: Group Secretary (2022.06–)
-  email: zhaohr3@mail.sustech.edu.cn
-  number_educ: 2
-  education1: 2017-2020, MS, China Three Gorges University
-  education2: 2014-2016, BS, Anyang Institute of Technology
-  education3: 
-  education4:
-  education5:
-  statement:
-
 - name: "Peng Zhang | 张鹏"
   photo: Peng_Zhang.jpg
   group_member: 1
@@ -123,6 +110,19 @@
   number_educ: 1
   education1: 2019-2023, BS, North China Electric Power University
   education2: 
+  education3: 
+  education4:
+  education5:
+  statement:
+
+- name: "Huiru Zhao | 赵慧茹"
+  photo: Huiru_Zhao.jpg
+  group_member: 1
+  info: Group Secretary (2022.06–)
+  email: zhaohr3@mail.sustech.edu.cn
+  number_educ: 2
+  education1: 2017-2020, MS, China Three Gorges University
+  education2: 2014-2016, BS, Anyang Institute of Technology
   education3: 
   education4:
   education5:
