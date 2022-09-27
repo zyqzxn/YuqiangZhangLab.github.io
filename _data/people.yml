@@ -63,6 +63,19 @@
   education5:
   statement:
 
+- name: "Yali Li | 李亚莉"
+  photo: Yali_Li.jpg
+  group_member: 1
+  info: Master Student (2023.07–)
+  email: 2837133703@qq.com
+  number_educ: 1
+  education1: 2019-2023, BS, North China University of Water Resources and Electric Power
+  education2: 
+  education3: 
+  education4:
+  education5:
+  statement:
+
 - name: <a href="https://www.researchgate.net/profile/Song_Liu39">Song Liu| 刘嵩</a>
   photo: Song_Liu.jpg
   group_member: 1
