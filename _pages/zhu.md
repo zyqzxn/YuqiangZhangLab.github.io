@@ -8,8 +8,7 @@ permalink: /zhu/
 
 ### <b>Lei Zhu | 朱雷</b>
 [Download CV ]({{ site.url }}{{ site.baseurl }}/downloads/Lei_Zhu_CV_en.pdf)
-[| 下载个人简历]({{ site.url }}{{ site.baseurl }}/downloads/Lei_Zhu_CV_ch.pdf)  
-*Last updated: Nov. 1, 2020*  
+*Last updated: Oct. 1, 2022*  
 
 <div class="row">
 
@@ -88,63 +87,94 @@ See a full list my publications at [Google Scholar](https://scholar.google.com/c
 
 <b>First or corresponding author (*) | 第一或通讯作者
 
-Sun, W., L. Zhu*, I. De Smedt et al: Global Significant Changes in Formaldehyde (HCHO) Columns Observed from Space at the Early Stage of the COVID-19 Pandemic, Geophys. Res. Lett., 48, 2e020GL091265, 2021.
+Pu, D., Zhu, L. *, De Smedt, I., Li, X., Sun, W., Wang, D., Liu, S., Li, J., Shu, L., Chen, Y., Sun, S., Zuo, X., Fu, W., Xu, P., Yang, X., and Fu, T.-M.: Response of Anthropogenic Volatile Organic Compound Emissions to Urbanization in Asia Probed with TROPOMI and VIIRS Satellite Observations, Geophysical Research Letters, 2022.
 
-Zhu, L.*, G. González Abad, C. R. Nowlan, et al.: Validation of satellite formaldehyde (HCHO) retrievals using observations from 12 aircraft campaigns, Atmos. Chem. Phys., 20, 12329–12345, 2020.
+Shu, L., Zhu, L. *, Bak, J., Zoogman, P., Han, H., Long, X., Bai, B., Liu, S., Wang, D., Sun, W., Pu, D., Chen, Y., Li, X., Sun, S., Li, J., Yang, X., Fu, T.-M.: Improved Ozone Simulation in East Asia via Assimilating Observations from the First Geostationary Air-quality Monitoring Satellite: Insights from an Observing System Simulation Experiment, Atmospheric Environment, 2022.
 
-Zhu, L.*, Jacob, D. J., Eastham, S. D., et al.: Effect of sea salt aerosol on tropospheric bromine chemistry, Atmos. Chem. Phys., 19, 6497-6507, 2019.
+Sun, W., Zhu, L. *, De Smedt, I., Bai, B., Pu, D., Chen, Y., Shu, L., Wang, D., Fu, T.-M., Wang, X., and Yang, Y.: Global Significant Changes in Formaldehyde (HCHO) Columns Observed from Space at the Early Stage of the COVID-19 Pandemic, Geophysical Research Letters, 2021.
 
-Zhu, L.*, L. J. Mickley, D. J. Jacob et al.: Long-term (2005–2014) trends in formaldehyde (HCHO) columns across North America as seen by the OMI satellite instrument: Evidence of changing emissions of volatile organic compounds, Geophys. Res. Lett., 44, 7079–7086, 2017.
+Zhu, L. *, González Abad, G., Nowlan, C. R., Chan Miller, C., Chance, K., Apel, E. C., DiGangi, J. P., Fried, A., Hanisco, T. F., Hornbrook, R. S., Hu, L., Kaiser, J., Keutsch, F. N., Permar, W., St. Clair, J. M., and Wolfe, G. M.: Validation of satellite formaldehyde (HCHO) retrievals using observations from 12 aircraft campaigns, Atmospheric Chemistry and Physics, 2020.
 
-Zhu, L.*, D. J. Jacob, F. N. Keutsch et al.: Formaldehyde (HCHO) as a Hazardous Air Pollutant: Mapping surface air concentrations from satellite and inferring cancer risks in the United States, Environ. Sci. Technol., 51, 5650–5657, 2017.
+Zhu, L. *, Jacob, D. J., Eastham, S. D., Sulprizio, M. P., Wang, X., Sherwen, T., Evans, M. J., Chen, Q., Alexander, B., Koenig, T. K., Volkamer, R., Huey, L. G., Le Breton, M., Bannan, T. J., and Percival, C. J.: Effect of sea salt aerosol on tropospheric bromine chemistry, Atmospheric Chemistry and Physics, 2019.
 
-Zhu, L.*, D. J. Jacob, P. S. Kim et al.: Observing atmospheric formaldehyde (HCHO) from space: validation and intercomparison of six retrievals from four satellites (OMI, GOME2A, GOME2B, OMPS) with SEAC4RS aircraft observations over the southeast US, Atmos. Chem. Phys., 16, 13477–13490, 2016.
+Zhu, L. *, Mickley, L., J., Jacob, D. J., Marais, E. A., Sheng, J., Hu, L., González Abad, G., and Chance, K.: Long-term (2005–2014) trends in formaldehyde (HCHO) columns across North America as seen by the OMI satellite instrument: Evidence of changing emissions of volatile organic compounds, Geophysical Research Letters, 2017.
 
-Zhu, L.*, D. J. Jacob, L. J. Mickley et al.: Anthropogenic emissions of highly reactive volatile organic compounds in eastern Texas inferred from oversampling of satellite (OMI) measurements of HCHO columns, Environ. Res. Lett., 9, 114004, 2014.
+Zhu, L. *, Jacob, D. J., Keutsch, F. N., Mickley, L. J., Scheffe, R., Strum, M., Abad, G. G., Chance, K., Yang, K., Rappengluck, B., Millet, D. B., Baasandorj, M., Jaegle, L., and Shah, V.: Formaldehyde (HCHO) as a Hazardous Air Pollutant: Mapping surface air concentrations from satellite and inferring cancer risks in the United States, Environmental Science & Technology, 2017.
 
-Zhu, L., X. Huang, H. Shi et al.: Transport pathways and potential sources of PM10 in Beijing, Atmos. Environ., 45, 594–604, 2011.
+Zhu, L. *, Jacob, D. J., Kim, P. S., Fisher, J. A., Yu, K., Travis, K. R., Mickley, L. J., Yantosca, R. M., Sulprizio, M. P., De Smedt, I., González Abad, G., Chance, K., Li, C., Ferrare, R., Fried, A., Hair, J. W., Hanisco, T. F., Richter, D., Jo Scarino, A., Walega, J., Weibring, P., and Wolfe, G. M.: Observing atmospheric formaldehyde (HCHO) from space: validation and intercomparison of six retrievals from four satellites (OMI, GOME2A, GOME2B, OMPS) with SEAC4RS aircraft observations over the southeast US, Atmospheric Chemistry and Physics, 2016.
+
+Zhu, L. *, Jacob, D. J., Mickley, L. J., Marais, E. A., Cohan, D. S., Yoshida, Y., Duncan, B. N., González Abad, G., and Chance, K. V.: Anthropogenic emissions of highly reactive volatile organic compounds in eastern Texas inferred from oversampling of satellite (OMI) measurements of HCHO columns, Environmental Research Letters, 2014.
+
+Zhu, L., Huang, X., Shi, H., Cai, X. H., and Song, Y.: Transport pathways and potential sources of PM10 in Beijing, Atmospheric Environment, 2011.
+
 
 <b>Co-authorship | 其他作者
 
-Wang, X. et al. including L. Zhu: Direct links between hygroscopicity and mixing state of ambient aerosols: estimating particle hygroscopicity from their single-particle mass spectra, Atmos. Chem. Phys., 20, 6273–6290, 2020. 
+Wang, X., Fu, T.-M., Zhang, L., Lu, X., Liu, X., Amnuaylojaroen, T., Latif, M. T., Ma, Y., Zhang, L., Feng, X., Zhu, L., Shen, H., Yang, X.: Rapidly changing emissions drove substantial surface and tropospheric ozone increases over Southeast Asia, Geophysical Research Letters, 2022. 
 
-Souri, A. et al. including L. Zhu: An Inversion of NOx and NMVOC Emissions using Satellite Observations during the KORUS-AQ Campaign and Implications for Surface Ozone over East Asia, Atmos. Chem. Phys., 20, 9837–9854, 2020. 
+Souri, A. H., Johnson, M. S., Wolfe, G. M., Crawford, J. H., Fried, A., Wisthaler, A., Brune, W. H., Blake, D. R., Weinheimer, A. J., Verhoelst, T., Compernolle, S., Pinardi, G., Vigouroux, C., Langerock, B., Choi, S., Lamsal, L., Zhu, L., Sun, S., Cohen, R. C., Min, K.-E., Cho, C., Philip, S., Liu, X., and Chance, K.: Characterization of Errors in Satellite-based HCHO/NO2 Tropospheric Column Ratios with Respect to Chemistry, Column to PBL Translation, Spatial Representation, and Retrieval Uncertainties, Atmospheric Chemistry and Physics Discussions, 2022. 
 
-Lu, X. et al. including L. Zhu: Development of the global atmospheric general circulation-chemistry model BCC-GEOS-Chem v1.0: model description and evaluation, Geosci. Model Dev., 13, 3817– 3838, 2020.
+Long, X., Fu, T.-M., Yang, X., Tang, Y., Zheng, Y., Zhu, L., Shen, H., Ye, J., Wang, C., Wang, T., and Li, B.: Efficient Atmospheric Transport of Microplastics over Asia and Adjacent Oceans, Environmental Science & Technology, 2022. 
 
-Chance, K. et al. including L. Zhu: TEMPO Green Paper; Chemistry, physics, and meteorology experiments with the Tropospheric Emissions: Monitoring of Pollution instrument, Proc. SPIE 11151, Sensors, Systems, and Next-Generation Satellites XXIII, 111510B (10 October 2019).
+Howlett, C., González Abad, G., Chan Miller, C., Nowlan, C. R., Ayazpour, Z., and Zhu, L.: The influence of snow cover on Ozone Monitor Instrument formaldehyde observations, Atmósfera, 2022. 
 
-Shen, L., D. J. Jacob, L. Zhu et al.: The 2005–2016 Trends of Formaldehyde Columns Over China Observed by Satellites: Increasing Anthropogenic Emissions of Volatile Organic Compounds and Decreasing Agricultural Fire Emissions, Geophys. Res. Lett., 46, 2019.
+Zhao, T., Mao, J., Simpson, W. R., De Smedt, I., Zhu, L., Hanisco, T. F., Wolfe, G. M., St. Clair, J. M., González Abad, G., Nowlan, C. R., Barletta, B., Meinardi, S., and Blake, D. R.: Source and variability of formaldehyde (HCHO) at northern high latitude: an integrated satellite, aircraft, and model study, Atmospheric Chemistry and Physics, 2022. 
 
-Zhang, Y. et al. including L. Zhu: Satellite-Observed Changes in Mexico's Offshore Gas Flaring Activity Linked to Oil/Gas Regulations, Geophys. Res. Lett., 46, 1879–1888, 2019.
+Xu, P., Li, G., Houlton, B. Z., Ma, L., Ai, D., Zhu, L., Luan, B., Zhai, S., Hu, S., Chen, A., and Zheng, Y.: Role of Organic and Conservation Agriculture in Ammonia Emissions and Crop Productivity in China, Environmental Science & Technology, 2022. 
 
-Wang, X. et al. including L. Zhu: The role of chlorine in tropospheric chemistry, Atmos. Chem. Phys., 19, 3981–4003, 2019.
+Zhai, J., Yang, X., Li, L., Bai, B., Liu, P., Huang, Y., Fu, T. M., Zhu, L., Zeng, Z., Tao, S., Lu, X., Ye, X., Wang, X., Wang, L., and Chen, J.: Absorption Enhancement of Black Carbon Aerosols Constrained by Mixing-State Heterogeneity, Environmental Science & Technology, 2022. 
 
-Song, S. et al. including L. Zhu: Possible heterogeneous chemistry of hydroxymethanesulfonate (HMS) in northern China winter haze, Atmos. Chem. Phys., 19, 1357–1371, 2019.
+Huang, G., Ponder, R., Bond, A., Brim, H., Temeng, A., Naeger, A., Zhu, L.: Impact of traffic reductions on the air quality during the COVID-19 lockdown in the Metro Atlanta Area, United States, Aerosol and Air Quality Research, 2021. 
 
-Sun, K., Zhu, L., K. Cady-Pereira et al.: A physics-based approach to oversample multi-satellite, multispecies observations to a common grid, Atmos. Meas. Tech., 11, 6679–6701, 2018.
+Marais, E., Pandey, A., Van Damme, M., Clarisse, L., Coheur, P.-F., Shephard, M., Cady-Pereira, K., Misselbrook, T., Zhu, L., Luo, G., and Yu, F.: UK ammonia emissions estimated with satellite observations and GEOS-Chem, Journal of Geophysical Research-Atmospheres, 2021.
 
-Kaiser, J., D. J. Jacob, L. Zhu et al.: High-resolution inversion of OMI formaldehyde columns to quantify isoprene emission on ecosystem-relevant scales: application to the southeast US, Atmos. Chem. Phys., 18, 5483–5497, 2018.
+Zhai, S., Wang, X., McConnell, J. R., Geng, L., Cole-Dai, J., Sigl, M., Chellman, N., Sherwen, T., Pound, R., Fujita, K., Hattori, S., Moch, J., M., Zhu, L., Evans, M., Legrand, M., Liu, P., Pasteris, D., Chan, Y.-C., Murray, L. T., Alexander, B.: Anthropogenic Impacts on Tropospheric Reactive Chlorine since the Preindustrial, Geophysical Research Letters, 2021.
 
-Miller, C. C. et al. including L. Zhu: Glyoxal yield from isoprene oxidation and relation to formaldehyde: chemical mechanism, constraints from SENEX aircraft observations, and interpretation of OMI satellite data, Atmos. Chem. Phys., 17, 8725–8738, 2017. 
+Wang, X., Jacob, D. J., Downs, W., Zhai, S., Zhu, L., Shah, V., Holmes, C. D., Sherwen, T., Alexander, B., Evans, M. J., Eastham, S. D., Neuman, J. A., Veres, P., Koenig, T. K., Volkamer, R., Huey, L. G., Bannan, T. J., Percival, C. J., Lee, B. H., and Thornton, J. A: Global tropospheric halogen (Cl, Br, I) chemistry and its impact on oxidants, Atmospheric Chemistry and Physics, 2021.
 
-Travis, K. R. et al. including L. Zhu: Why do models overestimate surface ozone in the Southeast United States?, Atmos. Chem. Phys., 16, 13561–13577, 2016.
+Wang, X., Fu, T.-M., Zhang, L., Cao, H., Zhang, Q., Ma, H., Shen, L., Evans, M. J., Ivatt, P. D., Lu, X., Chen, Y., Zhang, L., Feng, X., Yang, X., Zhu, L., Henze, D. K.: Sensitivities of Ozone Air Pollution in the Beijing-Tianjin-Hebei Area to Local and Upwind Precursor Emissions Using Adjoint Modeling, Environmental Science & Technology, 2021.
 
-Fisher, J. A. et al. including L. Zhu: Organic nitrate chemistry and its implications for nitrogen budgets in an isoprene- and monoterpene-rich atmosphere: constraints from aircraft (SEAC4RS) and ground-based (SOAS) observations in the Southeast US, Atmos. Chem. Phys., 16, 5969–5991, 2016.
+Li, Y., Fu, T.-M., Yu, J., Feng, X., Zhang, L., Chen, J., Boreddy, S., Kawamura, K., Fu, P., Yang, X., Zhu, L., and Zeng, Z.: Impacts of Chemical Degradation on the Global Budget of Atmospheric Levoglucosan and Its Use As a Biomass Burning Tracer, Environmental Science & Technology, 2021.
 
-Yu, K. et al. including L. Zhu: Sensitivity to grid resolution in the ability of a chemical transport model to simulate observed oxidant chemistry under high-isoprene conditions, Atmos. Chem. Phys., 16, 4369–4378, 2016.
+Wang, X., Ye, X., Chen, J., Wang, X., Yang, X., Fu, T.-M., Zhu, L., and Liu, C.: Direct links between hygroscopicity and mixing state of ambient aerosols: estimating particle hygroscopicity from their single-particle mass spectra, Atmospheric Chemistry and Physics, 2020.
 
-Marais, E. A. et al. including L. Zhu: Aqueous-phase mechanism for secondary organic aerosol formation from isoprene: application to the southeast United States and co-benefit of SO2 emission controls, Atmos. Chem. Phys., 16, 1603–1618, 2016.
+Souri, A. H., Nowlan, C. R., González Abad, G., Zhu, L., Blake, D. R., Fried, A., Weinheimer, A. J., Wisthaler, A., Woo, J.-H., Zhang, Q., Chan Miller, C. E., Liu, X., and Chance, K.: An Inversion of NOx and NMVOC Emissions using Satellite Observations during the KORUS-AQ Campaign and Implications for Surface Ozone over East Asia, Atmospheric Chemistry and Physics, 2020. 
 
-Kim, P. S. et al. including L. Zhu: Sources, seasonality, and trends of southeast US aerosol: an integrated analysis of surface, aircraft, and satellite observations with the GEOS-Chem chemical transport model, Atmos. Chem. Phys., 15, 10411–10433, 2015.
+Lu, X., Zhang, L., Wu, T., Long, M. S., Wang, J., Jacob, D. J., Zhang, F., Zhang, J., Eastham, S. D., Hu, L., Zhu, L., Liu, X., and Wei, M.: Development of the global atmospheric general circulation-chemistry model BCC-GEOS-Chem v1.0: model description and evaluation, Geoscientific Model Development, 2020.
 
-Li, M., X. Huang, L. Zhu et al.: Analysis of the transport pathways and potential sources of PM10 in Shanghai based on three methods, Sci. Tot. Environ., 414, 525–534, 2012.
+K. Chance, X. Liu, C. Chan Miller, G.González Abad, G. Huang, C. Nowlan, A. Souri, R. Suleiman, K. Sun, H. Wang, L. Zhu, P. Zoogman, J. Al-Saadi, J.-C. Antuña-Marrero, J. Carr, R. Chatfield, M. Chin, R. Cohen, D. Edwards, J. Fishman, D. Flittner, J. Geddes, M. Grutter, J.R. Herman, D.J. Jacob, S. Janz J. Joiner, J. Kim, N.A. Krotkov, B. Lefer, R.V. Martin, O.L. Mayol-Bracero, A. Naeger, M. Newchurch, G.G. Pfister, K. Pickering, R.B. Pierce, C. Rivera Cárdenas, A. Saiz-Lopez, W. Simpson, E. Spinei, R.J.D. Spurr, J.J. Szykman, O. Torres, and J. Wang: TEMPO Green Paper; Chemistry, physics, and meteorology experiments with the Tropospheric Emissions: Monitoring of Pollution instrument, Proc. SPIE 11151, Sensors, Systems, and Next-Generation Satellites XXIII, 111510B (10 October 2019), 2019.
 
-Huang, X. et al. including L. Zhu: Mercury Emissions from Biomass Burning in China, Environ. Sci. Technol., 45, 5650–5657, 2011. 
+Shen, L., Jacob, D. J., Zhu, L., Zhang, Q., Zheng, B., Sulprizio, M. P., Li, K., Smedt, I. D., Abad, G. G., Cao, H., Fu, T.-M., and Liao, H.: The 2005–2016 Trends of Formaldehyde Columns Over China Observed by Satellites: Increasing Anthropogenic Emissions of Volatile Organic Compounds and Decreasing Agricultural Fire Emissions, Geophysical Research Letters, 2019. 
 
-Song, Y. et al. including L. Zhu: A new emission inventory for nonagricultural open fires in Asia from 2000 to 2009, Environ. Res. Lett., 5, 014014, 2011.
+Zhang, Y., Gautam, R., Zavala‐Araiza, D., Jacob, D. J., Zhang, R., Zhu, L., Sheng, J.-X., and Scarpelli, T.: Satellite-Observed Changes in Mexico’s Offshore Gas Flaring Activity Linked to Oil/Gas Regulations, Geophysical Research Letters, 2019. 
 
-Wang, B., L. Zhu, Z. Gong et al.: Introduction to the methods of parameter estimation for environmental monitoring data set with truncated data below a detection limit, Acta Science Circumstantiae., 29, 1345–1350, 2009.
+Wang, X., Jacob, D. J., Eastham, S. D., Sulprizio, M. P., Zhu, L., Chen, Q., Alexander, B., Sherwen, T., Evans, M. J., Lee, B. H., Haskins, J. D., Lopez-Hilfiker, F. D., Thornton, J. A., Huey, G. L., and Liao, H.: The role of chlorine in tropospheric chemistry, Atmospheric Chemistry and Physics, 2019.
+
+Song, S., Gao, M., Xu, W., Sun, Y., Worsnop, D. R., Jayne, J. T., Zhang, Y., Zhu, L., Li, M., Zhou, Z., Cheng, C., Lv, Y., Wang, Y., Peng, W., Xu, X., Lin, N., Wang, Y., Wang, S., Munger, J. W., Jacob, D. J., and McElroy, M. B.: Possible heterogeneous chemistry of hydroxymethanesulfonate (HMS) in northern China winter haze, Atmospheric Chemistry and Physics, 2019. 
+
+Sun, K., Zhu, L., Cady-Pereira, K., Chan Miller, C., Chance, K., Clarisse, L., Coheur, P.-F., González Abad, G., Huang, G., Liu, X., Van Damme, M., Yang, K., and Zondlo, M.: A physics-based approach to oversample multi-satellite, multispecies observations to a common grid, Atmospheric Measurement Techniques, 2018.
+
+Kaiser, J., Jacob, D. J., Zhu, L., Travis, K. R., Fisher, J. A., González Abad, G., Zhang, L., Zhang, X., Fried, A., Crounse, J. D., St. Clair, J. M., and Wisthaler, A.: High-resolution inversion of OMI formaldehyde columns to quantify isoprene emission on ecosystem-relevant scales: application to the southeast US, Atmospheric Chemistry and Physics, 2018.
+
+Chan Miller, C., Jacob, D. J., Marais, E. A., Yu, K., Travis, K. R., Kim, P. S., Fisher, J. A., Zhu, L., Wolfe, G. M., Hanisco, T. F., Keutsch, F. N., Kaiser, J., Min, K.-E., Brown, S. S., Washenfelder, R. A., González Abad, G., and Chance, K.: Glyoxal yield from isoprene oxidation and relation to formaldehyde: chemical mechanism, constraints from SENEX aircraft observations, and interpretation of OMI satellite data, Atmospheric Chemistry and Physics, 2017.
+
+Travis, K. R., Jacob, D. J., Fisher, J. A., Kim, P. S., Marais, E. A., Zhu, L., Yu, K., Miller, C. C., Yantosca, R. M., Sulprizio, M. P., Thompson, A. M., Wennberg, P. O., Crounse, J. D., St. Clair, J. M., Cohen, R. C., Laughner, J. L., Dibb, J. E., Hall, S. R., Ullmann, K., Wolfe, G. M., Pollack, I. B., Peischl, J., Neuman, J. A., and Zhou, X.: Why do models overestimate surface ozone in the Southeast United States?, Atmospheric Chemistry and Physics, 2016. 
+
+Fisher, J. A., Jacob, D. J., Travis, K. R., Kim, P. S., Marais, E. A., Chan Miller, C., Yu, K., Zhu, L., Yantosca, R. M., Sulprizio, M. P., Mao, J., Wennberg, P. O., Crounse, J. D., Teng, A. P., Nguyen, T. B., St. Clair, J. M., Cohen, R. C., Romer, P., Nault, B. A., Wooldridge, P. J., Jimenez, J. L., Campuzano-Jost, P., Day, D. A., Hu, W., Shepson, P. B., Xiong, F., Blake, D. R., Goldstein, A. H., Misztal, P. K., Hanisco, T. F., Wolfe, G. M., Ryerson, T. B., Wisthaler, A., and Mikoviny, T.: Organic nitrate chemistry and its implications for nitrogen budgets in an isoprene- and monoterpene-rich atmosphere: constraints from aircraft (SEAC4RS) and ground-based (SOAS) observations in the Southeast US, Atmospheric Chemistry and Physics, 2016.
+
+Yu, K., Jacob, D. J., Fisher, J. A., Kim, P. S., Marais, E. A., Miller, C. C., Travis, K. R., Zhu, L., Yantosca, R. M., Sulprizio, M. P., Cohen, R. C., Dibb, J. E., Fried, A., Mikoviny, T., Ryerson, T. B., Wennberg, P. O., and Wisthaler, A.: Sensitivity to grid resolution in the ability of a chemical transport model to simulate observed oxidant chemistry under high-isoprene conditions, Atmospheric Chemistry and Physics, 2016. 
+
+Marais, E. A., Jacob, D. J., Jimenez, J. L., Campuzano-Jost, P., Day, D. A., Hu, W., Krechmer, J., Zhu, L., Kim, P. S., Miller, C. C., Fisher, J. A., Travis, K., Yu, K., Hanisco, T. F., Wolfe, G. M., Arkinson, H. L., Pye, H. O. T., Froyd, K. D., Liao, J., and McNeill, V. F.: Aqueous-phase mechanism for secondary organic aerosol formation from isoprene: application to the southeast United States and co-benefit of SO2 emission controls, Atmospheric Chemistry and Physics, 2016. 
+
+Kim, P. S., Jacob, D. J., Fisher, J. A., Travis, K., Yu, K., Zhu, L., Yantosca, R. M., Sulprizio, M. P., Jimenez, J. L., Campuzano-Jost, P., Froyd, K. D., Liao, J., Hair, J. W., Fenn, M. A., Butler, C. F., Wagner, N. L., Gordon, T. D., Welti, A., Wennberg, P. O., Crounse, J. D., St. Clair, J. M., Teng, A. P., Millet, D. B., Schwarz, J. P., Markovic, M. Z., and Perring, A. E.: Sources, seasonality, and trends of southeast US aerosol: an integrated analysis of surface, aircraft, and satellite observations with the GEOS-Chem chemical transport model, Atmospheric Chemistry and Physics, 2015. 
+
+Li, M., Huang, X., Zhu, L., Li, J., Song, Y., Cai, X., and Xie S.: Analysis of the transport pathways and potential sources of PM10 in Shanghai based on three methods, Science of the Total Environment, 2012.
+
+Huang, X., Li, M., Friedli, H. R. Song, Y., Chang, D., and Zhu, L.: Mercury Emissions from Biomass Burning in China, Environmental Science & Technology, 2011. 
+
+Song, Y., Chang, D., Liu, B., Miao, W., Zhu, L., and Zhang, Y.: A new emission inventory for nonagricultural open fires in Asia from 2000 to 2009, Environmental Research Letters, 2010.
+
+Wang, B., Zhu, L., Gong, Z., Wang, R., and Tao, S.: Introduction to the methods of parameter estimation for environmental monitoring data set with truncated data below a detection limit, Acta Science Circumstantiae, 2009.
 
 </div>
 </div>
