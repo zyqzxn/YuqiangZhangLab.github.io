@@ -173,7 +173,7 @@ See a full list my publications at [Google Scholar](https://scholar.google.com/c
 
 <b>5</b> Li, M., Huang, X., <b>Zhu, L.</b>, Li, J., Song, Y., Cai, X., and Xie S.: Analysis of the transport pathways and potential sources of PM10 in Shanghai based on three methods, <u><em>Science of the Total Environment</em></u>, 2012.
 
-<b>4</b> Huang, X., Li, M., Friedli, H. R. Song, Y., Chang, D., and <b>Zhu, L.</b>: Mercury Emissions from Biomass Burning in China, <u><em>Environmental Science & Technology<</em></u>, 2011. 
+<b>4</b> Huang, X., Li, M., Friedli, H. R. Song, Y., Chang, D., and <b>Zhu, L.</b>: Mercury Emissions from Biomass Burning in China, <u><em>Environmental Science & Technology</em></u>, 2011. 
 
 <b>3</b> <b>Zhu, L. </b>, Huang, X., Shi, H., Cai, X. H., and Song, Y.: Transport pathways and potential sources of PM10 in Beijing, <u><em>Atmospheric Environment</em></u>, 2011.
 
