@@ -7,7 +7,7 @@ permalink: /zhu/
 ---
 
 ### <b>Lei Zhu | 朱雷</b>
-[Download CV ]({{ site.url }}{{ site.baseurl }}/downloads/Lei_Zhu_CV_en.pdf)
+[Download CV ]({{ site.url }}{{ site.baseurl }}/downloads/Lei_Zhu_CV_en.pdf)   
 *Last updated: Oct. 1, 2022*  
 
 <div class="row">
@@ -83,11 +83,11 @@ Atmosphere-Land-Ocean Interactions
 
 #### <b>PUBLICATIONS | 发表论文</b>
 
-See a full list my publications at [Google Scholar](https://scholar.google.com/citations?user=cJCsQjoAAAAJ&hl) or [ORCID](https://orcid.org/0000-0002-3919-3095)
+See a full list my publications at [Google Scholar](https://scholar.google.com/citations?user=cJCsQjoAAAAJ&hl), [ORCID](https://orcid.org/0000-0002-3919-3095), or [ResearchGate](https://www.researchgate.net/profile/Lei-Zhu-90).
 
 <b>First or corresponding author (*) | 第一或通讯作者
 
-Pu, D., Zhu, L. *, De Smedt, I., Li, X., Sun, W., Wang, D., Liu, S., Li, J., Shu, L., Chen, Y., Sun, S., Zuo, X., Fu, W., Xu, P., Yang, X., and Fu, T.-M.: Response of Anthropogenic Volatile Organic Compound Emissions to Urbanization in Asia Probed with TROPOMI and VIIRS Satellite Observations, Geophysical Research Letters, 2022.
+Pu, D., <b>Zhu, L. *</b>, De Smedt, I., Li, X., Sun, W., Wang, D., Liu, S., Li, J., Shu, L., Chen, Y., Sun, S., Zuo, X., Fu, W., Xu, P., Yang, X., and Fu, T.-M.: Response of Anthropogenic Volatile Organic Compound Emissions to Urbanization in Asia Probed with TROPOMI and VIIRS Satellite Observations, Geophysical Research Letters, 2022.
 
 Shu, L., Zhu, L. *, Bak, J., Zoogman, P., Han, H., Long, X., Bai, B., Liu, S., Wang, D., Sun, W., Pu, D., Chen, Y., Li, X., Sun, S., Li, J., Yang, X., Fu, T.-M.: Improved Ozone Simulation in East Asia via Assimilating Observations from the First Geostationary Air-quality Monitoring Satellite: Insights from an Observing System Simulation Experiment, Atmospheric Environment, 2022.
 
