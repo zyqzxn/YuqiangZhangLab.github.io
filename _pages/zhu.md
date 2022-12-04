@@ -189,6 +189,8 @@ See a full list my publications at [Google Scholar](https://scholar.google.com/c
 
 #### <b>SELECTED INVITED SEMINARS | 部分受邀讲座</b>
 
+Satellite remote sensing of trace gases and applications for air quality studies, Atmospheric Environmental Remote Sensing Society (AERSS) Webinar Series, <u>June 25, 2022</u>, online.
+
 卫星遥感在空气质量监测中的应用, 中国环境监测总站培训班, <u>July 6, 2021</u>, online.
 
 Satellite remote sensing of trace gases: principles, methods, and applications for air quality studies, <i>Atmospheric Chemistry Forum</i>, <u>November 30, 2019</u>, online, [slides](https://app.box.com/s/8oa37qyp4ax9bbeqk6ylq36v8rynmurb), [video](https://drive.google.com/file/d/1LdokMmfHXWG-tDpVzMeca0aVp-AcCjSR/view?usp=sharing).
