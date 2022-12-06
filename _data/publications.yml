@@ -1,5 +1,5 @@
 ﻿- title: "Improving Ozone Simulations in Asia Using GEMS Geostationary Satellite Observations in Multisource Data Assimilation"
-  authors: 	<b>Shu, L.</b>, <b>Zhu, L. *</b>, Bak, J., Zoogman, P., Han, H., <b>Liu, S.</b>, <b>Li, X.</b>, <b>Sun, S.</b>, <b>Li, J.</b>, <b>Chen, Y.</b>, <b>Pu, D.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, Yang, X., Fu, T.-M.
+  authors: 	<b>Shu, L.</b>, <b>Zhu, L. *</b>, Bak, J., Zoogman, P., Han, H., <b>Liu, S.</b>, <b>Li, X.</b>, <b>Sun, S.</b>, <b>Li, J.</b>, <b>Chen, Y.</b>, <b>Pu, D.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, Yang, X., and Fu, T.-M.
   journal:  submitted
   url: 
   display: 
@@ -19,8 +19,29 @@
   display: 
   year: 2022
 
+- title: "Global Formaldehyde Products from the Ozone Mapping and Profiler Suite (OMPS) Nadir Mappers on Suomi NPP and NOAA-20"
+  authors: Nowlan, C. R., González Abad, G., Kwon, H.-A., Ayazpour, Z., Chan Miller, C., Chance, K., Chong, H., Liu, X., O'Sullivan, E., Wang, H., <b>Zhu, L.</b>, De Smedt, I., Jaross, G., Seftor, C., and Sun, K.
+  journal:  Earth and Space Science
+  url: 
+  display: Link
+  year: 2022
+
+- title: "Seasonal variation of driving factors of ambient PM2.5 oxidative potential in Shenzhen, China"
+  authors: Xing, C., Wang, Y., Yang, X., Zeng, Y., Zhai, J., Cai, B., Zhang, A., Fu, T.-M., <b>Zhu, L.</b>, Li, Y., Wang, X., and Zhang, Y.
+  journal:  Science of the Total Environment
+  url: 
+  display: Link
+  year: 2022
+
+- title: "Direct observation of the transitional stage of mixing-state-related absorption enhancement for atmospheric black carbon"
+  authors: Zhai, J., Yang, X., Li, L., Ye, X., Chen, J., Fu, T.-M., <b>Zhu, L.</b>, Shen, H., Ye, J., Wang, C., and Tao, S. 
+  journal:  Geophysical Research Letters
+  url: 
+  display: Link
+  year: 2022
+
 - title: "Rapidly changing emissions drove substantial surface and tropospheric ozone increases over Southeast Asia"
-  authors: Wang, X., Fu, T.-M., Zhang, L., Lu, X., Liu, X., Amnuaylojaroen, T., Latif, M. T., Ma, Y., Zhang, L., Feng, X., <b>Zhu, L.</b>., Shen, H., Yang, X.
+  authors: Wang, X., Fu, T.-M., Zhang, L., Lu, X., Liu, X., Amnuaylojaroen, T., Latif, M. T., Ma, Y., Zhang, L., Feng, X., <b>Zhu, L.</b>., Shen, H., and Yang, X.
   journal:  Geophysical Research Letters
   url: https://doi.org/10.1029/2022GL100223
   display: Link
