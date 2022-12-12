@@ -1,11 +1,4 @@
-﻿- title: "Improving Ozone Simulations in Asia Using GEMS Geostationary Satellite Observations in Multisource Data Assimilation"
-  authors: 	<b>Shu, L.</b>, <b>Zhu, L. *</b>, Bak, J., Zoogman, P., Han, H., <b>Liu, S.</b>, <b>Li, X.</b>, <b>Sun, S.</b>, <b>Li, J.</b>, <b>Chen, Y.</b>, <b>Pu, D.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, Yang, X., and Fu, T.-M.
-  journal:  submitted
-  url: 
-  display: 
-  year: 2022
-
-- title: "Global Temperature Dependency of Satellite Formaldehyde (HCHO) Columns: Implications to Isoprene Emissions"
+﻿- title: "Global Temperature Dependency of Satellite Formaldehyde (HCHO) Columns: Implications to Isoprene Emissions"
   authors: 	<b>Li, X.</b>, <b>Zhu, L. *</b>, De Smedt, I., <b>Sun, W.</b>, <b>Shu, L.</b>, <b>Wang, D.</b>, <b>Liu, S.</b>, <b>Chen, Y.</b>, <b>Pu, D.</b>, <b>Li, J.</b>, <b>Sun, S.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, Yang, X., and Fu, T.-M.
   journal:  submitted
   url: 
@@ -17,6 +10,13 @@
   journal:  submitted
   url: 
   display: 
+  year: 2022
+
+- title: "Improving Ozone Simulations in Asia via Multisource Data Assimilation: Results from an Observing System Simulation Experiment with GEMS Geostationary Satellite Observations"
+  authors: 	<b>Shu, L.</b>, <b>Zhu, L. *</b>, Bak, J., Zoogman, P., Han, H., <b>Liu, S.</b>, <b>Li, X.</b>, <b>Sun, S.</b>, <b>Li, J.</b>, <b>Chen, Y.</b>, <b>Pu, D.</b>, <b>Zuo, X.</b>, <b>Fu, W.</b>, Yang, X., and Fu, T.-M.
+  journal:  Atmospheric Chemistry and Physics Discussions
+  url: https://acp.copernicus.org/preprints/acp-2022-744
+  display: Link
   year: 2022
 
 - title: "Global Formaldehyde Products from the Ozone Mapping and Profiler Suite (OMPS) Nadir Mappers on Suomi NPP and NOAA-20"
