@@ -7,7 +7,7 @@ permalink: /
 ---
 
 **Welcome to the YuqiangZhang Research Group at SDU**. 
-Our goal is to better understand processes governing the distributions of atmospheric species, and their implications for air quality, public health, and climate.
+Our research interests are broadly at the interactions between air quality, climate change and human health, urban air pollution, and depositions as well as ecosystem effects, by using global and regional chemical transport models (CAM-Chem, GEOS-Chem, CMAQ, & Coupled WRF-CMAQ).
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
