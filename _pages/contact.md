@@ -25,7 +25,7 @@ Yuqiang.Zhang@sdu.edu.cn
 Shandong University, Environment Research Institute
 72 Binhai Road, Jimo, Qingdao, P.R. China
 
-For more information, please see [map and direction](https://ese.sustech.edu.cn/footer/lxwm/id-123.html?locale=en_US).
+For more information, please see [map and direction](https://map.baidu.com/poi/%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6(%E9%9D%92%E5%B2%9B%E6%A0%A1%E5%8C%BA)/@13435826.591902876,4326002.115493624,15.77z?uid=533a74c36e163bc3b23c81fc&ugc_type=3&ugc_ver=1&device_ratio=2&compat=1&pcevaname=pc4.1&querytype=detailConInfo&da_src=shareurl).
 </div>
 
 <div class="col-sm-6 clearfix">
@@ -44,7 +44,7 @@ Yuqiang.Zhang@sdu.edu.cn
 **地址：** 
 山东省青岛市即墨区滨海路72号山东大学环境研究院（邮编 266237）
 
-详细路线请参考[地图与指示](https://ese.sustech.edu.cn/footer/lxwm/id-123.html?locale=zh_CN)。
+详细路线请参考[地图与指示](https://map.baidu.com/poi/%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6(%E9%9D%92%E5%B2%9B%E6%A0%A1%E5%8C%BA)/@13435826.591902876,4326002.115493624,15.77z?uid=533a74c36e163bc3b23c81fc&ugc_type=3&ugc_ver=1&device_ratio=2&compat=1&pcevaname=pc4.1&querytype=detailConInfo&da_src=shareurl)。
 
 </div>
 
