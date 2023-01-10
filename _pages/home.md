@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**Welcome to the Atmospheric Chemistry Modeling & Remote Sensing Research Group @ SUSTech**. 
+**Welcome to the YuqiangZhang Research Group at SDU**. 
 Our goal is to better understand processes governing the distributions of atmospheric species, and their implications for air quality, public health, and climate.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
