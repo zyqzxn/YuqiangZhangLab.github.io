@@ -13,17 +13,17 @@ permalink: /contact/
 ### Contact Us
 
 **Email:** 
-zhul3@sustech.edu.cn
+Yuqiang.Zhang@sdu.edu.cn
 
 **Tel:** 
-+86-755-88018876
++86-xxxxxx
 
 **Fax:** 
-+86-755-88010822
++86-xxxxxx
 
 **Address:**
-CoE North 907,
-1088 Xueyuan Ave., Shenzhen, Guangdong, China, 518055
+Shandong University, Environment Research Institute
+72 Binhai Road, Jimo, Qingdao, P.R. China
 
 For more information, please see [map and direction](https://ese.sustech.edu.cn/footer/lxwm/id-123.html?locale=en_US).
 </div>
@@ -33,7 +33,7 @@ For more information, please see [map and direction](https://ese.sustech.edu.cn/
 ### 联系我们
 
 **邮箱：**
-zhul3@sustech.edu.cn
+Yuqiang.Zhang@sdu.edu.cn
 
 **电话：** 
 0755-88018876
@@ -42,7 +42,7 @@ zhul3@sustech.edu.cn
 0755-88010822
 
 **地址：** 
-广东省深圳市南山区学苑大道1088号南方科技大学工学院北楼907（邮编 518055）
+山东省青岛市即墨区滨海路72号山东大学环境研究院（邮编 266237）
 
 详细路线请参考[地图与指示](https://ese.sustech.edu.cn/footer/lxwm/id-123.html?locale=zh_CN)。
 
