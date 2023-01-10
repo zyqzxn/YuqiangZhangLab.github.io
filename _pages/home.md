@@ -1,7 +1,7 @@
 ---
-title: "Atmospheric Chemistry Modeling & Remote Sensing | 大气化学模式与遥感"
+title: "YuqiangZhang Lab | 张玉强的课题组"
 layout: homelay
-excerpt: "Atmospheric Chemistry Modeling & Remote Sensing Research Group at SUSTech."
+excerpt: "YuqiangZhang Research Group at SDU."
 sitemap: false
 permalink: /
 ---
