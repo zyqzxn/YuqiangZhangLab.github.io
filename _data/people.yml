@@ -68,7 +68,7 @@
 - name: "This could be you !"
   photo: wny.jpg
   group_member: 0  
-  info: See <a href="{{ site.url }}{{ site.baseurl }}/OpeningS">Openings</a> for more information
+  info: See <a href="{{ site.url }}{{ site.baseurl }}/openings">Openings</a> for more information
   email: zhul3@sustech.edu.cn
   number_educ: 0
   education1:
