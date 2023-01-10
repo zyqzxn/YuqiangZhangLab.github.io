@@ -48,4 +48,4 @@ We are part of the [Environment Research Institute](https://www.hj.sdu.edu.cn/in
 We are seeking passionate Ph.D., Master, and Undergraduate students to join the group.
 Please check out our [Openings]({{ site.url }}{{ site.baseurl }}/openings).
 
-<p style="text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/images/sustech_logo.png" style="width: 240px">
+<p style="text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/images/sdulogo.png" style="width: 240px">
