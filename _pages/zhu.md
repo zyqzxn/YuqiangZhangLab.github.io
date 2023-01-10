@@ -6,9 +6,9 @@ sitemap: false
 permalink: /zhu/
 ---
 
-### <b>Lei Zhu | 朱雷</b>
-[Download CV ]({{ site.url }}{{ site.baseurl }}/downloads/Lei_Zhu_CV_en.pdf)   
-*Last updated: Oct. 1, 2022*  
+### <b>Yuqiang Zhang | 张玉强</b>
+[Download CV ]({{ site.url }}{{ site.baseurl }}/downloads/ZYQCV.pdf)   
+*Last updated: Sept. 3, 2022*  
 
 <div class="row">
 
@@ -17,22 +17,22 @@ permalink: /zhu/
 #### <b>RESEARCH AREAS</b>  
 
 Atmospheric Chemistry  
-Remote Sensing of Trace Gases  
-Data Assimilation  
-Air Quality  
-Atmosphere-Land-Ocean Interactions
+Machine Learning
+Data Science
+Interactions between climate change, air pollution and human health
 
 #### <b>PROFESSIONAL EXPERIENCE</b>
 
-2019.12– Assistant Professor, Southern University of Science and Technology  
-2019.08–2019.12 Research Scholar, Harvard-Smithsonian Center for Astrophysics  
-2017.01–2019.07 Postdoc, Harvard University
+2022.10– Professor, Shandong University  
+2021.03–2022.07 Research Scientist, University of North Carolina at Chapel Hill  
+2018.02–2021.02 Research Scientist, Duke University  
+2016.03–2018.02 Modeling Development and Application, U.S. EPA
 
 #### <b>EDUCATION</b>
 
-2016.12 PhD in Engineering Science, Harvard University  
-2011.07 MS in Environmental Science, Peking University  
-2008.06 BS in Environmental Science, Nankai University
+2016.01 PhD in Environmental Science and Engineering, University of North Carolina at Chapel Hill  
+2011.07 MS in Environmental Science and Engineering, Tsinghua University  
+2008.07 BS in Environmental Science and Engineering, Shandong University
 
 #### <b>SLECTED HONORS</b>
 
