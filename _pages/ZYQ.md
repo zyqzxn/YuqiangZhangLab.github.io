@@ -23,7 +23,7 @@ Interactions between climate change, air pollution and human health
 
 #### <b>PROFESSIONAL EXPERIENCE</b>
 
-2022.10– Professor, Shandong University  
+2022.10–        Professor, Shandong University  
 2021.03–2022.07 Research Scientist, University of North Carolina at Chapel Hill  
 2018.02–2021.02 Research Scientist, Duke University  
 2016.03–2018.02 Modeling Development and Application, U.S. EPA
@@ -49,22 +49,22 @@ Interactions between climate change, air pollution and human health
 
 ####  <b>研究领域</b>
 大气化学  
-痕量气体遥感  
-数据同化  
-空气质量  
-大气-地面-海洋交互作用
+机器学习
+大数据
+空气污染、气候变化以及人类健康的相互作用
 
 #### <b>职业经历</b>
 
-2019.12起 南方科技大学 助理教授  
-2019.08至2019.12 哈佛-史密松天体物理中心 研究员  
-2017.01至2019.07 哈佛大学 博士后  
+2022.10–        教授 山东大学  
+2021.03–2022.07 研究员 美国北卡罗莱那州大学教堂山分校
+2018.02–2021.02 研究员 杜克大学  
+2016.03–2018.02 模型应用与开发 美国环保署 
 
 #### <b>教育背景</b>
 
-2016.12 博士 工程科学 哈佛大学  
-2011.07 硕士 环境科学 北京大学  
-2008.06 本科 环境科学 南开大学  
+2016.01 博士 环境科学与工程 美国北卡罗莱那州大学教堂山分校  
+2011.07 硕士 环境科学与工程 清华大学  
+2008.07 学士 环境科学与工程 山东大学 
 
 #### <b>部分所获荣誉</b>
 
