@@ -17,8 +17,8 @@ permalink: /ZYQ/
 #### <b>RESEARCH AREAS</b>  
 
 Atmospheric Chemistry  
-Machine Learning
-Data Science
+Machine Learning  
+Data Science  
 Interactions between climate change, air pollution and human health
 
 #### <b>PROFESSIONAL EXPERIENCE</b>
@@ -49,8 +49,8 @@ Interactions between climate change, air pollution and human health
 
 ####  <b>研究领域</b>
 大气化学  
-机器学习
-大数据
+机器学习  
+大数据  
 空气污染、气候变化以及人类健康的相互作用
 
 #### <b>职业经历</b>
