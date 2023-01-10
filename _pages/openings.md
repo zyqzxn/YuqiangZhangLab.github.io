@@ -11,7 +11,7 @@ permalink: /openings/
 
 #### <b>Postdocs</b>
 
-We seek postdocs with expertise in Atmospheric Chemistry Modeling and/or Remote Sensing.
+We seek postdocs with expertise in Atmospheric Chemistry Modeling and/or Remote Sensing and/or Machine Learning.
 For more details, please check [the post]({{ site.url }}{{ site.baseurl }}/downloads/Postdoc.pdf).
 
 </div>
@@ -20,7 +20,7 @@ For more details, please check [the post]({{ site.url }}{{ site.baseurl }}/downl
 
 #### <b>博士后</b>
 
-研究组目前招聘有大气化学模式或遥感背景的博士后。  
+研究组目前招聘有大气化学模式或遥感或机器学习背景的博士后。  
 更多细节，请参见[招聘广告]({{ site.url }}{{ site.baseurl }}/downloads/Postdoc.pdf)。  
 
 </div>
@@ -60,14 +60,14 @@ In the email, please
 
 #### <b>Undergraduate students</b>
 
-We welcome undergraduates at SUSTech to participate in our research.
+We welcome undergraduates at SDU to participate in our research.
 If you are interested, please [contact us]({{ site.url }}{{ site.baseurl }}/contact/).
 
 </div>
 
 <div class="col-sm-6 clearfix">
 #### <b>本科生</b>
-欢迎南科大本科生参与我们的研究。  
+欢迎山东大学本科生参与我们的研究。  
 若有兴趣请[联系我们]({{ site.url }}{{ site.baseurl }}/contact/)。
 
 </div>
