@@ -1,9 +1,9 @@
 ﻿---
-title: "Lei Zhu | 朱雷"
+title: "Yuqiang Zhang | 张玉强"
 layout: gridlay
-excerpt: "Lei Zhu"
+excerpt: "Yuqiang Zhang"
 sitemap: false
-permalink: /zhu/
+permalink: /ZYQ/
 ---
 
 ### <b>Yuqiang Zhang | 张玉强</b>
