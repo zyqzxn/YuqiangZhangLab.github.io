@@ -1,12 +1,12 @@
 ---
-title: "YuqiangZhang Lab | 张玉强的课题组"
+title: "CHANGE Group | 张玉强课题组"
 layout: homelay
-excerpt: "YuqiangZhang Research Group at SDU."
+excerpt: "Climate Health and Air quality for Next GEneration Group at SDU."
 sitemap: false
 permalink: /
 ---
 
-**Welcome to the YuqiangZhang Research Group at SDU**. 
+**Welcome to the Climate Health and Air quality for Next GEneration (CHANGE) Group at SDU**. 
 Our research interests are broadly at the interactions between air quality, climate change and human health, urban air pollution, and depositions as well as ecosystem effects, by using global and regional chemical transport models (CAM-Chem, GEOS-Chem, CMAQ, & Coupled WRF-CMAQ).
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
