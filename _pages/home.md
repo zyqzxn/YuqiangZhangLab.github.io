@@ -40,7 +40,7 @@ Our research interests are broadly at the interactions between air quality, clim
   </a>
 </div>
 
-To this end, our [research]({{ site.url }}{{ site.baseurl }}/research)  global and regional chemical transport models, machine learning, and data assimilation techniques. We maintain good cooperative relations with many well-known universities at home and abroad, and strongly recommend students and postdocs to go to overseas universities for exchange and cooperation.
+Our [research]({{ site.url }}{{ site.baseurl }}/research) combines global and regional chemical transport models, machine learning, and high precision satellite inversion. We maintain good cooperative relations with many well-known universities at home and abroad, and strongly recommend students and postdocs to go to overseas universities for exchange and cooperation.
 
 We are part of the [Environment Research Institute](https://www.hj.sdu.edu.cn/index.htm) at [SDU](https://www.sdu.edu.cn/), a key comprehensive university with a long and honorable history, a broad variety of disciplines, strong academic strength and distinctive characteristics, which has had a great influence both at home and abroad.
 
