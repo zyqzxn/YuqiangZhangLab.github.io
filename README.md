@@ -1,5 +1,5 @@
-# Atmospheric Chemistry Modeling & Remote Sensing Group Website
+# Climate Health and Air quality for Next GEneration (CHANGE) Group Website
 
-This is the website of our academic research group at SUSTech. The website is made with the template from http://www.allanlab.org, and powered by Jekyll. Please feel free to clone the repository and customize it to make your own research website.
+This is the website of our academic research group at Shandong University. The website is made with the template from http://www.allanlab.org, and powered by Jekyll. Please feel free to clone the repository and customize it to make your own research website.
 
-Copyright (2019-present) Atmospheric Chemistry Modeling & Remote Sensing Group @ SUSTech. Code released under the MIT License.
+Copyright (2019-present) Climate Health and Air quality for Next GEneration (CHANGE) Group @ SDU. Code released under the MIT License.
