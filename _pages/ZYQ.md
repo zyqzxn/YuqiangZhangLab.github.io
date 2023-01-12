@@ -86,11 +86,11 @@ Interactions between climate change, air pollution and human health
 
 #### <b>学术兼职</b>
 
-Frontier Frontiers in Environmental Science 专刊 （Atmosphere and Climate）特邀编辑\<br>
-Atmosphere专刊（Air Quality Management）特邀编辑 
-Atmosphere专刊（Monitoring and Assessment of Air Pollution—Global Diversity in Sources and Impacts）特邀编辑
-美国海洋和大气管理局（NOAA）项目评审专家 
-美国国家航空航天局博士研究生以及博士后奖学金评审专家 
+Frontier Frontiers in Environmental Science 专刊 （Atmosphere and Climate）特邀编辑  
+Atmosphere专刊（Air Quality Management）特邀编辑  
+Atmosphere专刊（Monitoring and Assessment of Air Pollution—Global Diversity in Sources and Impacts）特邀编辑  
+美国海洋和大气管理局（NOAA）项目评审专家  
+美国国家航空航天局博士研究生以及博士后奖学金评审专家  
 
 </div>
 </div>
