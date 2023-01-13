@@ -13,15 +13,13 @@ permalink: /research/
 </div>
 
 <div class="col-sm-7 clearfix">
-<h3>Modeling of atmospheric chemistry</h3>  
+<h3>New study examining the increased mortality from night heat excess due to climate change</h3>  
 
-Atmospheric chemistry modeling is a vibrant field, integrating cutting-edge knowledge from laboratory, theory, and field studies.
-Modeling plays a crucial role in identifying key processes governing the distributions of atmospheric species at various spatial and temporal scales.
-Modeling is also central to assessing impacts of atmospheric chemistry on air quality, public health, and climate.
+Excessively hot nights caused by climate change are predicted to increase the mortality rate around the world by up to 60% by the end of the century, according to a new international study that features research from the UNC Gillings School of Global Public Health.
 
-We are interested in (1) using atmospheric chemistry models to interpret observations from aircraft, ground networks, satellites, and other platforms,
-(2) applying modeling technique to atmospheric chemistry problems of pressing environmental concern, and
-(3) developing chemical data assimilation tools to manage the massive flow of satellite data.
+Ambient heat during the night may interrupt the normal physiology of sleep. Less sleep can then lead to immune system damage and a higher risk of cardiovascular disease, chronic illnesses, inflammation and mental health conditions. Results show that the average intensity of hot night events will nearly double by 2090, from 20.4℃ (68.7℉) to 39.7℃ (103.5℉) across 28 cities from east Asia, increasing the burden of disease due to excessive heat that disrupts normal sleeping patterns.
+
+This is the first study to estimate the impact of hotter nights on climate change-related mortality risk. The findings show that the burden of mortality could be significantly higher than estimated by average daily temperature increase, suggesting that warming from climate change could have a troubling impact, even under restrictions from the Paris Climate Agreement.
   
 </div>
 </div>
@@ -33,16 +31,14 @@ We are interested in (1) using atmospheric chemistry models to interpret observa
 </div>
 
 <div class="col-sm-7 clearfix">
-<h3>Observing trace gases from space</h3>  
-Satellites continuously measure trace gases (<i>e.g.</i>, ozone, SO<sub>2</sub>, NO<sub>2</sub>, 
-HCHO, CHOCHO, BrO, CO<sub>2</sub>, NH<sub>3</sub>, and CH<sub>4</sub>) on a global scale. Observations from space have been used extensively to monitor air quality, 
-to quantify health effects, to constrain emission inventories, and to understand atmospheric chemistry processes.
+<h3>New publications on environmental justice from climate warming</h3>  
+Extreme heat events could become more intense and frequent both locally and globally, increasing the risk of harm to health and global economies, according to a new study that includes research from the UNC Gillings School of Global Public Health.
 
-We are working on (1) exploiting satellite trace gas retrievals for air quality applications,
-(2) validating and intercomparing satellite retrievals,
-(3) developing and updating satellite trace gas retrieval algorithms, and
-(4) providing operational satellite trace gas products.  
-  
+This new research suggests that the burden of heat-induced labor loss would be unevenly distributed among employment industries, creating environmental justice concerns. These impacts could be significantly reduced with careful planning and urban adaptation strategies that include the adoption of things like green roofs and cool walls.
+
+The new study, published today in Nature Communications, investigates the spatial patterns of climate change risks through 2050 among urban areas and also discusses adaptation strategies to mitigate inequity. The authors combined hourly high-resolution heat stress data together with exposure-response functions between heat exposure and labor productivity to examine this inequality.
+
+These high-resolution heat stress data were dynamically downscaled from two different global climate scenarios into a finer scale through a state-of-the-art regional climate model coupled with an urban canopy model.
 </div>
 </div>
 
