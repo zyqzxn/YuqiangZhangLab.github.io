@@ -27,7 +27,7 @@ This is the first study to estimate the impact of hotter nights on climate chang
 <div class="row">
 <div class="col-sm-5 clearfix">
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/satellite2.png){: style="width: 400px; float: left; border: 10px; margin-top: 40px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/NC.png){: style="width: 400px; height: 400px; float: left; border: 10px; margin-top: 40px"}
 </div>
 
 <div class="col-sm-7 clearfix">
