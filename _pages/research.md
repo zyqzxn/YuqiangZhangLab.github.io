@@ -9,7 +9,7 @@ permalink: /research/
 <div class="row">
 <div class="col-sm-5 clearfix">
 
-![]({{ site.url }}{{ site.baseurl }}/images/newspic/LANCET.jpg){: style="width: 400px; float: left; border: 10px; margin-top: 40px"}
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/LANCET.jpg){: style="width: 400px; height: 400px; float: left; border: 10px; margin-top: 40px"}
 </div>
 
 <div class="col-sm-7 clearfix">
